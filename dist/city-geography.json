@@ -1,0 +1,1046 @@
+{
+  "version": "0.5.0",
+  "reviewedAt": "2026-09-16",
+  "frame": {
+    "x": 0,
+    "y": 90,
+    "width": 1200,
+    "height": 504
+  },
+  "policy": "大陆底图是参考2020初探相对布局的绘卷。相对方位点仅表达来源支持的区域方向，未确认位置的地点保留地区索引；所有锚点均非官方测绘坐标。",
+  "limitations": [
+    "2020国家标签图并无城邦坐标，后续世界设定与初探构图可能不一致。",
+    "relative不表示坐标获官方确认；region-only的labelPoint只用于可点击目录排版。",
+    "部分镜像无新城市段落，这些条目仅做证据充分性审计，不冒充已核实其地理描述。"
+  ],
+  "cities": [
+    {
+      "name": "图里卡姆",
+      "region": "kjerag",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "既有资料记载谢拉格南部希瓦艾什领地；本次镜像未提供该段落，方位待原文复核。 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 谢拉格",
+          "url": "https://zh.moegirl.org.cn/谢拉格",
+          "accessVia": "https://moegirl.icu/谢拉格",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        },
+        {
+          "title": "百度百科 · 谢拉格 · 地理特征",
+          "url": "https://bkso.baidu.com/item/谢拉格/61560898"
+        }
+      ],
+      "display": "directory",
+      "labelPoint": null
+    },
+    {
+      "name": "喀兰圣山",
+      "region": "kjerag",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "宗教圣地，蔓珠院所在地；未核得地区内方位，仅以所属地区索引显示。 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 谢拉格",
+          "url": "https://zh.moegirl.org.cn/谢拉格",
+          "accessVia": "https://moegirl.icu/谢拉格",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "region-index",
+      "labelPoint": [
+        444.89,
+        270.2
+      ]
+    },
+    {
+      "name": "银心湖",
+      "region": "kjerag",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "临近喀兰圣山的冰封湖泊 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 谢拉格",
+          "url": "https://zh.moegirl.org.cn/谢拉格",
+          "accessVia": "https://moegirl.icu/谢拉格",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "directory",
+      "labelPoint": null
+    },
+    {
+      "name": "伦蒂尼姆",
+      "region": "victoria",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "维多利亚首都；现有材料不足以确定其大陆图内的精确位置。 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 维多利亚(明日方舟)",
+          "url": "https://zh.moegirl.org.cn/维多利亚(明日方舟)",
+          "accessVia": "https://moegirl.icu/维多利亚(明日方舟)",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "region-index",
+      "labelPoint": [
+        564.77,
+        321.44
+      ]
+    },
+    {
+      "name": "小丘郡",
+      "region": "victoria",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "维多利亚塔拉地区，邻近康纳郡；相对伦蒂尼姆的罗盘方向未核实。 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 维多利亚(明日方舟)",
+          "url": "https://zh.moegirl.org.cn/维多利亚(明日方舟)",
+          "accessVia": "https://moegirl.icu/维多利亚(明日方舟)",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "region-index",
+      "labelPoint": [
+        501.77,
+        338.44
+      ]
+    },
+    {
+      "name": "卡拉顿",
+      "region": "victoria",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "高多汀领内沿海城市 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 维多利亚(明日方舟)",
+          "url": "https://zh.moegirl.org.cn/维多利亚(明日方舟)",
+          "accessVia": "https://moegirl.icu/维多利亚(明日方舟)",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "directory",
+      "labelPoint": null
+    },
+    {
+      "name": "博森德尔",
+      "region": "victoria",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "维多利亚北部边境，邻近卡西米尔方向；目前仅收录目录。 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 维多利亚(明日方舟)",
+          "url": "https://zh.moegirl.org.cn/维多利亚(明日方舟)",
+          "accessVia": "https://moegirl.icu/维多利亚(明日方舟)",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "directory",
+      "labelPoint": null
+    },
+    {
+      "name": "纳斯尔纱",
+      "region": "victoria",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "塔拉王国核心；《我们明日见》 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 维多利亚(明日方舟)",
+          "url": "https://zh.moegirl.org.cn/维多利亚(明日方舟)",
+          "accessVia": "https://moegirl.icu/维多利亚(明日方舟)",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "directory",
+      "labelPoint": null
+    },
+    {
+      "name": "圣骏堡",
+      "region": "ursus",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "乌萨斯首都；已核资料没有给出足以定位的帝国内部方位。 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 乌萨斯",
+          "url": "https://zh.moegirl.org.cn/乌萨斯",
+          "accessVia": "https://moegirl.icu/乌萨斯",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "region-index",
+      "labelPoint": [
+        666.31,
+        184.16
+      ]
+    },
+    {
+      "name": "切尔诺伯格",
+      "region": "ursus",
+      "point": [
+        840,
+        180
+      ],
+      "accuracy": "relative",
+      "basis": "乌萨斯南部建城背景及主线驶向龙门；画面锚点仅复原两国交界方向。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 乌萨斯",
+          "url": "https://zh.moegirl.org.cn/乌萨斯",
+          "accessVia": "https://moegirl.icu/乌萨斯",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "relative-point",
+      "labelPoint": [
+        840,
+        180
+      ],
+      "label": "切尔诺伯格"
+    },
+    {
+      "name": "崔林特尔梅",
+      "region": "leithanien",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "双子女皇时代首都；未核得地区内方位，仅以所属地区索引显示。 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 莱塔尼亚",
+          "url": "https://zh.moegirl.org.cn/莱塔尼亚",
+          "accessVia": "https://moegirl.icu/莱塔尼亚",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "region-index",
+      "labelPoint": [
+        679.52,
+        284.23
+      ]
+    },
+    {
+      "name": "维谢海姆",
+      "region": "leithanien",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "《尘影余音》发生地；未核得地区内方位，仅以所属地区索引显示。 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 莱塔尼亚",
+          "url": "https://zh.moegirl.org.cn/莱塔尼亚",
+          "accessVia": "https://moegirl.icu/莱塔尼亚",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "region-index",
+      "labelPoint": [
+        652.52,
+        264.23
+      ]
+    },
+    {
+      "name": "乌提卡",
+      "region": "leithanien",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "莱塔尼亚伯爵领；不将领地名称等同固定城市坐标 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 莱塔尼亚",
+          "url": "https://zh.moegirl.org.cn/莱塔尼亚",
+          "accessVia": "https://moegirl.icu/莱塔尼亚",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "directory",
+      "labelPoint": null
+    },
+    {
+      "name": "卡瓦莱利亚基",
+      "region": "kazimierz",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "四座移动城市组成的城市联合体；未核得地区内方位，仅以所属地区索引显示。 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 卡西米尔",
+          "url": "https://zh.moegirl.org.cn/卡西米尔",
+          "accessVia": "https://moegirl.icu/卡西米尔",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "region-index",
+      "labelPoint": [
+        544.49,
+        229.89
+      ]
+    },
+    {
+      "name": "滴水村",
+      "region": "kazimierz",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "《骑兵与猎人》发生地 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 卡西米尔",
+          "url": "https://zh.moegirl.org.cn/卡西米尔",
+          "accessVia": "https://moegirl.icu/卡西米尔",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "directory",
+      "labelPoint": null
+    },
+    {
+      "name": "茨沃涅克",
+      "region": "kazimierz",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "卡西米尔与莱塔尼亚旧对峙前线；暂无足够资料定位当前城市。 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 卡西米尔",
+          "url": "https://zh.moegirl.org.cn/卡西米尔",
+          "accessVia": "https://moegirl.icu/卡西米尔",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "directory",
+      "labelPoint": null
+    },
+    {
+      "name": "多索雷斯",
+      "region": "bolivar",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "资料称位于玻利瓦尔、哥伦比亚与莱塔尼亚交汇区域；2020初探图无法表达这一关系，保留玻利瓦尔所属索引。 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 玻利瓦尔",
+          "url": "https://zh.moegirl.org.cn/玻利瓦尔",
+          "accessVia": "https://moegirl.icu/玻利瓦尔",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "region-index",
+      "labelPoint": [
+        193.44,
+        256.18
+      ]
+    },
+    {
+      "name": "大辛德拉卡托",
+      "region": "bolivar",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "辛嘉斯王朝都城 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 玻利瓦尔",
+          "url": "https://zh.moegirl.org.cn/玻利瓦尔",
+          "accessVia": "https://moegirl.icu/玻利瓦尔",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "directory",
+      "labelPoint": null
+    },
+    {
+      "name": "拉乌尼达",
+      "region": "bolivar",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "联合政府都城 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 玻利瓦尔",
+          "url": "https://zh.moegirl.org.cn/玻利瓦尔",
+          "accessVia": "https://moegirl.icu/玻利瓦尔",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "directory",
+      "labelPoint": null
+    },
+    {
+      "name": "百灶",
+      "region": "yan",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "炎国都城 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 炎(明日方舟)",
+          "url": "https://zh.moegirl.org.cn/炎(明日方舟)",
+          "accessVia": "https://moegirl.icu/炎(明日方舟)",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "directory",
+      "labelPoint": null
+    },
+    {
+      "name": "龙门",
+      "region": "yan",
+      "point": [
+        925,
+        188
+      ],
+      "accuracy": "relative",
+      "basis": "纠正原炎国南侧锚点；据西北边境描述放在炎—乌萨斯方向。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 炎(明日方舟)",
+          "url": "https://zh.moegirl.org.cn/炎(明日方舟)",
+          "accessVia": "https://moegirl.icu/炎(明日方舟)",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        },
+        {
+          "title": "百度百科 · 龙门 · 地理位置",
+          "url": "https://bkso.baidu.com/item/龙门/24704991",
+          "evidence": "炎国西北边境"
+        }
+      ],
+      "display": "relative-point",
+      "labelPoint": [
+        925,
+        188
+      ],
+      "label": "龙门"
+    },
+    {
+      "name": "玉门",
+      "region": "yan",
+      "point": [
+        965,
+        162
+      ],
+      "accuracy": "relative",
+      "basis": "纠正原炎国国名左侧等高排列；按西北边疆作相对示意。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 炎(明日方舟)",
+          "url": "https://zh.moegirl.org.cn/炎(明日方舟)",
+          "accessVia": "https://moegirl.icu/炎(明日方舟)",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "relative-point",
+      "labelPoint": [
+        965,
+        162
+      ],
+      "label": "玉门"
+    },
+    {
+      "name": "尚蜀",
+      "region": "yan",
+      "point": [
+        1015,
+        242
+      ],
+      "accuracy": "relative",
+      "basis": "按炎国腹地描述落在地区内部；不将国名位置或现实城市当测绘坐标。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 炎(明日方舟)",
+          "url": "https://zh.moegirl.org.cn/炎(明日方舟)",
+          "accessVia": "https://moegirl.icu/炎(明日方舟)",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "relative-point",
+      "labelPoint": [
+        1015,
+        242
+      ],
+      "label": "尚蜀"
+    },
+    {
+      "name": "勾吴城",
+      "region": "yan",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "江南商贸城市 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 炎(明日方舟)",
+          "url": "https://zh.moegirl.org.cn/炎(明日方舟)",
+          "accessVia": "https://moegirl.icu/炎(明日方舟)",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "directory",
+      "labelPoint": null
+    },
+    {
+      "name": "锁川",
+      "region": "higashi",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "北朝首都，北院镇守锁川城 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 东",
+          "url": "https://zh.moegirl.org.cn/东",
+          "accessVia": "https://moegirl.icu/东",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "directory",
+      "labelPoint": null
+    },
+    {
+      "name": "御机",
+      "region": "higashi",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "南朝首都，南院行在御机大社 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 东",
+          "url": "https://zh.moegirl.org.cn/东",
+          "accessVia": "https://moegirl.icu/东",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "directory",
+      "labelPoint": null
+    },
+    {
+      "name": "新安芸市",
+      "region": "higashi",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "重建过的城市 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 东",
+          "url": "https://zh.moegirl.org.cn/东",
+          "accessVia": "https://moegirl.icu/东",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "directory",
+      "labelPoint": null
+    },
+    {
+      "name": "露华村",
+      "region": "higashi",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "苍暮山地附近聚落 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 东",
+          "url": "https://zh.moegirl.org.cn/东",
+          "accessVia": "https://moegirl.icu/东",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "directory",
+      "labelPoint": null
+    },
+    {
+      "name": "拉特兰",
+      "region": "laterano",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "同名国家的宗教城邦；以国家地区索引收录，城市在国家内的坐标未核定。 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 拉特兰",
+          "url": "https://zh.moegirl.org.cn/拉特兰",
+          "accessVia": "https://moegirl.icu/拉特兰",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "region-index",
+      "labelPoint": [
+        757.98,
+        354.26
+      ]
+    },
+    {
+      "name": "安布罗修修道院",
+      "region": "laterano",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "移动修道院；不作为永久城市坐标 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 拉特兰",
+          "url": "https://zh.moegirl.org.cn/拉特兰",
+          "accessVia": "https://moegirl.icu/拉特兰",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "directory",
+      "labelPoint": null
+    },
+    {
+      "name": "雷亚-伊比利亚",
+      "region": "iberia",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "伊比利亚旧王城；大静谧后失去联系，精确位置未核定 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 伊比利亚",
+          "url": "https://zh.moegirl.org.cn/伊比利亚",
+          "accessVia": "https://moegirl.icu/伊比利亚",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "directory",
+      "labelPoint": null
+    },
+    {
+      "name": "佩尔多尼",
+      "region": "iberia",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "大静谧后政治中心 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 伊比利亚",
+          "url": "https://zh.moegirl.org.cn/伊比利亚",
+          "accessVia": "https://moegirl.icu/伊比利亚",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "directory",
+      "labelPoint": null
+    },
+    {
+      "name": "格兰法洛",
+      "region": "iberia",
+      "point": [
+        693,
+        494
+      ],
+      "accuracy": "relative",
+      "basis": "以伊比利亚沿海带为示意，圆点不是已核定的村镇坐标。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 伊比利亚",
+          "url": "https://zh.moegirl.org.cn/伊比利亚",
+          "accessVia": "https://moegirl.icu/伊比利亚",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "relative-point",
+      "labelPoint": [
+        693,
+        494
+      ],
+      "label": "格兰法洛"
+    },
+    {
+      "name": "盐风城",
+      "region": "iberia",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "伊比利亚沿海城市；具体海岸段未确认。 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 伊比利亚",
+          "url": "https://zh.moegirl.org.cn/伊比利亚",
+          "accessVia": "https://moegirl.icu/伊比利亚",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "directory",
+      "labelPoint": null
+    },
+    {
+      "name": "雅隆",
+      "region": "iberia",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "伊比利亚曾经沿海的聚落、邻近苍白海盐漠；具体位置未确认。 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 伊比利亚",
+          "url": "https://zh.moegirl.org.cn/伊比利亚",
+          "accessVia": "https://moegirl.icu/伊比利亚",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "directory",
+      "labelPoint": null
+    },
+    {
+      "name": "弥利亚留姆",
+      "region": "aegir",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "海底城市；《生路》主要发生地 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 阿戈尔",
+          "url": "https://zh.moegirl.org.cn/阿戈尔",
+          "accessVia": "https://moegirl.icu/阿戈尔",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        },
+        {
+          "title": "BWIKI · 生路",
+          "url": "https://wiki.biligame.com/arknights/生路"
+        }
+      ],
+      "display": "directory",
+      "labelPoint": null
+    },
+    {
+      "name": "赫库兰尼姆",
+      "region": "aegir",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "被火山灾害毁坏的历史城市 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 阿戈尔",
+          "url": "https://zh.moegirl.org.cn/阿戈尔",
+          "accessVia": "https://moegirl.icu/阿戈尔",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "directory",
+      "labelPoint": null
+    },
+    {
+      "name": "际崖城",
+      "region": "durin",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "旧城位于阿卡胡拉地下，居民后撤至地表；不在海上另造一个杜林城市点。 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 杜林(国家)",
+          "url": "https://zh.moegirl.org.cn/杜林(国家)",
+          "accessVia": "https://moegirl.icu/杜林(国家)",
+          "accessNote": "本次公开镜像未取得可复核全文；沿用既有来源条目，仅保留地区目录，不支持坐标确认。"
+        }
+      ],
+      "display": "directory",
+      "labelPoint": null
+    },
+    {
+      "name": "铁腕城",
+      "region": "rim",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "雷姆必拓城市 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 雷姆必拓",
+          "url": "https://zh.moegirl.org.cn/雷姆必拓",
+          "accessVia": "https://moegirl.icu/雷姆必拓",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "directory",
+      "labelPoint": null
+    },
+    {
+      "name": "钢铁萝卜城",
+      "region": "rim",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "既有资料称雷姆必拓南方矿业城市；本次未取得可复核定位原文，仅保留地区索引。 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 雷姆必拓",
+          "url": "https://zh.moegirl.org.cn/雷姆必拓",
+          "accessVia": "https://moegirl.icu/雷姆必拓",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "directory",
+      "labelPoint": null
+    },
+    {
+      "name": "咧嘴谷",
+      "region": "rim",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "雷姆必拓山谷；长期天灾笼罩，不作为居民聚落 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 雷姆必拓",
+          "url": "https://zh.moegirl.org.cn/雷姆必拓",
+          "accessVia": "https://moegirl.icu/雷姆必拓",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "directory",
+      "labelPoint": null
+    },
+    {
+      "name": "亡寒部族",
+      "region": "sami",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "萨米与乌萨斯交界、近冰原的部族故地；不是固定城市。 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "BWIKI · 寒檀 · 档案资料三",
+          "url": "https://wiki.biligame.com/arknights/寒檀"
+        },
+        {
+          "title": "萌娘百科 · 地理复核",
+          "url": "https://zh.moegirl.org.cn/萨米",
+          "accessVia": "https://moegirl.icu/萨米"
+        }
+      ],
+      "display": "directory",
+      "labelPoint": null
+    },
+    {
+      "name": "黄金城",
+      "region": "sargon",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "帝国王权中心 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 萨尔贡",
+          "url": "https://zh.moegirl.org.cn/萨尔贡",
+          "accessVia": "https://moegirl.icu/萨尔贡",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "directory",
+      "labelPoint": null
+    },
+    {
+      "name": "阿卡胡拉",
+      "region": "sargon",
+      "point": [
+        405,
+        395
+      ],
+      "accuracy": "relative",
+      "basis": "原点位于萨尔贡标签西侧，与东部雨林描述矛盾，已调整至东侧。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 萨尔贡",
+          "url": "https://zh.moegirl.org.cn/萨尔贡",
+          "accessVia": "https://moegirl.icu/萨尔贡",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "relative-point",
+      "labelPoint": [
+        405,
+        395
+      ],
+      "label": "阿卡胡拉"
+    },
+    {
+      "name": "蒙特卢佩",
+      "region": "siracusa",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "政治中心 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 叙拉古",
+          "url": "https://zh.moegirl.org.cn/叙拉古",
+          "accessVia": "https://moegirl.icu/叙拉古",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "directory",
+      "labelPoint": null
+    },
+    {
+      "name": "沃尔西尼",
+      "region": "siracusa",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "《叙拉古人》发生城市；未核得地区内方位，仅以所属地区索引显示。 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 叙拉古",
+          "url": "https://zh.moegirl.org.cn/叙拉古",
+          "accessVia": "https://moegirl.icu/叙拉古",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "region-index",
+      "labelPoint": [
+        785.77,
+        292.46
+      ]
+    },
+    {
+      "name": "新沃尔西尼",
+      "region": "siracusa",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "新建城市，承接改革故事 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 叙拉古",
+          "url": "https://zh.moegirl.org.cn/叙拉古",
+          "accessVia": "https://moegirl.icu/叙拉古",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "directory",
+      "labelPoint": null
+    },
+    {
+      "name": "雅赛努斯",
+      "region": "minos",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "主要城邦与首都 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 米诺斯(明日方舟)",
+          "url": "https://zh.moegirl.org.cn/米诺斯(明日方舟)",
+          "accessVia": "https://moegirl.icu/米诺斯(明日方舟)",
+          "accessNote": "本次公开镜像未取得可复核全文；沿用既有来源条目，仅保留地区目录，不支持坐标确认。"
+        },
+        {
+          "title": "BWIKI · 雅赛努斯复仇记",
+          "url": "https://wiki.biligame.com/arknights/雅赛努斯复仇记"
+        }
+      ],
+      "display": "directory",
+      "labelPoint": null
+    },
+    {
+      "name": "卡兹戴尔",
+      "region": "kazdel",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "重建城市与地区同名；位置和形态随历史改变；未核得地区内方位，仅以所属地区索引显示。 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 卡兹戴尔",
+          "url": "https://zh.moegirl.org.cn/卡兹戴尔",
+          "accessVia": "https://moegirl.icu/卡兹戴尔",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "region-index",
+      "labelPoint": [
+        890.57,
+        257.67
+      ]
+    },
+    {
+      "name": "特里蒙",
+      "region": "columbia",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "科研中心；《孤星》发生地；未核得地区内方位，仅以所属地区索引显示。 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "游戏剧情 · 孤星",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act25side/level_act25side_01_end.txt"
+        },
+        {
+          "title": "BWIKI · 孤星",
+          "url": "https://wiki.biligame.com/arknights/孤星"
+        },
+        {
+          "title": "萌娘百科 · 地理复核",
+          "url": "https://zh.moegirl.org.cn/哥伦比亚(明日方舟)",
+          "accessVia": "https://moegirl.icu/哥伦比亚(明日方舟)"
+        }
+      ],
+      "display": "region-index",
+      "labelPoint": [
+        349.54,
+        235.66
+      ]
+    },
+    {
+      "name": "汐斯塔",
+      "region": null,
+      "point": [
+        610,
+        358
+      ],
+      "accuracy": "relative",
+      "basis": "原点755,464在伊比利亚东南，方向相反；移至西北。2020绘卷未绘出旧城海湾，不代表精确海岸点。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 汐斯塔",
+          "url": "https://zh.moegirl.org.cn/汐斯塔",
+          "accessVia": "https://moegirl.icu/汐斯塔",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        },
+        {
+          "title": "萌娘百科 · 伊比利亚 · 简介",
+          "url": "https://zh.moegirl.org.cn/伊比利亚",
+          "accessVia": "https://moegirl.icu/伊比利亚",
+          "evidence": "伊比利亚西北方向为汐斯塔；此处仅用于旧址方位。"
+        }
+      ],
+      "display": "relative-point",
+      "labelPoint": [
+        610,
+        358
+      ],
+      "label": "汐斯塔（旧址）"
+    },
+    {
+      "name": "泽尔格勒",
+      "region": "ursus",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "乌萨斯境内，第十七章保密行政区；城区情节不能推导大陆经纬位置。 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_17-15_beg.txt",
+          "title": "《明日方舟》游戏剧情脚本 17-15",
+          "evidence": "已读取游戏原文；第三方托管，本站事件为改写摘要。",
+          "type": "游戏原文（第三方托管）",
+          "checkedAt": "2026-09-13"
+        },
+        {
+          "title": "萌娘百科 · 地理复核",
+          "url": "https://zh.moegirl.org.cn/乌萨斯",
+          "accessVia": "https://moegirl.icu/乌萨斯"
+        }
+      ],
+      "display": "region-index",
+      "labelPoint": [
+        788.31,
+        160.16
+      ]
+    },
+    {
+      "name": "沁礁黑市",
+      "region": "sargon",
+      "point": null,
+      "accuracy": "region-only",
+      "basis": "萨尔贡沁礁地区；黑市与已被沙海吞没的旧城须作区分 地区索引标签位置属于排版，不构成城市定位证据。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 萨尔贡",
+          "url": "https://zh.moegirl.org.cn/萨尔贡",
+          "accessVia": "https://moegirl.icu/萨尔贡",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ],
+      "display": "directory",
+      "labelPoint": null
+    }
+  ]
+}

@@ -1,0 +1,1404 @@
+{
+  "regions": [
+    {
+      "id": "kjerag",
+      "summary": "雪山中的宗教国家。传统三族议会由希瓦艾什、布朗陶、佩尔罗契三家组成；改革后设谢拉格议会，宗教事务由喀兰圣女主持。",
+      "people": [
+        {
+          "name": "恩雅·希瓦艾什",
+          "role": "喀兰圣女、全谢拉格宗教领袖；雪山事变后参与国家改革",
+          "period": "《风雪过境》及后续",
+          "portraitQuery": "初雪",
+          "evidence": "喀兰圣女、全谢拉格宗教领袖；雪山事变后参与国家改革",
+          "source": "https://wiki.biligame.com/arknights/初雪"
+        },
+        {
+          "name": "恩希欧迪斯·希瓦艾什",
+          "role": "希瓦艾什家主、喀兰贸易创立者",
+          "period": "三族议会及改革时期",
+          "portraitQuery": "银灰",
+          "evidence": "希瓦艾什家主、喀兰贸易创立者",
+          "source": "https://zh.moegirl.org.cn/谢拉格"
+        },
+        {
+          "name": "诺希斯·埃德怀斯",
+          "role": "谢拉格议会首任议长",
+          "period": "新议会成立后",
+          "portraitQuery": "灵知",
+          "evidence": "谢拉格议会首任议长",
+          "source": "https://zh.moegirl.org.cn/谢拉格"
+        },
+        {
+          "name": "菈塔托丝·布朗陶",
+          "role": "布朗陶家主，三族议会成员",
+          "period": "《风雪过境》",
+          "portraitQuery": "菈塔托丝·布朗陶",
+          "evidence": "布朗陶家主，三族议会成员",
+          "source": "https://zh.moegirl.org.cn/谢拉格"
+        },
+        {
+          "name": "阿克托斯·佩尔罗契",
+          "role": "佩尔罗契家主，掌管传统守军",
+          "period": "《风雪过境》",
+          "portraitQuery": "阿克托斯·佩尔罗契",
+          "evidence": "佩尔罗契家主，掌管传统守军",
+          "source": "https://zh.moegirl.org.cn/谢拉格"
+        },
+        {
+          "name": "耶拉冈德",
+          "role": "谢拉格信仰中的神明、建国者",
+          "period": "历史及雪境故事",
+          "portraitQuery": "耶拉",
+          "evidence": "谢拉格信仰中的神明、建国者",
+          "source": "https://zh.moegirl.org.cn/谢拉格"
+        }
+      ],
+      "operators": [
+        "初雪",
+        "银灰",
+        "灵知",
+        "崖心",
+        "耶拉",
+        "讯使",
+        "角峰",
+        "锏"
+      ],
+      "cities": [
+        {
+          "name": "图里卡姆",
+          "locationNote": "南部贸易港城镇，希瓦艾什领地",
+          "source": "https://zh.moegirl.org.cn/谢拉格"
+        },
+        {
+          "name": "喀兰圣山",
+          "locationNote": "宗教圣地，蔓珠院所在地",
+          "source": "https://zh.moegirl.org.cn/谢拉格"
+        },
+        {
+          "name": "银心湖",
+          "locationNote": "临近喀兰圣山的冰封湖泊",
+          "source": "https://zh.moegirl.org.cn/谢拉格"
+        }
+      ],
+      "source": "https://zh.moegirl.org.cn/谢拉格"
+    },
+    {
+      "id": "victoria",
+      "summary": "帝国由议会与诸公爵分掌权力。王位空缺、萨卡兹占领与战后议会是不同阶段，以下逐项列出。",
+      "people": [
+        {
+          "name": "维娜·维多利亚",
+          "role": "伦蒂尼姆议会议长；战后拒绝继承王位",
+          "period": "伦蒂尼姆战争后",
+          "portraitQuery": "维娜·维多利亚",
+          "evidence": "伦蒂尼姆议会议长；战后拒绝继承王位",
+          "source": "https://zh.wikipedia.org/wiki/明日方舟"
+        },
+        {
+          "name": "特雷西斯",
+          "role": "卡兹戴尔摄政王、军事委员会领袖；占领伦蒂尼姆",
+          "period": "伦蒂尼姆占领时期",
+          "portraitQuery": "特雷西斯",
+          "evidence": "卡兹戴尔摄政王、军事委员会领袖；占领伦蒂尼姆",
+          "source": "https://zh.moegirl.org.cn/维多利亚(明日方舟)"
+        },
+        {
+          "name": "阿利斯泰尔二世",
+          "role": "前国王，1072年被处死后王位空缺",
+          "period": "1072年以前",
+          "portraitQuery": "阿利斯泰尔二世",
+          "evidence": "前国王，1072年被处死后王位空缺",
+          "source": "https://zh.moegirl.org.cn/维多利亚(明日方舟)"
+        },
+        {
+          "name": "开斯特公爵",
+          "role": "八大公爵之一；灰礼帽直属其麾下",
+          "period": "伦蒂尼姆战争时期",
+          "portraitQuery": "开斯特公爵",
+          "evidence": "八大公爵之一；灰礼帽直属其麾下",
+          "source": "https://zh.moegirl.org.cn/维多利亚(明日方舟)"
+        },
+        {
+          "name": "威灵顿公爵",
+          "role": "维斯利·威灵顿；八大公爵之一，支持深池，后转向塔拉独立",
+          "period": "伦蒂尼姆战争时期",
+          "portraitQuery": "威灵顿公爵",
+          "evidence": "维斯利·威灵顿；八大公爵之一，支持深池，后转向塔拉独立",
+          "source": "https://zh.moegirl.org.cn/维多利亚(明日方舟)"
+        },
+        {
+          "name": "高多汀公爵",
+          "role": "肖恩·高多汀；八大公爵之一，维多利亚议员",
+          "period": "伦蒂尼姆战争时期",
+          "portraitQuery": "高多汀公爵",
+          "evidence": "肖恩·高多汀；八大公爵之一，维多利亚议员",
+          "source": "https://zh.moegirl.org.cn/维多利亚(明日方舟)"
+        },
+        {
+          "name": "温德米尔公爵",
+          "role": "安费莉丝·温德米尔；八大公爵之一，戴菲恩之母，战时阵亡",
+          "period": "伦蒂尼姆战争时期",
+          "portraitQuery": "温德米尔公爵",
+          "evidence": "安费莉丝·温德米尔；八大公爵之一，戴菲恩之母，战时阵亡",
+          "source": "https://zh.moegirl.org.cn/维多利亚(明日方舟)"
+        },
+        {
+          "name": "诺曼底公爵",
+          "role": "八大公爵之一",
+          "period": "伦蒂尼姆战争时期",
+          "portraitQuery": "诺曼底公爵",
+          "evidence": "八大公爵之一",
+          "source": "https://zh.moegirl.org.cn/维多利亚(明日方舟)"
+        },
+        {
+          "name": "亚伯科恩公爵",
+          "role": "八大公爵之一",
+          "period": "伦蒂尼姆战争时期",
+          "portraitQuery": "亚伯科恩公爵",
+          "evidence": "八大公爵之一",
+          "source": "https://zh.moegirl.org.cn/维多利亚(明日方舟)"
+        },
+        {
+          "name": "法夫公爵",
+          "role": "八大公爵之一",
+          "period": "伦蒂尼姆战争时期",
+          "portraitQuery": "法夫公爵",
+          "evidence": "八大公爵之一",
+          "source": "https://zh.moegirl.org.cn/维多利亚(明日方舟)"
+        },
+        {
+          "name": "阿什沃思公爵",
+          "role": "八大公爵之一",
+          "period": "伦蒂尼姆战争时期",
+          "portraitQuery": "阿什沃思公爵",
+          "evidence": "八大公爵之一",
+          "source": "https://zh.moegirl.org.cn/维多利亚(明日方舟)"
+        },
+        {
+          "name": "斯塔福德公爵",
+          "role": "前大公爵，1094年叛乱中身亡",
+          "period": "1094年",
+          "portraitQuery": "斯塔福德公爵",
+          "evidence": "前大公爵，1094年叛乱中身亡",
+          "source": "https://zh.moegirl.org.cn/维多利亚(明日方舟)"
+        },
+        {
+          "name": "卡文迪许公爵",
+          "role": "邀请军事委员会入城的前大公爵，交战身亡",
+          "period": "1094年",
+          "portraitQuery": "卡文迪许公爵",
+          "evidence": "邀请军事委员会入城的前大公爵，交战身亡",
+          "source": "https://zh.moegirl.org.cn/维多利亚(明日方舟)"
+        },
+        {
+          "name": "爱布拉娜",
+          "role": "深池领袖，塔拉独立运动领导者",
+          "period": "《风暴瞭望》至塔拉独立",
+          "portraitQuery": "爱布拉娜",
+          "evidence": "深池领袖，塔拉独立运动领导者",
+          "source": "https://zh.moegirl.org.cn/维多利亚(明日方舟)"
+        },
+        {
+          "name": "克洛维希娅",
+          "role": "伦蒂尼姆市民自救军指挥官",
+          "period": "伦蒂尼姆战争时期",
+          "portraitQuery": "克洛维希娅",
+          "evidence": "伦蒂尼姆市民自救军指挥官",
+          "source": "https://zh.moegirl.org.cn/维多利亚(明日方舟)"
+        }
+      ],
+      "operators": [
+        "维娜·维多利亚",
+        "推进之王",
+        "风笛",
+        "号角",
+        "戴菲恩",
+        "白铁",
+        "海蒂",
+        "苇草",
+        "琴柳"
+      ],
+      "cities": [
+        {
+          "name": "伦蒂尼姆",
+          "locationNote": "首都；主线10—14章主要战场",
+          "source": "https://zh.moegirl.org.cn/维多利亚(明日方舟)"
+        },
+        {
+          "name": "小丘郡",
+          "locationNote": "塔拉人聚居的移动城市；第9章",
+          "source": "https://zh.moegirl.org.cn/维多利亚(明日方舟)"
+        },
+        {
+          "name": "卡拉顿",
+          "locationNote": "高多汀领内沿海城市",
+          "source": "https://zh.moegirl.org.cn/维多利亚(明日方舟)"
+        },
+        {
+          "name": "博森德尔",
+          "locationNote": "北部边境，城外夏恩山可望卡西米尔",
+          "source": "https://zh.moegirl.org.cn/维多利亚(明日方舟)"
+        },
+        {
+          "name": "纳斯尔纱",
+          "locationNote": "塔拉王国核心；《我们明日见》",
+          "source": "https://zh.moegirl.org.cn/维多利亚(明日方舟)"
+        }
+      ],
+      "source": "https://zh.moegirl.org.cn/维多利亚(明日方舟)"
+    },
+    {
+      "id": "ursus",
+      "summary": "北方帝国实行皇帝统治，同时存在议会、贵族与集团军等权力机构。",
+      "people": [
+        {
+          "name": "费奥多尔·弗拉基米罗维奇",
+          "role": "乌萨斯现任皇帝",
+          "period": "主线切城事件以后",
+          "portraitQuery": "费奥多尔·弗拉基米罗维奇",
+          "evidence": "乌萨斯现任皇帝",
+          "source": "https://zh.moegirl.org.cn/乌萨斯"
+        },
+        {
+          "name": "伊斯拉姆·维特",
+          "role": "帝国议会议长，曾任财政大臣",
+          "period": "主线切城事件时期",
+          "portraitQuery": "伊斯拉姆·维特",
+          "evidence": "帝国议会议长，曾任财政大臣",
+          "source": "https://zh.moegirl.org.cn/乌萨斯"
+        },
+        {
+          "name": "弗拉基米尔·伊凡诺维奇",
+          "role": "前任皇帝",
+          "period": "先皇时期",
+          "portraitQuery": "弗拉基米尔·伊凡诺维奇",
+          "evidence": "前任皇帝",
+          "source": "https://zh.moegirl.org.cn/乌萨斯"
+        },
+        {
+          "name": "鲍里斯侯爵",
+          "role": "切尔诺伯格市长，事发后死亡",
+          "period": "切城事件前后",
+          "portraitQuery": "鲍里斯侯爵",
+          "evidence": "切尔诺伯格市长，事发后死亡",
+          "source": "https://zh.moegirl.org.cn/乌萨斯"
+        },
+        {
+          "name": "科西切",
+          "role": "乌萨斯公爵，后被塔露拉杀死",
+          "period": "第8章回忆时期",
+          "portraitQuery": "科西切",
+          "evidence": "乌萨斯公爵，后被塔露拉杀死",
+          "source": "https://zh.moegirl.org.cn/乌萨斯"
+        }
+      ],
+      "operators": [
+        "凛冬",
+        "真理",
+        "古米",
+        "早露",
+        "苦艾",
+        "鸿雪"
+      ],
+      "cities": [
+        {
+          "name": "圣骏堡",
+          "locationNote": "帝国首都",
+          "source": "https://zh.moegirl.org.cn/乌萨斯"
+        },
+        {
+          "name": "切尔诺伯格",
+          "locationNote": "曾遭天灾的移动城市；0、1、4、7、8章",
+          "source": "https://zh.moegirl.org.cn/乌萨斯"
+        },
+        {
+          "name": "泽尔格勒",
+          "locationNote": "乌萨斯境内；第十七章场景明确，官方专属城市底图尚未收录",
+          "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_17-15_beg.txt"
+        }
+      ],
+      "source": "https://zh.moegirl.org.cn/乌萨斯"
+    },
+    {
+      "id": "leithanien",
+      "summary": "以源石技艺和音乐传统著称。巫王统治结束后，由双子女皇执掌国家。",
+      "people": [
+        {
+          "name": "莉泽洛特·伊维格娜德",
+          "role": "白女皇，「永恒恩典」；黑女皇留在荒域后主持国内政务",
+          "period": "《崔林特尔梅之金》后",
+          "portraitQuery": "莉泽洛特·伊维格娜德",
+          "evidence": "白女皇，「永恒恩典」；黑女皇留在荒域后主持国内政务",
+          "source": "https://zh.moegirl.org.cn/莱塔尼亚"
+        },
+        {
+          "name": "希尔德加德·赫琳玛特",
+          "role": "黑女皇，「无情权威」；为抵御邪魔留在荒域",
+          "period": "《崔林特尔梅之金》",
+          "portraitQuery": "希尔德加德·赫琳玛特",
+          "evidence": "黑女皇，「无情权威」；为抵御邪魔留在荒域",
+          "source": "https://zh.moegirl.org.cn/莱塔尼亚"
+        },
+        {
+          "name": "赫尔昏佐伦",
+          "role": "巫王、前君主",
+          "period": "双子女皇即位前",
+          "portraitQuery": "赫尔昏佐伦",
+          "evidence": "巫王、前君主",
+          "source": "https://zh.moegirl.org.cn/莱塔尼亚"
+        },
+        {
+          "name": "格特鲁德·斯特罗洛",
+          "role": "维谢海姆领主；事件中死亡",
+          "period": "《尘影余音》",
+          "portraitQuery": "格特鲁德·斯特罗洛",
+          "evidence": "维谢海姆领主；事件中死亡",
+          "source": "https://zh.moegirl.org.cn/莱塔尼亚"
+        }
+      ],
+      "operators": [
+        "艾雅法拉",
+        "黑键",
+        "车尔尼",
+        "薇薇安娜"
+      ],
+      "cities": [
+        {
+          "name": "崔林特尔梅",
+          "locationNote": "双子女皇时代首都",
+          "source": "https://zh.moegirl.org.cn/莱塔尼亚"
+        },
+        {
+          "name": "维谢海姆",
+          "locationNote": "《尘影余音》发生地",
+          "source": "https://zh.moegirl.org.cn/莱塔尼亚"
+        },
+        {
+          "name": "乌提卡",
+          "locationNote": "莱塔尼亚伯爵领；不将领地名称等同固定城市坐标",
+          "source": "https://zh.moegirl.org.cn/莱塔尼亚"
+        }
+      ],
+      "source": "https://zh.moegirl.org.cn/莱塔尼亚"
+    },
+    {
+      "id": "kazimierz",
+      "summary": "骑士制度与商业组织并存，监正会、国民院和商业联合会各有职权。",
+      "people": [
+        {
+          "name": "伊奥莱塔·罗素",
+          "role": "大骑士长、国家元首；监正会核心人物",
+          "period": "骑士竞技故事时期",
+          "portraitQuery": "伊奥莱塔·罗素",
+          "evidence": "大骑士长、国家元首；监正会核心人物",
+          "source": "https://zh.moegirl.org.cn/卡西米尔"
+        },
+        {
+          "name": "监正会",
+          "role": "征战骑士与国家军事事务机构",
+          "period": "对应剧情时期",
+          "portraitQuery": "监正会",
+          "evidence": "征战骑士与国家军事事务机构",
+          "source": "https://zh.moegirl.org.cn/卡西米尔"
+        },
+        {
+          "name": "国民院",
+          "role": "司法和国家事务机构",
+          "period": "对应剧情时期",
+          "portraitQuery": "国民院",
+          "evidence": "司法和国家事务机构",
+          "source": "https://zh.moegirl.org.cn/卡西米尔"
+        },
+        {
+          "name": "商业联合会",
+          "role": "大骑士领商业与竞技体系的重要权力组织",
+          "period": "对应剧情时期",
+          "portraitQuery": "商业联合会",
+          "evidence": "大骑士领商业与竞技体系的重要权力组织",
+          "source": "https://zh.moegirl.org.cn/卡西米尔"
+        }
+      ],
+      "operators": [
+        "临光",
+        "瑕光",
+        "玛恩纳",
+        "砾",
+        "白金",
+        "焰尾",
+        "远牙"
+      ],
+      "cities": [
+        {
+          "name": "卡瓦莱利亚基",
+          "locationNote": "四座移动城市组成的城市联合体",
+          "source": "https://zh.moegirl.org.cn/卡西米尔"
+        },
+        {
+          "name": "滴水村",
+          "locationNote": "《骑兵与猎人》发生地",
+          "source": "https://zh.moegirl.org.cn/卡西米尔"
+        },
+        {
+          "name": "茨沃涅克",
+          "locationNote": "骑士之声雕塑相关城市",
+          "source": "https://zh.moegirl.org.cn/卡西米尔"
+        }
+      ],
+      "source": "https://zh.moegirl.org.cn/卡西米尔"
+    },
+    {
+      "id": "bolivar",
+      "summary": "长期存在辛嘉斯王朝、联合政府及真正玻利瓦尔人三方冲突；多索雷斯由当地市长治理。",
+      "people": [
+        {
+          "name": "坎黛拉·桑切斯",
+          "role": "多索雷斯市长",
+          "period": "《多索雷斯假日》",
+          "portraitQuery": "坎黛拉·桑切斯",
+          "evidence": "多索雷斯市长",
+          "source": "https://zh.moegirl.org.cn/玻利瓦尔"
+        },
+        {
+          "name": "辛嘉斯王朝",
+          "role": "莱塔尼亚支持的王国政权，定都大辛德拉卡托",
+          "period": "对应剧情时期",
+          "portraitQuery": "辛嘉斯王朝",
+          "evidence": "莱塔尼亚支持的王国政权，定都大辛德拉卡托",
+          "source": "https://zh.moegirl.org.cn/玻利瓦尔"
+        },
+        {
+          "name": "联合政府最高议会",
+          "role": "十五人最高议会，定都拉乌尼达",
+          "period": "对应剧情时期",
+          "portraitQuery": "联合政府最高议会",
+          "evidence": "十五人最高议会，定都拉乌尼达",
+          "source": "https://zh.moegirl.org.cn/玻利瓦尔"
+        },
+        {
+          "name": "真正玻利瓦尔人",
+          "role": "反对外国控制的多个武装团体与政党",
+          "period": "对应剧情时期",
+          "portraitQuery": "真正玻利瓦尔人",
+          "evidence": "反对外国控制的多个武装团体与政党",
+          "source": "https://zh.moegirl.org.cn/玻利瓦尔"
+        }
+      ],
+      "operators": [
+        "杜宾",
+        "龙舌兰",
+        "羽毛笔",
+        "格雷伊",
+        "波登可",
+        "米格鲁"
+      ],
+      "cities": [
+        {
+          "name": "多索雷斯",
+          "locationNote": "中立度假移动城市",
+          "source": "https://zh.moegirl.org.cn/玻利瓦尔"
+        },
+        {
+          "name": "大辛德拉卡托",
+          "locationNote": "辛嘉斯王朝都城",
+          "source": "https://zh.moegirl.org.cn/玻利瓦尔"
+        },
+        {
+          "name": "拉乌尼达",
+          "locationNote": "联合政府都城",
+          "source": "https://zh.moegirl.org.cn/玻利瓦尔"
+        }
+      ],
+      "source": "https://zh.moegirl.org.cn/玻利瓦尔"
+    },
+    {
+      "id": "yan",
+      "summary": "东方君主制国家，皇廷下设内阁、六部及诸司；城邦和边镇另有地方长官。",
+      "people": [
+        {
+          "name": "炎国皇帝",
+          "role": "全国君主；此条目不为未确认的实名造名",
+          "period": "对应剧情时期",
+          "portraitQuery": "炎国皇帝",
+          "evidence": "全国君主；此条目不为未确认的实名造名",
+          "source": "https://zh.moegirl.org.cn/炎(明日方舟)"
+        },
+        {
+          "name": "魏彦吾",
+          "role": "龙门总督",
+          "period": "切城—龙门事件时期",
+          "portraitQuery": "魏彦吾",
+          "evidence": "龙门总督",
+          "source": "https://zh.moegirl.org.cn/炎(明日方舟)"
+        },
+        {
+          "name": "左宣辽",
+          "role": "玉门驻防的镇岳军大将军",
+          "period": "《登临意》",
+          "portraitQuery": "左宣辽",
+          "evidence": "玉门驻防的镇岳军大将军",
+          "source": "https://zh.moegirl.org.cn/炎(明日方舟)"
+        }
+      ],
+      "operators": [
+        "陈",
+        "林",
+        "诗怀雅",
+        "星熊",
+        "乌有",
+        "仇白",
+        "左乐",
+        "重岳",
+        "令",
+        "年",
+        "夕"
+      ],
+      "cities": [
+        {
+          "name": "百灶",
+          "locationNote": "炎国都城",
+          "source": "https://zh.moegirl.org.cn/炎(明日方舟)"
+        },
+        {
+          "name": "龙门",
+          "locationNote": "炎与乌萨斯贸易往来的移动城邦",
+          "source": "https://zh.moegirl.org.cn/炎(明日方舟)"
+        },
+        {
+          "name": "玉门",
+          "locationNote": "炎国边疆移动城市",
+          "source": "https://zh.moegirl.org.cn/炎(明日方舟)"
+        },
+        {
+          "name": "尚蜀",
+          "locationNote": "山地城市；《将进酒》",
+          "source": "https://zh.moegirl.org.cn/炎(明日方舟)"
+        },
+        {
+          "name": "勾吴城",
+          "locationNote": "江南商贸城市",
+          "source": "https://zh.moegirl.org.cn/炎(明日方舟)"
+        }
+      ],
+      "source": "https://zh.moegirl.org.cn/炎(明日方舟)"
+    },
+    {
+      "id": "higashi",
+      "summary": "东皇体制下分南北两朝，各有四大家族形成政治经济集团。",
+      "people": [
+        {
+          "name": "北朝光严一派",
+          "role": "北朝君主体系，下有光严、黑衣、帆足、锦织四家",
+          "period": "对应剧情时期",
+          "portraitQuery": "北朝光严一派",
+          "evidence": "北朝君主体系，下有光严、黑衣、帆足、锦织四家",
+          "source": "https://zh.moegirl.org.cn/东"
+        },
+        {
+          "name": "南朝光元一派",
+          "role": "南朝君主体系，下有光元、九枝松、叶、金城四家",
+          "period": "对应剧情时期",
+          "portraitQuery": "南朝光元一派",
+          "evidence": "南朝君主体系，下有光元、九枝松、叶、金城四家",
+          "source": "https://zh.moegirl.org.cn/东"
+        },
+        {
+          "name": "泷居应",
+          "role": "露华村村长",
+          "period": "《落叶逐火》",
+          "portraitQuery": "泷居应",
+          "evidence": "露华村村长",
+          "source": "https://zh.moegirl.org.cn/东"
+        }
+      ],
+      "operators": [
+        "白雪",
+        "夜刀",
+        "黑角",
+        "嵯峨",
+        "宴",
+        "月禾",
+        "赤冬",
+        "铃兰"
+      ],
+      "cities": [
+        {
+          "name": "锁川",
+          "locationNote": "北朝首都，北院镇守锁川城",
+          "source": "https://zh.moegirl.org.cn/东"
+        },
+        {
+          "name": "御机",
+          "locationNote": "南朝首都，南院行在御机大社",
+          "source": "https://zh.moegirl.org.cn/东"
+        },
+        {
+          "name": "新安芸市",
+          "locationNote": "重建过的城市",
+          "source": "https://zh.moegirl.org.cn/东"
+        },
+        {
+          "name": "露华村",
+          "locationNote": "苍暮山地附近聚落",
+          "source": "https://zh.moegirl.org.cn/东"
+        }
+      ],
+      "source": "https://zh.moegirl.org.cn/东"
+    },
+    {
+      "id": "laterano",
+      "summary": "以萨科塔和律法为核心的宗教城邦，教宗与教廷机构主持国政。",
+      "people": [
+        {
+          "name": "伊万杰利斯塔十一世",
+          "role": "教宗；万国峰会发起者",
+          "period": "《吾导先路》及后续",
+          "portraitQuery": "伊万杰利斯塔十一世",
+          "evidence": "教宗；万国峰会发起者",
+          "source": "https://zh.moegirl.org.cn/拉特兰"
+        },
+        {
+          "name": "薇尔丽芙",
+          "role": "枢机，教宗近卫",
+          "period": "对应剧情时期",
+          "portraitQuery": "薇尔丽芙",
+          "evidence": "枢机，教宗近卫",
+          "source": "https://zh.moegirl.org.cn/拉特兰"
+        },
+        {
+          "name": "蕾缪安",
+          "role": "第七厅枢机",
+          "period": "后续故事",
+          "portraitQuery": "蕾缪安",
+          "evidence": "第七厅枢机",
+          "source": "https://zh.moegirl.org.cn/拉特兰"
+        }
+      ],
+      "operators": [
+        "能天使",
+        "莫斯提马",
+        "菲亚梅塔",
+        "送葬人",
+        "见行者",
+        "翎羽",
+        "蕾缪安"
+      ],
+      "cities": [
+        {
+          "name": "拉特兰",
+          "locationNote": "同名首都与宗教城邦",
+          "source": "https://zh.moegirl.org.cn/拉特兰"
+        },
+        {
+          "name": "安布罗修修道院",
+          "locationNote": "移动修道院；不作为永久城市坐标",
+          "source": "https://zh.moegirl.org.cn/拉特兰"
+        }
+      ],
+      "source": "https://zh.moegirl.org.cn/拉特兰"
+    },
+    {
+      "id": "iberia",
+      "summary": "大静谧后国教会改组为审判庭，成为政治与海岸防卫的核心机构。",
+      "people": [
+        {
+          "name": "卡门·伊·伊比利亚",
+          "role": "圣徒，参与创建审判庭",
+          "period": "大静谧以后",
+          "portraitQuery": "卡门",
+          "evidence": "圣徒，参与创建审判庭",
+          "source": "https://zh.moegirl.org.cn/伊比利亚"
+        },
+        {
+          "name": "达里奥",
+          "role": "大审判官；愚人号行动中牺牲",
+          "period": "《愚人号》",
+          "portraitQuery": "达里奥",
+          "evidence": "大审判官；愚人号行动中牺牲",
+          "source": "https://zh.moegirl.org.cn/伊比利亚"
+        },
+        {
+          "name": "西尔弗",
+          "role": "雅隆镇证裁官；后遇害",
+          "period": "《追迹日落以西》",
+          "portraitQuery": "西尔弗",
+          "evidence": "雅隆镇证裁官；后遇害",
+          "source": "https://zh.moegirl.org.cn/伊比利亚"
+        }
+      ],
+      "operators": [
+        "艾丽妮",
+        "流明",
+        "棘刺",
+        "蓝毒",
+        "极境",
+        "深靛",
+        "安哲拉"
+      ],
+      "cities": [
+        {
+          "name": "雷亚-伊比利亚",
+          "locationNote": "伊比利亚旧王城；大静谧后失去联系，精确位置未核定",
+          "source": "https://zh.moegirl.org.cn/伊比利亚"
+        },
+        {
+          "name": "佩尔多尼",
+          "locationNote": "大静谧后政治中心",
+          "source": "https://zh.moegirl.org.cn/伊比利亚"
+        },
+        {
+          "name": "格兰法洛",
+          "locationNote": "沿海聚落，临近伊比利亚之眼",
+          "source": "https://zh.moegirl.org.cn/伊比利亚"
+        },
+        {
+          "name": "盐风城",
+          "locationNote": "《覆潮之下》发生地",
+          "source": "https://zh.moegirl.org.cn/伊比利亚"
+        },
+        {
+          "name": "雅隆",
+          "locationNote": "《追迹日落以西》发生地",
+          "source": "https://zh.moegirl.org.cn/伊比利亚"
+        }
+      ],
+      "source": "https://zh.moegirl.org.cn/伊比利亚"
+    },
+    {
+      "id": "aegir",
+      "summary": "海洋文明由科学与技术执政官共同管理，设有科学院和技术院。",
+      "people": [
+        {
+          "name": "歌蕾蒂娅",
+          "role": "技术执政官、深海猎人第二大队队长",
+          "period": "深海猎人故事",
+          "portraitQuery": "歌蕾蒂娅",
+          "evidence": "技术执政官、深海猎人第二大队队长",
+          "source": "https://zh.moegirl.org.cn/阿戈尔"
+        },
+        {
+          "name": "乌尔比安",
+          "role": "原技术院执政官、深海猎人第三大队队长",
+          "period": "深海猎人故事",
+          "portraitQuery": "乌尔比安",
+          "evidence": "原技术院执政官、深海猎人第三大队队长",
+          "source": "https://zh.moegirl.org.cn/阿戈尔"
+        },
+        {
+          "name": "赫拉提娅",
+          "role": "科学发展规划所执政官，航道计划提出者",
+          "period": "《生路》",
+          "portraitQuery": "赫拉提娅",
+          "evidence": "科学发展规划所执政官，航道计划提出者",
+          "source": "https://zh.moegirl.org.cn/阿戈尔"
+        },
+        {
+          "name": "克莱门莎",
+          "role": "弥利亚留姆社会行政监察署技术执政官",
+          "period": "《生路》",
+          "portraitQuery": "克莱门莎",
+          "evidence": "弥利亚留姆社会行政监察署技术执政官",
+          "source": "https://zh.moegirl.org.cn/阿戈尔"
+        }
+      ],
+      "operators": [
+        "歌蕾蒂娅",
+        "乌尔比安",
+        "斯卡蒂",
+        "幽灵鲨",
+        "海霓",
+        "深巡"
+      ],
+      "cities": [
+        {
+          "name": "弥利亚留姆",
+          "locationNote": "海底城市；《生路》主要发生地",
+          "source": "https://zh.moegirl.org.cn/阿戈尔"
+        },
+        {
+          "name": "赫库兰尼姆",
+          "locationNote": "被火山灾害毁坏的历史城市",
+          "source": "https://zh.moegirl.org.cn/阿戈尔"
+        }
+      ],
+      "source": "https://zh.moegirl.org.cn/阿戈尔"
+    },
+    {
+      "id": "durin",
+      "summary": "地下诸城邦的社会。际崖城实行行业代表管理与市民表决，不能将某位代表写成全杜林君主。",
+      "people": [
+        {
+          "name": "克罗绮·砖石",
+          "role": "际崖城代理商业代表",
+          "period": "《理想城》",
+          "portraitQuery": "克罗绮·砖石",
+          "evidence": "际崖城代理商业代表",
+          "source": "https://zh.moegirl.org.cn/杜林(国家)"
+        },
+        {
+          "name": "黛柯绮·银币",
+          "role": "际崖城代理工业代表",
+          "period": "《理想城》",
+          "portraitQuery": "黛柯绮·银币",
+          "evidence": "际崖城代理工业代表",
+          "source": "https://zh.moegirl.org.cn/杜林(国家)"
+        },
+        {
+          "name": "卡奇·叙光",
+          "role": "际崖城代理设计代表",
+          "period": "《理想城》",
+          "portraitQuery": "卡奇·叙光",
+          "evidence": "际崖城代理设计代表",
+          "source": "https://zh.moegirl.org.cn/杜林(国家)"
+        },
+        {
+          "name": "耶奇·地心",
+          "role": "际崖城环境与气候代表",
+          "period": "《理想城》",
+          "portraitQuery": "耶奇·地心",
+          "evidence": "际崖城环境与气候代表",
+          "source": "https://zh.moegirl.org.cn/杜林(国家)"
+        },
+        {
+          "name": "芬奇·画布",
+          "role": "际崖城前设计代表",
+          "period": "《理想城》前",
+          "portraitQuery": "芬奇·画布",
+          "evidence": "际崖城前设计代表",
+          "source": "https://zh.moegirl.org.cn/杜林(国家)"
+        }
+      ],
+      "operators": [
+        "杜林",
+        "桃金娘",
+        "褐果",
+        "至简"
+      ],
+      "cities": [
+        {
+          "name": "际崖城",
+          "locationNote": "位于阿卡胡拉下方；居民已撤离至地表",
+          "source": "https://zh.moegirl.org.cn/杜林(国家)"
+        }
+      ],
+      "source": "https://zh.moegirl.org.cn/杜林(国家)"
+    },
+    {
+      "id": "rim",
+      "summary": "由矿业和自治州逐步形成的联合政治实体；地方工会和自治州承担治理。",
+      "people": [
+        {
+          "name": "雷姆必拓矿业联合",
+          "role": "1070年代成立的政治实体",
+          "period": "对应剧情时期",
+          "portraitQuery": "雷姆必拓矿业联合",
+          "evidence": "1070年代成立的政治实体",
+          "source": "https://zh.moegirl.org.cn/雷姆必拓"
+        },
+        {
+          "name": "自治州与矿镇总工会",
+          "role": "地方管理与对外产业合作机构",
+          "period": "对应剧情时期",
+          "portraitQuery": "自治州与矿镇总工会",
+          "evidence": "地方管理与对外产业合作机构",
+          "source": "https://zh.moegirl.org.cn/雷姆必拓"
+        }
+      ],
+      "operators": [
+        "阿米娅",
+        "莱恩哈特",
+        "断崖",
+        "四月",
+        "卡夫卡",
+        "克洛丝"
+      ],
+      "cities": [
+        {
+          "name": "铁腕城",
+          "locationNote": "雷姆必拓城市",
+          "source": "https://zh.moegirl.org.cn/雷姆必拓"
+        },
+        {
+          "name": "钢铁萝卜城",
+          "locationNote": "雷姆必拓城市",
+          "source": "https://zh.moegirl.org.cn/雷姆必拓"
+        },
+        {
+          "name": "咧嘴谷",
+          "locationNote": "雷姆必拓山谷；长期天灾笼罩，不作为居民聚落",
+          "source": "https://zh.moegirl.org.cn/雷姆必拓"
+        }
+      ],
+      "source": "https://zh.moegirl.org.cn/雷姆必拓"
+    },
+    {
+      "id": "sami",
+      "summary": "北境部族围绕族树生活，雪祀兼有军政与精神领袖职责；部族有迁徙传统。",
+      "people": [
+        {
+          "name": "各部族雪祀",
+          "role": "各部族最高萨满，主持军政和祭祀",
+          "period": "对应剧情时期",
+          "portraitQuery": "各部族雪祀",
+          "evidence": "各部族最高萨满，主持军政和祭祀",
+          "source": "https://zh.moegirl.org.cn/萨米(明日方舟)"
+        },
+        {
+          "name": "萨米",
+          "role": "当地信仰所系的巨兽；区别于行政首长",
+          "period": "萨米故事",
+          "portraitQuery": "萨米",
+          "evidence": "当地信仰所系的巨兽；区别于行政首长",
+          "source": "https://zh.moegirl.org.cn/萨米(明日方舟)"
+        }
+      ],
+      "operators": [
+        "提丰",
+        "远山",
+        "寒檀",
+        "凛视",
+        "雪绒",
+        "柏喙"
+      ],
+      "cities": [
+        {
+          "name": "亡寒部族",
+          "locationNote": "寒檀原属部族；不视为固定城邦",
+          "source": "https://wiki.biligame.com/arknights/寒檀"
+        }
+      ],
+      "source": "https://zh.moegirl.org.cn/萨米(明日方舟)"
+    },
+    {
+      "id": "sargon",
+      "summary": "幅员广大的帝国，沙漠与雨林并存。万王之王之下有地方领主与部族。",
+      "people": [
+        {
+          "name": "万王之王（沙阿）",
+          "role": "帝国最高君主称号；不将古代沙阿等同当代在位者",
+          "period": "对应剧情时期",
+          "portraitQuery": "万王之王（沙阿）",
+          "evidence": "帝国最高君主称号；不将古代沙阿等同当代在位者",
+          "source": "https://zh.moegirl.org.cn/萨尔贡"
+        },
+        {
+          "name": "帕夏与王酋",
+          "role": "地方统治层级",
+          "period": "对应剧情时期",
+          "portraitQuery": "帕夏与王酋",
+          "evidence": "地方统治层级",
+          "source": "https://zh.moegirl.org.cn/萨尔贡"
+        },
+        {
+          "name": "森蚺",
+          "role": "阿卡胡拉大酋长",
+          "period": "《嘉维尔之归乡》及后续",
+          "portraitQuery": "森蚺",
+          "evidence": "阿卡胡拉大酋长",
+          "source": "https://zh.moegirl.org.cn/萨尔贡"
+        }
+      ],
+      "operators": [
+        "嘉维尔",
+        "森蚺",
+        "特米米",
+        "佩佩",
+        "缇缇",
+        "稀音"
+      ],
+      "cities": [
+        {
+          "name": "黄金城",
+          "locationNote": "帝国王权中心",
+          "source": "https://zh.moegirl.org.cn/萨尔贡"
+        },
+        {
+          "name": "阿卡胡拉",
+          "locationNote": "雨林部族地区",
+          "source": "https://zh.moegirl.org.cn/萨尔贡"
+        },
+        {
+          "name": "沁礁黑市",
+          "locationNote": "萨尔贡沁礁地区；黑市与已被沙海吞没的旧城须作区分",
+          "source": "https://zh.moegirl.org.cn/萨尔贡"
+        }
+      ],
+      "source": "https://zh.moegirl.org.cn/萨尔贡"
+    },
+    {
+      "id": "siracusa",
+      "summary": "家族主导的社会，西西里夫人协调诸家族秩序；城市治理在新沃尔西尼故事中发生改革。",
+      "people": [
+        {
+          "name": "西西里夫人",
+          "role": "西西里家族首领、诸家族秩序的核心",
+          "period": "对应剧情时期",
+          "portraitQuery": "西西里夫人",
+          "evidence": "西西里家族首领、诸家族秩序的核心",
+          "source": "https://zh.moegirl.org.cn/叙拉古"
+        },
+        {
+          "name": "贝纳尔多·贝洛内",
+          "role": "贝洛内家主，沃尔西尼事件中自尽",
+          "period": "《叙拉古人》",
+          "portraitQuery": "贝纳尔多",
+          "evidence": "贝洛内家主，沃尔西尼事件中自尽",
+          "source": "https://zh.moegirl.org.cn/叙拉古"
+        },
+        {
+          "name": "阿尔贝托·萨卢佐",
+          "role": "萨卢佐家主",
+          "period": "《叙拉古人》",
+          "portraitQuery": "阿尔贝托·萨卢佐",
+          "evidence": "萨卢佐家主",
+          "source": "https://zh.moegirl.org.cn/叙拉古"
+        },
+        {
+          "name": "城邦联合议事会",
+          "role": "中央行政机关，由各城邦代表组成并推选主席",
+          "period": "制度",
+          "portraitQuery": null,
+          "source": "https://zh.moegirl.org.cn/叙拉古",
+          "evidence": "政治机构一节：城邦代表组成中央行政机关。"
+        }
+      ],
+      "operators": [
+        "德克萨斯",
+        "拉普兰德",
+        "伺夜",
+        "斥罪",
+        "普罗旺斯",
+        "安洁莉娜",
+        "铃兰",
+        "忍冬"
+      ],
+      "cities": [
+        {
+          "name": "蒙特卢佩",
+          "locationNote": "政治中心",
+          "source": "https://zh.moegirl.org.cn/叙拉古"
+        },
+        {
+          "name": "沃尔西尼",
+          "locationNote": "《叙拉古人》发生城市",
+          "source": "https://zh.moegirl.org.cn/叙拉古"
+        },
+        {
+          "name": "新沃尔西尼",
+          "locationNote": "新建城市，承接改革故事",
+          "source": "https://zh.moegirl.org.cn/叙拉古"
+        }
+      ],
+      "source": "https://zh.moegirl.org.cn/叙拉古"
+    },
+    {
+      "id": "minos",
+      "summary": "有英雄信仰与艺术传统的城邦社会，经历萨尔贡占领后重获独立。",
+      "people": [
+        {
+          "name": "城邦祭司与公民",
+          "role": "祭司与各地城邦社会；本条不把历史十二英雄当作当代全国政府",
+          "period": "对应剧情时期",
+          "portraitQuery": "城邦祭司与公民",
+          "evidence": "祭司与各地城邦社会；本条不把历史十二英雄当作当代全国政府",
+          "source": "https://zh.moegirl.org.cn/米诺斯(明日方舟)"
+        },
+        {
+          "name": "十二英雄",
+          "role": "领导复国的历史人物群体",
+          "period": "1041年复国战争",
+          "portraitQuery": "十二英雄",
+          "evidence": "领导复国的历史人物群体",
+          "source": "https://zh.moegirl.org.cn/米诺斯(明日方舟)"
+        }
+      ],
+      "operators": [
+        "帕拉斯",
+        "调香师",
+        "可颂",
+        "火神",
+        "铸铁",
+        "埃拉托"
+      ],
+      "cities": [
+        {
+          "name": "雅赛努斯",
+          "locationNote": "主要城邦与首都",
+          "source": "https://zh.moegirl.org.cn/米诺斯(明日方舟)"
+        }
+      ],
+      "source": "https://zh.moegirl.org.cn/米诺斯(明日方舟)"
+    },
+    {
+      "id": "kazdel",
+      "summary": "萨卡兹的故土，屡经毁灭与重建。魔王传承、军事委员会与巴别塔的领导关系须分阶段理解。",
+      "people": [
+        {
+          "name": "特蕾西娅",
+          "role": "前魔王、巴别塔创建者",
+          "period": "内战至第14章",
+          "portraitQuery": "特蕾西娅",
+          "evidence": "前魔王、巴别塔创建者",
+          "source": "https://zh.moegirl.org.cn/卡兹戴尔"
+        },
+        {
+          "name": "特雷西斯",
+          "role": "摄政王、卡兹戴尔军事委员会领袖",
+          "period": "内战与伦蒂尼姆战争",
+          "portraitQuery": "特雷西斯",
+          "evidence": "摄政王、卡兹戴尔军事委员会领袖",
+          "source": "https://zh.moegirl.org.cn/卡兹戴尔"
+        },
+        {
+          "name": "阿米娅",
+          "role": "承接魔王力量与使命；罗德岛公开领袖",
+          "period": "主线时期",
+          "portraitQuery": "阿米娅",
+          "evidence": "承接魔王力量与使命；罗德岛公开领袖",
+          "source": "https://zh.moegirl.org.cn/卡兹戴尔"
+        },
+        {
+          "name": "维什戴尔",
+          "role": "重建巴别塔的领导者",
+          "period": "伦蒂尼姆战争后",
+          "portraitQuery": "维什戴尔",
+          "evidence": "重建巴别塔的领导者",
+          "source": "https://zh.moegirl.org.cn/巴别塔(明日方舟)"
+        }
+      ],
+      "operators": [
+        "W",
+        "维什戴尔",
+        "泥岩",
+        "闪灵",
+        "夜莺",
+        "逻各斯",
+        "阿斯卡纶"
+      ],
+      "cities": [
+        {
+          "name": "卡兹戴尔",
+          "locationNote": "重建城市与地区同名；位置和形态随历史改变",
+          "source": "https://zh.moegirl.org.cn/卡兹戴尔"
+        }
+      ],
+      "source": "https://zh.moegirl.org.cn/卡兹戴尔"
+    },
+    {
+      "id": "columbia",
+      "summary": "工业和科研迅速发展的联邦。总统、副总统与军方、州及城市构成不同层次的行政体系。",
+      "people": [
+        {
+          "name": "马克·麦克斯",
+          "role": "哥伦比亚总统",
+          "period": "《孤星》",
+          "portraitQuery": "马克·麦克斯",
+          "evidence": "CW-3行动前，杰克逊明确提及总统马克·麦克斯。",
+          "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act25side/level_act25side_03_beg.txt"
+        },
+        {
+          "name": "杰克逊",
+          "role": "哥伦比亚副总统",
+          "period": "《孤星》",
+          "portraitQuery": "杰克逊",
+          "evidence": "哥伦比亚副总统",
+          "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act25side/level_act25side_01_end.txt"
+        },
+        {
+          "name": "布莱克",
+          "role": "国防部上校、特里蒙事件军方代表",
+          "period": "《孤星》",
+          "portraitQuery": "布莱克",
+          "evidence": "国防部上校、特里蒙事件军方代表",
+          "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act25side/level_act25side_01_end.txt"
+        }
+      ],
+      "operators": [
+        "赫默",
+        "塞雷娅",
+        "白面鸮",
+        "缪尔赛思",
+        "霍尔海雅",
+        "多萝西",
+        "星极"
+      ],
+      "cities": [
+        {
+          "name": "特里蒙",
+          "locationNote": "科研中心；《孤星》发生地",
+          "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act25side/level_act25side_01_end.txt"
+        }
+      ],
+      "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act25side/level_act25side_01_end.txt"
+    }
+  ],
+  "sources": [
+    {
+      "title": "谢拉格",
+      "url": "https://zh.moegirl.org.cn/谢拉格",
+      "accessVia": "https://moegirl.uk/谢拉格",
+      "readStatus": "已读取公开正文；萌娘条目通过镜像读取",
+      "reviewedAt": "2026-09-13"
+    },
+    {
+      "title": "初雪 · 客观履历",
+      "url": "https://wiki.biligame.com/arknights/初雪",
+      "accessVia": "https://wiki.biligame.com/arknights/初雪",
+      "readStatus": "已读取公开正文；萌娘条目通过镜像读取",
+      "reviewedAt": "2026-09-13"
+    },
+    {
+      "title": "维多利亚(明日方舟)",
+      "url": "https://zh.moegirl.org.cn/维多利亚(明日方舟)",
+      "accessVia": "https://moegirl.uk/维多利亚(明日方舟)",
+      "readStatus": "已读取公开正文；萌娘条目通过镜像读取",
+      "reviewedAt": "2026-09-13"
+    },
+    {
+      "title": "维多利亚战后议长",
+      "url": "https://zh.wikipedia.org/wiki/明日方舟",
+      "accessVia": "https://zh.wikipedia.org/wiki/明日方舟",
+      "readStatus": "已读取公开正文；萌娘条目通过镜像读取",
+      "reviewedAt": "2026-09-13"
+    },
+    {
+      "title": "乌萨斯",
+      "url": "https://zh.moegirl.org.cn/乌萨斯",
+      "accessVia": "https://moegirl.uk/乌萨斯",
+      "readStatus": "已读取公开正文；萌娘条目通过镜像读取",
+      "reviewedAt": "2026-09-13"
+    },
+    {
+      "title": "莱塔尼亚",
+      "url": "https://zh.moegirl.org.cn/莱塔尼亚",
+      "accessVia": "https://moegirl.uk/莱塔尼亚",
+      "readStatus": "已读取公开正文；萌娘条目通过镜像读取",
+      "reviewedAt": "2026-09-13"
+    },
+    {
+      "title": "卡西米尔",
+      "url": "https://zh.moegirl.org.cn/卡西米尔",
+      "accessVia": "https://moegirl.uk/卡西米尔",
+      "readStatus": "已读取公开正文；萌娘条目通过镜像读取",
+      "reviewedAt": "2026-09-13"
+    },
+    {
+      "title": "玻利瓦尔",
+      "url": "https://zh.moegirl.org.cn/玻利瓦尔",
+      "accessVia": "https://moegirl.uk/玻利瓦尔",
+      "readStatus": "已读取公开正文；萌娘条目通过镜像读取",
+      "reviewedAt": "2026-09-13"
+    },
+    {
+      "title": "炎(明日方舟)",
+      "url": "https://zh.moegirl.org.cn/炎(明日方舟)",
+      "accessVia": "https://moegirl.uk/炎(明日方舟)",
+      "readStatus": "已读取公开正文；萌娘条目通过镜像读取",
+      "reviewedAt": "2026-09-13"
+    },
+    {
+      "title": "东",
+      "url": "https://zh.moegirl.org.cn/东",
+      "accessVia": "https://moegirl.uk/东",
+      "readStatus": "已读取公开正文；萌娘条目通过镜像读取",
+      "reviewedAt": "2026-09-13"
+    },
+    {
+      "title": "拉特兰",
+      "url": "https://zh.moegirl.org.cn/拉特兰",
+      "accessVia": "https://moegirl.uk/拉特兰",
+      "readStatus": "已读取公开正文；萌娘条目通过镜像读取",
+      "reviewedAt": "2026-09-13"
+    },
+    {
+      "title": "伊比利亚",
+      "url": "https://zh.moegirl.org.cn/伊比利亚",
+      "accessVia": "https://moegirl.uk/伊比利亚",
+      "readStatus": "已读取公开正文；萌娘条目通过镜像读取",
+      "reviewedAt": "2026-09-13"
+    },
+    {
+      "title": "阿戈尔",
+      "url": "https://zh.moegirl.org.cn/阿戈尔",
+      "accessVia": "https://moegirl.uk/阿戈尔",
+      "readStatus": "已读取公开正文；萌娘条目通过镜像读取",
+      "reviewedAt": "2026-09-13"
+    },
+    {
+      "title": "杜林(国家)",
+      "url": "https://zh.moegirl.org.cn/杜林(国家)",
+      "accessVia": "https://moegirl.uk/index.php?title=杜林(国家)&variant=zh-hant",
+      "readStatus": "已读取公开正文；萌娘条目通过镜像读取",
+      "reviewedAt": "2026-09-13"
+    },
+    {
+      "title": "雷姆必拓",
+      "url": "https://zh.moegirl.org.cn/雷姆必拓",
+      "accessVia": "https://moegirl.uk/雷姆必拓",
+      "readStatus": "已读取公开正文；萌娘条目通过镜像读取",
+      "reviewedAt": "2026-09-13"
+    },
+    {
+      "title": "萨米(明日方舟)",
+      "url": "https://zh.moegirl.org.cn/萨米(明日方舟)",
+      "accessVia": "https://moegirl.uk/萨米(明日方舟)",
+      "readStatus": "已读取公开正文；萌娘条目通过镜像读取",
+      "reviewedAt": "2026-09-13"
+    },
+    {
+      "title": "萨尔贡",
+      "url": "https://zh.moegirl.org.cn/萨尔贡",
+      "accessVia": "https://moegirl.uk/萨尔贡",
+      "readStatus": "已读取公开正文；萌娘条目通过镜像读取",
+      "reviewedAt": "2026-09-13"
+    },
+    {
+      "title": "叙拉古",
+      "url": "https://zh.moegirl.org.cn/叙拉古",
+      "accessVia": "https://moegirl.uk/index.php?title=叙拉古&variant=zh-sg",
+      "readStatus": "已读取公开正文；萌娘条目通过镜像读取",
+      "reviewedAt": "2026-09-13"
+    },
+    {
+      "title": "米诺斯(明日方舟)",
+      "url": "https://zh.moegirl.org.cn/米诺斯(明日方舟)",
+      "accessVia": "https://moegirl.uk/米诺斯(明日方舟)",
+      "readStatus": "已读取公开正文；萌娘条目通过镜像读取",
+      "reviewedAt": "2026-09-13"
+    },
+    {
+      "title": "卡兹戴尔",
+      "url": "https://zh.moegirl.org.cn/卡兹戴尔",
+      "accessVia": "https://moegirl.uk/卡兹戴尔",
+      "readStatus": "已读取公开正文；萌娘条目通过镜像读取",
+      "reviewedAt": "2026-09-13"
+    },
+    {
+      "title": "巴别塔(明日方舟)",
+      "url": "https://zh.moegirl.org.cn/巴别塔(明日方舟)",
+      "accessVia": "https://moegirl.uk/巴别塔(明日方舟)",
+      "readStatus": "已读取公开正文；萌娘条目通过镜像读取",
+      "reviewedAt": "2026-09-13"
+    },
+    {
+      "title": "孤星 · CW-1",
+      "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act25side/level_act25side_01_end.txt",
+      "accessVia": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act25side/level_act25side_01_end.txt",
+      "readStatus": "已读取官方游戏文本的公开镜像",
+      "reviewedAt": "2026-09-13"
+    },
+    {
+      "title": "游戏原文 · CW-3 行动前",
+      "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act25side/level_act25side_03_beg.txt",
+      "accessVia": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act25side/level_act25side_03_beg.txt",
+      "readStatus": "已读取官方游戏文本的公开镜像",
+      "reviewedAt": "2026-09-13"
+    }
+  ],
+  "policy": "人物含国家领袖、地方长官、宗教领袖及机构；period明确时间范围。镜像内容不冒称已直接读取萌娘主站。城市方位只按文字证据，不代表永久坐标。",
+  "limitations": [
+    "本批核查不是全部历史人物穷举；机构条目没有捏造人物头像。",
+    "萌娘主站当前返回JavaScript检查，相关条目以公开镜像正文核读，保留访问入口。",
+    "头像查询名仅用于查找，不表示已下载或已通过视觉认定。",
+    "行政区域图的城市坐标需另据原图及地理描述标定；本文件不提供伪精确坐标。"
+  ]
+}

@@ -1,0 +1,1549 @@
+{
+  "version": "0.5.0",
+  "reviewedAt": "2026-09-16",
+  "coordinatePolicy": "大陆底图是参考2020初探相对布局的绘卷。相对方位点仅表达来源支持的区域方向，未确认位置的地点保留地区索引；所有锚点均非官方测绘坐标。",
+  "cities": [
+    {
+      "name": "图里卡姆",
+      "aliases": [],
+      "region": "kjerag",
+      "kind": "城镇",
+      "summary": "谢拉格南部的重要贸易城镇，由银灰推动建设。铁路连接希瓦艾什领地与圣山脚下，是雪境对外商贸与现代化的窗口。",
+      "locationNote": "既有资料记载谢拉格南部希瓦艾什领地；本次镜像未提供该段落，方位待原文复核。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 谢拉格",
+          "url": "https://zh.moegirl.org.cn/谢拉格"
+        },
+        {
+          "title": "百度百科 · 谢拉格 · 地理特征",
+          "url": "https://bkso.baidu.com/item/谢拉格/61560898"
+        }
+      ],
+      "operators": [
+        "银灰",
+        "灵知"
+      ],
+      "people": [
+        "恩希欧迪斯·希瓦艾什"
+      ],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 谢拉格",
+          "url": "https://zh.moegirl.org.cn/谢拉格",
+          "accessVia": "https://moegirl.icu/谢拉格",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        },
+        {
+          "title": "百度百科 · 谢拉格 · 地理特征",
+          "url": "https://bkso.baidu.com/item/谢拉格/61560898"
+        }
+      ]
+    },
+    {
+      "name": "喀兰圣山",
+      "aliases": [
+        "喀兰峰",
+        "卡兰圣山"
+      ],
+      "region": "kjerag",
+      "kind": "宗教圣地",
+      "summary": "谢拉格的圣山，蔓珠院与喀兰圣女在此主持宗教事务。“天路”、铃架和圣女选拔仪式与这里密切相关，也是《风雪过境》的关键舞台。",
+      "locationNote": "宗教圣地，蔓珠院所在地；未核得地区内方位，仅以所属地区索引显示。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 谢拉格",
+          "url": "https://zh.moegirl.org.cn/谢拉格"
+        }
+      ],
+      "operators": [
+        "初雪",
+        "耶拉",
+        "崖心"
+      ],
+      "people": [
+        "恩雅·希瓦艾什",
+        "耶拉冈德"
+      ],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 谢拉格",
+          "url": "https://zh.moegirl.org.cn/谢拉格",
+          "accessVia": "https://moegirl.icu/谢拉格",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "银心湖",
+      "aliases": [],
+      "region": "kjerag",
+      "kind": "湖泊",
+      "summary": "圣山附近的冰封湖泊，湖心岛建有耶拉冈德巨像。《银心湖列车》中，巨像落成典礼成为谢拉格与外国来宾往来的重要场合。",
+      "locationNote": "临近喀兰圣山的冰封湖泊",
+      "sources": [
+        {
+          "title": "萌娘百科 · 谢拉格",
+          "url": "https://zh.moegirl.org.cn/谢拉格"
+        }
+      ],
+      "operators": [
+        "初雪",
+        "银灰",
+        "锏"
+      ],
+      "people": [
+        "恩雅·希瓦艾什"
+      ],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 谢拉格",
+          "url": "https://zh.moegirl.org.cn/谢拉格",
+          "accessVia": "https://moegirl.icu/谢拉格",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "伦蒂尼姆",
+      "aliases": [],
+      "region": "victoria",
+      "kind": "移动城市",
+      "summary": "维多利亚首都，拥有王宫、议会与庞大工业设施。主线第十至十四章围绕被萨卡兹军事委员会占据的城市展开，碎片大厦与城市地下成为关键战场。",
+      "locationNote": "维多利亚首都；现有材料不足以确定其大陆图内的精确位置。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 维多利亚(明日方舟)",
+          "url": "https://zh.moegirl.org.cn/维多利亚(明日方舟)"
+        }
+      ],
+      "operators": [
+        "维娜·维多利亚",
+        "阿米娅",
+        "号角"
+      ],
+      "people": [
+        "维娜·维多利亚",
+        "特雷西斯"
+      ],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 维多利亚(明日方舟)",
+          "url": "https://zh.moegirl.org.cn/维多利亚(明日方舟)",
+          "accessVia": "https://moegirl.icu/维多利亚(明日方舟)",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "小丘郡",
+      "aliases": [],
+      "region": "victoria",
+      "kind": "移动城市",
+      "summary": "维多利亚的移动城市，居住着许多塔拉人。第九章中，罗德岛调查员与风暴突击队卷入驻军及深池冲突，城市遭遇严重灾难。",
+      "locationNote": "维多利亚塔拉地区，邻近康纳郡；相对伦蒂尼姆的罗盘方向未核实。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 维多利亚(明日方舟)",
+          "url": "https://zh.moegirl.org.cn/维多利亚(明日方舟)"
+        }
+      ],
+      "operators": [
+        "风笛",
+        "号角",
+        "苇草"
+      ],
+      "people": [
+        "爱布拉娜"
+      ],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 维多利亚(明日方舟)",
+          "url": "https://zh.moegirl.org.cn/维多利亚(明日方舟)",
+          "accessVia": "https://moegirl.icu/维多利亚(明日方舟)",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "卡拉顿",
+      "aliases": [],
+      "region": "victoria",
+      "kind": "城市",
+      "summary": "高多汀公爵领内的沿海工业城市，设有港区、工厂和感染者社区。废弃运输管线构成复杂地下网络，是《阴云火花》涉及的地点。",
+      "locationNote": "高多汀领内沿海城市",
+      "sources": [
+        {
+          "title": "萌娘百科 · 维多利亚(明日方舟)",
+          "url": "https://zh.moegirl.org.cn/维多利亚(明日方舟)"
+        }
+      ],
+      "operators": [
+        "号角"
+      ],
+      "people": [
+        "高多汀公爵"
+      ],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 维多利亚(明日方舟)",
+          "url": "https://zh.moegirl.org.cn/维多利亚(明日方舟)",
+          "accessVia": "https://moegirl.icu/维多利亚(明日方舟)",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "博森德尔",
+      "aliases": [],
+      "region": "victoria",
+      "kind": "城市",
+      "summary": "维多利亚北部边境的小城。城外夏恩山可远眺卡西米尔平原；《阴云火花》通过苏茜的家庭往事提到这里。",
+      "locationNote": "维多利亚北部边境，邻近卡西米尔方向；目前仅收录目录。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 维多利亚(明日方舟)",
+          "url": "https://zh.moegirl.org.cn/维多利亚(明日方舟)"
+        }
+      ],
+      "operators": [
+        "澄闪"
+      ],
+      "people": [],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 维多利亚(明日方舟)",
+          "url": "https://zh.moegirl.org.cn/维多利亚(明日方舟)",
+          "accessVia": "https://moegirl.icu/维多利亚(明日方舟)",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "纳斯尔纱",
+      "aliases": [],
+      "region": "victoria",
+      "kind": "地区",
+      "summary": "《我们明日见》中提及的塔拉王国核心地区。其意义在于塔拉政治与历史，不应仅凭一个名称把它视为已核定位置的独立移动城。",
+      "locationNote": "塔拉王国核心；《我们明日见》",
+      "sources": [
+        {
+          "title": "萌娘百科 · 维多利亚(明日方舟)",
+          "url": "https://zh.moegirl.org.cn/维多利亚(明日方舟)"
+        }
+      ],
+      "operators": [],
+      "people": [],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 维多利亚(明日方舟)",
+          "url": "https://zh.moegirl.org.cn/维多利亚(明日方舟)",
+          "accessVia": "https://moegirl.icu/维多利亚(明日方舟)",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "圣骏堡",
+      "aliases": [],
+      "region": "ursus",
+      "kind": "首都",
+      "summary": "乌萨斯帝国首都，皇帝与帝国议会在此处理国政。城市名称沿自骏鹰王国时代；它与切尔诺伯格是两处不同的城市。",
+      "locationNote": "乌萨斯首都；已核资料没有给出足以定位的帝国内部方位。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 乌萨斯",
+          "url": "https://zh.moegirl.org.cn/乌萨斯"
+        }
+      ],
+      "operators": [],
+      "people": [
+        "费奥多尔·弗拉基米罗维奇",
+        "伊斯拉姆·维特"
+      ],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 乌萨斯",
+          "url": "https://zh.moegirl.org.cn/乌萨斯",
+          "accessVia": "https://moegirl.icu/乌萨斯",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "切尔诺伯格",
+      "aliases": [],
+      "region": "ursus",
+      "kind": "移动城市",
+      "summary": "乌萨斯南部重镇，研究所曾利用“石棺”推进能源研究。序章从营救博士开始；城市在天灾与整合运动占领后分裂，核心城驶向龙门引发后续危机。",
+      "locationNote": "乌萨斯南部；主线切城—龙门事件期间核心城向龙门移动，标记表示事件区域，不是永久城址。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 乌萨斯",
+          "url": "https://zh.moegirl.org.cn/乌萨斯"
+        }
+      ],
+      "operators": [
+        "阿米娅",
+        "赫拉格",
+        "凛冬",
+        "真理",
+        "古米",
+        "早露",
+        "烈夏",
+        "苦艾"
+      ],
+      "people": [
+        "鲍里斯侯爵"
+      ],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 乌萨斯",
+          "url": "https://zh.moegirl.org.cn/乌萨斯",
+          "accessVia": "https://moegirl.icu/乌萨斯",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "崔林特尔梅",
+      "aliases": [
+        "维杜尼亚"
+      ],
+      "region": "leithanien",
+      "kind": "首都",
+      "summary": "莱塔尼亚首都，旧名维杜尼亚。双子女皇在巫王高塔的废墟上建起黑白双塔，城市随之更名，也是《崔林特尔梅之金》的主要舞台。",
+      "locationNote": "双子女皇时代首都；未核得地区内方位，仅以所属地区索引显示。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 莱塔尼亚",
+          "url": "https://zh.moegirl.org.cn/莱塔尼亚"
+        }
+      ],
+      "operators": [
+        "薇薇安娜",
+        "塑心",
+        "止颂"
+      ],
+      "people": [
+        "莉泽洛特·伊维格娜德",
+        "希尔德加德·赫琳玛特"
+      ],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 莱塔尼亚",
+          "url": "https://zh.moegirl.org.cn/莱塔尼亚",
+          "accessVia": "https://moegirl.icu/莱塔尼亚",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "维谢海姆",
+      "aliases": [],
+      "region": "leithanien",
+      "kind": "移动城市",
+      "summary": "《尘影余音》的发生地。城内夕照区聚居感染者，夕照厅与音乐家车尔尼的生活紧密相连；格特鲁德事件后，由市议会接手治理。",
+      "locationNote": "《尘影余音》发生地；未核得地区内方位，仅以所属地区索引显示。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 莱塔尼亚",
+          "url": "https://zh.moegirl.org.cn/莱塔尼亚"
+        }
+      ],
+      "operators": [
+        "黑键",
+        "车尔尼"
+      ],
+      "people": [
+        "格特鲁德·斯特罗洛"
+      ],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 莱塔尼亚",
+          "url": "https://zh.moegirl.org.cn/莱塔尼亚",
+          "accessVia": "https://moegirl.icu/莱塔尼亚",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "乌提卡",
+      "aliases": [],
+      "region": "leithanien",
+      "kind": "伯爵领",
+      "summary": "莱塔尼亚的乌提卡伯爵领，与巫王家族及黑键的身份有关。黑键曾作为伯爵被置于贵族政治之中；此处以领地收录，不冒充已确认的城市。",
+      "locationNote": "莱塔尼亚伯爵领；不将领地名称等同固定城市坐标",
+      "sources": [
+        {
+          "title": "萌娘百科 · 莱塔尼亚",
+          "url": "https://zh.moegirl.org.cn/莱塔尼亚"
+        }
+      ],
+      "operators": [
+        "黑键",
+        "止颂"
+      ],
+      "people": [
+        "赫尔昏佐伦"
+      ],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 莱塔尼亚",
+          "url": "https://zh.moegirl.org.cn/莱塔尼亚",
+          "accessVia": "https://moegirl.icu/莱塔尼亚",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "卡瓦莱利亚基",
+      "aliases": [
+        "大骑士领"
+      ],
+      "region": "kazimierz",
+      "kind": "城市联合体",
+      "summary": "卡瓦莱利亚基，又称大骑士领，由四座移动城市定期拼接而成。骑士竞技、商业联合会与监正会在此交汇，是《玛莉娅·临光》《长夜临光》的核心舞台。",
+      "locationNote": "四座移动城市组成的城市联合体；未核得地区内方位，仅以所属地区索引显示。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 卡西米尔",
+          "url": "https://zh.moegirl.org.cn/卡西米尔"
+        }
+      ],
+      "operators": [
+        "临光",
+        "瑕光",
+        "焰尾",
+        "砾"
+      ],
+      "people": [
+        "伊奥莱塔·罗素",
+        "商业联合会"
+      ],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 卡西米尔",
+          "url": "https://zh.moegirl.org.cn/卡西米尔",
+          "accessVia": "https://moegirl.icu/卡西米尔",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "滴水村",
+      "aliases": [],
+      "region": "kazimierz",
+      "kind": "村庄",
+      "summary": "《骑兵与猎人》的故事发生地，坐落于卡西米尔山区，是通往北部控制区的道路节点。村庄卷入赏金猎人与感染者逃亡者的冲突。",
+      "locationNote": "《骑兵与猎人》发生地",
+      "sources": [
+        {
+          "title": "萌娘百科 · 卡西米尔",
+          "url": "https://zh.moegirl.org.cn/卡西米尔"
+        }
+      ],
+      "operators": [
+        "格拉尼",
+        "斯卡蒂"
+      ],
+      "people": [],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 卡西米尔",
+          "url": "https://zh.moegirl.org.cn/卡西米尔",
+          "accessVia": "https://moegirl.icu/卡西米尔",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "茨沃涅克",
+      "aliases": [],
+      "region": "kazimierz",
+      "kind": "城市",
+      "summary": "曾为卡西米尔与莱塔尼亚对峙前线的要塞城市。关系缓和后，城市与格劳菲尔德发展贸易，建成莱塔尼亚风格商业街及“骑士之声”雕塑。",
+      "locationNote": "卡西米尔与莱塔尼亚旧对峙前线；暂无足够资料定位当前城市。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 卡西米尔",
+          "url": "https://zh.moegirl.org.cn/卡西米尔"
+        }
+      ],
+      "operators": [],
+      "people": [],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 卡西米尔",
+          "url": "https://zh.moegirl.org.cn/卡西米尔",
+          "accessVia": "https://moegirl.icu/卡西米尔",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "多索雷斯",
+      "aliases": [],
+      "region": "bolivar",
+      "kind": "移动城市",
+      "summary": "以人工海、海滩和极限铁人大奖赛闻名的度假城市。市长坎黛拉在玻利瓦尔各方势力之间维持城市运作；《多索雷斯假日》在此展开。",
+      "locationNote": "资料称位于玻利瓦尔、哥伦比亚与莱塔尼亚交汇区域；2020初探图无法表达这一关系，保留玻利瓦尔所属索引。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 玻利瓦尔",
+          "url": "https://zh.moegirl.org.cn/玻利瓦尔"
+        }
+      ],
+      "operators": [
+        "假日威龙陈",
+        "龙舌兰",
+        "羽毛笔"
+      ],
+      "people": [
+        "坎黛拉·桑切斯"
+      ],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 玻利瓦尔",
+          "url": "https://zh.moegirl.org.cn/玻利瓦尔",
+          "accessVia": "https://moegirl.icu/玻利瓦尔",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "大辛德拉卡托",
+      "aliases": [],
+      "region": "bolivar",
+      "kind": "都城",
+      "summary": "辛嘉斯王朝的都城，属于玻利瓦尔相互争夺主权的政治体系之一。它与联合政府的拉乌尼达、多索雷斯不是同一城市。",
+      "locationNote": "辛嘉斯王朝都城",
+      "sources": [
+        {
+          "title": "萌娘百科 · 玻利瓦尔",
+          "url": "https://zh.moegirl.org.cn/玻利瓦尔"
+        }
+      ],
+      "operators": [],
+      "people": [
+        "辛嘉斯王朝"
+      ],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 玻利瓦尔",
+          "url": "https://zh.moegirl.org.cn/玻利瓦尔",
+          "accessVia": "https://moegirl.icu/玻利瓦尔",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "拉乌尼达",
+      "aliases": [],
+      "region": "bolivar",
+      "kind": "都城",
+      "summary": "玻利瓦尔联合政府的都城，最高议会驻地。此条目描述联合政府的政治中心，不将它当作玻利瓦尔全境唯一首都。",
+      "locationNote": "联合政府都城",
+      "sources": [
+        {
+          "title": "萌娘百科 · 玻利瓦尔",
+          "url": "https://zh.moegirl.org.cn/玻利瓦尔"
+        }
+      ],
+      "operators": [],
+      "people": [
+        "联合政府最高议会"
+      ],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 玻利瓦尔",
+          "url": "https://zh.moegirl.org.cn/玻利瓦尔",
+          "accessVia": "https://moegirl.icu/玻利瓦尔",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "百灶",
+      "aliases": [],
+      "region": "yan",
+      "kind": "都城",
+      "summary": "炎国都城，皇朝中枢所在。与负责边境防御的玉门、商贸城邦龙门不同，百灶在资料中主要承担帝国政治中心的角色。",
+      "locationNote": "炎国都城",
+      "sources": [
+        {
+          "title": "萌娘百科 · 炎(明日方舟)",
+          "url": "https://zh.moegirl.org.cn/炎(明日方舟)"
+        }
+      ],
+      "operators": [],
+      "people": [
+        "炎国皇帝"
+      ],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 炎(明日方舟)",
+          "url": "https://zh.moegirl.org.cn/炎(明日方舟)",
+          "accessVia": "https://moegirl.icu/炎(明日方舟)",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "龙门",
+      "aliases": [],
+      "region": "yan",
+      "kind": "移动城邦",
+      "summary": "炎国的移动商贸城邦，由魏彦吾主持政务，龙门近卫局负责治安。罗德岛在切尔诺伯格事件后与龙门合作，第二、三、五、六章围绕城内外冲突展开。",
+      "locationNote": "炎国西北边境，邻近乌萨斯；移动城邦的位置随故事时期改变。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 炎(明日方舟)",
+          "url": "https://zh.moegirl.org.cn/炎(明日方舟)"
+        }
+      ],
+      "operators": [
+        "陈",
+        "星熊",
+        "诗怀雅",
+        "林",
+        "雪雉",
+        "孑"
+      ],
+      "people": [
+        "魏彦吾"
+      ],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 炎(明日方舟)",
+          "url": "https://zh.moegirl.org.cn/炎(明日方舟)",
+          "accessVia": "https://moegirl.icu/炎(明日方舟)",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        },
+        {
+          "title": "百度百科 · 龙门 · 地理位置",
+          "url": "https://bkso.baidu.com/item/龙门/24704991",
+          "evidence": "炎国西北边境"
+        }
+      ]
+    },
+    {
+      "name": "玉门",
+      "aliases": [],
+      "region": "yan",
+      "kind": "移动城市",
+      "summary": "炎国边疆重城，兼具军事防御与边境交通功能。《登临意》中，玉门面对天灾与旧怨，左宣辽、重岳等人的行动牵动城市命运。",
+      "locationNote": "炎国西北防务重镇；《将进酒》末曾与龙门接驳，后续有迁移，非永久坐标。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 炎(明日方舟)",
+          "url": "https://zh.moegirl.org.cn/炎(明日方舟)"
+        }
+      ],
+      "operators": [
+        "重岳",
+        "仇白",
+        "截云"
+      ],
+      "people": [
+        "左宣辽"
+      ],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 炎(明日方舟)",
+          "url": "https://zh.moegirl.org.cn/炎(明日方舟)",
+          "accessVia": "https://moegirl.icu/炎(明日方舟)",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "尚蜀",
+      "aliases": [],
+      "region": "yan",
+      "kind": "城市",
+      "summary": "炎国山地城市，《将进酒》的主要发生地。山水街巷之间，罗德岛干员卷入令、岁兽相关人物及朝廷调查者的相逢。",
+      "locationNote": "炎国中心腹地的山地移动城市；不按现实四川地理位置套用。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 炎(明日方舟)",
+          "url": "https://zh.moegirl.org.cn/炎(明日方舟)"
+        }
+      ],
+      "operators": [
+        "令",
+        "老鲤",
+        "乌有"
+      ],
+      "people": [],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 炎(明日方舟)",
+          "url": "https://zh.moegirl.org.cn/炎(明日方舟)",
+          "accessVia": "https://moegirl.icu/炎(明日方舟)",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "勾吴城",
+      "aliases": [],
+      "region": "yan",
+      "kind": "城市",
+      "summary": "炎国江南地区的商贸城市，在炎国地理资料中作为城镇记载。现有资料不足以确定其城区图与固定测绘坐标。",
+      "locationNote": "江南商贸城市",
+      "sources": [
+        {
+          "title": "萌娘百科 · 炎(明日方舟)",
+          "url": "https://zh.moegirl.org.cn/炎(明日方舟)"
+        }
+      ],
+      "operators": [],
+      "people": [],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 炎(明日方舟)",
+          "url": "https://zh.moegirl.org.cn/炎(明日方舟)",
+          "accessVia": "https://moegirl.icu/炎(明日方舟)",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "锁川",
+      "aliases": [],
+      "region": "higashi",
+      "kind": "都城",
+      "summary": "东国北朝的首都，北院镇守锁川城。它对应南北分治中的北方政治中心，与南朝御机分别收录。",
+      "locationNote": "北朝首都，北院镇守锁川城",
+      "sources": [
+        {
+          "title": "萌娘百科 · 东",
+          "url": "https://zh.moegirl.org.cn/东"
+        }
+      ],
+      "operators": [],
+      "people": [
+        "北朝光严一派"
+      ],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 东",
+          "url": "https://zh.moegirl.org.cn/东",
+          "accessVia": "https://moegirl.icu/东",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "御机",
+      "aliases": [],
+      "region": "higashi",
+      "kind": "都城",
+      "summary": "东国南朝的首都，南院行在设于御机大社。此处按南朝政治中心记录，不将它写成统一东国的唯一首都。",
+      "locationNote": "南朝首都，南院行在御机大社",
+      "sources": [
+        {
+          "title": "萌娘百科 · 东",
+          "url": "https://zh.moegirl.org.cn/东"
+        }
+      ],
+      "operators": [],
+      "people": [
+        "南朝光元一派"
+      ],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 东",
+          "url": "https://zh.moegirl.org.cn/东",
+          "accessVia": "https://moegirl.icu/东",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "新安芸市",
+      "aliases": [],
+      "region": "higashi",
+      "kind": "城市",
+      "summary": "东国资料中记载的一座重建城市。当前收录以其名称和重建背景为限，不补写未核实的市长、城区或迁移路线。",
+      "locationNote": "重建过的城市",
+      "sources": [
+        {
+          "title": "萌娘百科 · 东",
+          "url": "https://zh.moegirl.org.cn/东"
+        }
+      ],
+      "operators": [],
+      "people": [],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 东",
+          "url": "https://zh.moegirl.org.cn/东",
+          "accessVia": "https://moegirl.icu/东",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "露华村",
+      "aliases": [],
+      "region": "higashi",
+      "kind": "村庄",
+      "summary": "苍暮山地附近的猎人村庄，曾因秘密开采源石矿脉致富。《落叶逐火》中遭遇火龙、兽潮与天灾，居民获救后开始重建。",
+      "locationNote": "苍暮山地附近聚落",
+      "sources": [
+        {
+          "title": "萌娘百科 · 东",
+          "url": "https://zh.moegirl.org.cn/东"
+        }
+      ],
+      "operators": [
+        "夜刀",
+        "黑角"
+      ],
+      "people": [
+        "泷居应"
+      ],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 东",
+          "url": "https://zh.moegirl.org.cn/东",
+          "accessVia": "https://moegirl.icu/东",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "拉特兰",
+      "aliases": [
+        "拉特兰城"
+      ],
+      "region": "laterano",
+      "kind": "城邦",
+      "summary": "与国家同名的宗教城邦，教宗与公证所等机构在此运作。《吾导先路》的万国峰会及安多恩与蕾缪安等人的往事均与这里相关。",
+      "locationNote": "同名国家的宗教城邦；以国家地区索引收录，城市在国家内的坐标未核定。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 拉特兰",
+          "url": "https://zh.moegirl.org.cn/拉特兰"
+        }
+      ],
+      "operators": [
+        "能天使",
+        "菲亚梅塔",
+        "送葬人",
+        "蕾缪安"
+      ],
+      "people": [
+        "伊万杰利斯塔十一世",
+        "蕾缪安"
+      ],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 拉特兰",
+          "url": "https://zh.moegirl.org.cn/拉特兰",
+          "accessVia": "https://moegirl.icu/拉特兰",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "安布罗修修道院",
+      "aliases": [],
+      "region": "laterano",
+      "kind": "移动修道院",
+      "summary": "拉特兰与伊比利亚合建的移动修道院，失联多年后成为《空想花庭》的舞台。修道院居民试图前往拉特兰，它不是有永久位置的普通城邦。",
+      "locationNote": "移动修道院；不作为永久城市坐标",
+      "sources": [
+        {
+          "title": "萌娘百科 · 拉特兰",
+          "url": "https://zh.moegirl.org.cn/拉特兰"
+        }
+      ],
+      "operators": [
+        "圣约送葬人",
+        "隐现"
+      ],
+      "people": [],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 拉特兰",
+          "url": "https://zh.moegirl.org.cn/拉特兰",
+          "accessVia": "https://moegirl.icu/拉特兰",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "雷亚-伊比利亚",
+      "aliases": [],
+      "region": "iberia",
+      "kind": "旧王城",
+      "summary": "大静谧以前的伊比利亚王城。在灾难到来前发出最后一道诏令后失去联系；不能把失联进一步断言为已证实的全城沉没。",
+      "locationNote": "伊比利亚旧王城；大静谧后失去联系，精确位置未核定",
+      "sources": [
+        {
+          "title": "萌娘百科 · 伊比利亚",
+          "url": "https://zh.moegirl.org.cn/伊比利亚"
+        }
+      ],
+      "operators": [],
+      "people": [],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 伊比利亚",
+          "url": "https://zh.moegirl.org.cn/伊比利亚",
+          "accessVia": "https://moegirl.icu/伊比利亚",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "佩尔多尼",
+      "aliases": [],
+      "region": "iberia",
+      "kind": "首都",
+      "summary": "大静谧后伊比利亚的首都，承接旧王城失联后的政治中心职能。它与沿海衰败的盐风城、格兰法洛分别记录。",
+      "locationNote": "大静谧后政治中心",
+      "sources": [
+        {
+          "title": "萌娘百科 · 伊比利亚",
+          "url": "https://zh.moegirl.org.cn/伊比利亚"
+        }
+      ],
+      "operators": [],
+      "people": [],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 伊比利亚",
+          "url": "https://zh.moegirl.org.cn/伊比利亚",
+          "accessVia": "https://moegirl.icu/伊比利亚",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "格兰法洛",
+      "aliases": [],
+      "region": "iberia",
+      "kind": "沿海村镇",
+      "summary": "《愚人号》中临近伊比利亚之眼的沿海村镇，名称有“灯塔”之意。乔迪在此生活，后来以流明为代号成为罗德岛干员。",
+      "locationNote": "伊比利亚沿海村镇，邻近伊比利亚之眼；仅示意沿海带，不确定在海岸线上的精确段落。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 伊比利亚",
+          "url": "https://zh.moegirl.org.cn/伊比利亚"
+        }
+      ],
+      "operators": [
+        "流明",
+        "艾丽妮"
+      ],
+      "people": [
+        "达里奥"
+      ],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 伊比利亚",
+          "url": "https://zh.moegirl.org.cn/伊比利亚",
+          "accessVia": "https://moegirl.icu/伊比利亚",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "盐风城",
+      "aliases": [],
+      "region": "iberia",
+      "kind": "城市",
+      "summary": "大静谧后衰败的伊比利亚沿海城市。《覆潮之下》中，居民受到深海教会控制，深海猎人在此揭开教堂与海嗣背后的危机。",
+      "locationNote": "伊比利亚沿海城市；具体海岸段未确认。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 伊比利亚",
+          "url": "https://zh.moegirl.org.cn/伊比利亚"
+        }
+      ],
+      "operators": [
+        "斯卡蒂",
+        "歌蕾蒂娅",
+        "幽灵鲨"
+      ],
+      "people": [],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 伊比利亚",
+          "url": "https://zh.moegirl.org.cn/伊比利亚",
+          "accessVia": "https://moegirl.icu/伊比利亚",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "雅隆",
+      "aliases": [],
+      "region": "iberia",
+      "kind": "城市",
+      "summary": "《追迹日落以西》涉及的伊比利亚城市。该条目按故事地点收录，现有地理资料尚不足以定位其具体城区边界。",
+      "locationNote": "伊比利亚曾经沿海的聚落、邻近苍白海盐漠；具体位置未确认。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 伊比利亚",
+          "url": "https://zh.moegirl.org.cn/伊比利亚"
+        }
+      ],
+      "operators": [
+        "棘刺"
+      ],
+      "people": [],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 伊比利亚",
+          "url": "https://zh.moegirl.org.cn/伊比利亚",
+          "accessVia": "https://moegirl.icu/伊比利亚",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "弥利亚留姆",
+      "aliases": [],
+      "region": "aegir",
+      "kind": "海底城市",
+      "summary": "阿戈尔的海底城市，《生路》的主要舞台之一。城市面对来自海嗣的压力，阿戈尔社会与深海猎人的处境在此交织。",
+      "locationNote": "海底城市；《生路》主要发生地",
+      "sources": [
+        {
+          "title": "萌娘百科 · 阿戈尔",
+          "url": "https://zh.moegirl.org.cn/阿戈尔"
+        },
+        {
+          "title": "BWIKI · 生路",
+          "url": "https://wiki.biligame.com/arknights/生路"
+        }
+      ],
+      "operators": [
+        "乌尔比安",
+        "歌蕾蒂娅"
+      ],
+      "people": [],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 阿戈尔",
+          "url": "https://zh.moegirl.org.cn/阿戈尔",
+          "accessVia": "https://moegirl.icu/阿戈尔",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        },
+        {
+          "title": "BWIKI · 生路",
+          "url": "https://wiki.biligame.com/arknights/生路"
+        }
+      ]
+    },
+    {
+      "name": "赫库兰尼姆",
+      "aliases": [],
+      "region": "aegir",
+      "kind": "历史城市",
+      "summary": "阿戈尔资料中记载的历史海底城市，曾遭受火山灾害而毁坏。以遗址和历史城市收录，不能视为仍在正常运转的现代城邦。",
+      "locationNote": "被火山灾害毁坏的历史城市",
+      "sources": [
+        {
+          "title": "萌娘百科 · 阿戈尔",
+          "url": "https://zh.moegirl.org.cn/阿戈尔"
+        }
+      ],
+      "operators": [],
+      "people": [],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 阿戈尔",
+          "url": "https://zh.moegirl.org.cn/阿戈尔",
+          "accessVia": "https://moegirl.icu/阿戈尔",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "际崖城",
+      "aliases": [],
+      "region": "durin",
+      "kind": "地下城市",
+      "summary": "位于阿卡胡拉地下的杜林城市，以工程设施、娱乐与水上活动呈现独特生活方式。《理想城》事件后，居民撤至地表，不能沿用旧址表示人口现居地。",
+      "locationNote": "旧城位于阿卡胡拉地下，居民后撤至地表；不在海上另造一个杜林城市点。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 杜林(国家)",
+          "url": "https://zh.moegirl.org.cn/杜林(国家)"
+        }
+      ],
+      "operators": [
+        "鸿雪",
+        "至简",
+        "百炼嘉维尔"
+      ],
+      "people": [
+        "克罗绮·砖石",
+        "黛柯绮·银币",
+        "卡奇·叙光",
+        "耶奇·地心",
+        "芬奇·画布"
+      ],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 杜林(国家)",
+          "url": "https://zh.moegirl.org.cn/杜林(国家)",
+          "accessVia": "https://moegirl.icu/杜林(国家)",
+          "accessNote": "本次公开镜像未取得可复核全文；沿用既有来源条目，仅保留地区目录，不支持坐标确认。"
+        }
+      ]
+    },
+    {
+      "name": "铁腕城",
+      "aliases": [],
+      "region": "rim",
+      "kind": "城市",
+      "summary": "雷姆必拓城市，也是医疗干员安赛尔的故乡。其名称和人物关联可核对，尚没有可以据此绘出街区与精确位置的官方城市图。",
+      "locationNote": "雷姆必拓城市",
+      "sources": [
+        {
+          "title": "萌娘百科 · 雷姆必拓",
+          "url": "https://zh.moegirl.org.cn/雷姆必拓"
+        }
+      ],
+      "operators": [
+        "安赛尔"
+      ],
+      "people": [],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 雷姆必拓",
+          "url": "https://zh.moegirl.org.cn/雷姆必拓",
+          "accessVia": "https://moegirl.icu/雷姆必拓",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "钢铁萝卜城",
+      "aliases": [],
+      "region": "rim",
+      "kind": "城市",
+      "summary": "雷姆必拓南方的矿业城市，矿石产量突出，也是干员四月的故乡。城市名称沿用当地直白的地名习惯。",
+      "locationNote": "既有资料称雷姆必拓南方矿业城市；本次未取得可复核定位原文，仅保留地区索引。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 雷姆必拓",
+          "url": "https://zh.moegirl.org.cn/雷姆必拓"
+        }
+      ],
+      "operators": [
+        "四月"
+      ],
+      "people": [],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 雷姆必拓",
+          "url": "https://zh.moegirl.org.cn/雷姆必拓",
+          "accessVia": "https://moegirl.icu/雷姆必拓",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "咧嘴谷",
+      "aliases": [],
+      "region": "rim",
+      "kind": "山谷",
+      "summary": "因地裂形状似咧开的嘴而得名的山谷，《去咧嘴谷》的故事地点。长期天灾使其成为无人区域，沙地兽与沉睡巨兽在此活动。",
+      "locationNote": "雷姆必拓山谷；长期天灾笼罩，不作为居民聚落",
+      "sources": [
+        {
+          "title": "萌娘百科 · 雷姆必拓",
+          "url": "https://zh.moegirl.org.cn/雷姆必拓"
+        }
+      ],
+      "operators": [],
+      "people": [],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 雷姆必拓",
+          "url": "https://zh.moegirl.org.cn/雷姆必拓",
+          "accessVia": "https://moegirl.icu/雷姆必拓",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "亡寒部族",
+      "aliases": [],
+      "region": "sami",
+      "kind": "部族故地",
+      "summary": "寒檀原属的萨米部族，曾生活在萨米与乌萨斯交界、接近冰原入口的林地。暴风雪迫使多数族人迁走；这里记录部族故地而不是固定城市。",
+      "locationNote": "萨米与乌萨斯交界、近冰原的部族故地；不是固定城市。",
+      "sources": [
+        {
+          "title": "BWIKI · 寒檀 · 档案资料三",
+          "url": "https://wiki.biligame.com/arknights/寒檀"
+        }
+      ],
+      "operators": [
+        "寒檀"
+      ],
+      "people": [],
+      "geographySources": [
+        {
+          "title": "BWIKI · 寒檀 · 档案资料三",
+          "url": "https://wiki.biligame.com/arknights/寒檀"
+        },
+        {
+          "title": "萌娘百科 · 地理复核",
+          "url": "https://zh.moegirl.org.cn/萨米",
+          "accessVia": "https://moegirl.icu/萨米"
+        }
+      ]
+    },
+    {
+      "name": "黄金城",
+      "aliases": [
+        "黄金之城"
+      ],
+      "region": "sargon",
+      "kind": "王权中心",
+      "summary": "萨尔贡沙阿的王权中心，亦见“黄金之城”的称呼。与分散在各处的帕夏、王酋领地不同，这一地点关联帝国最高王权。",
+      "locationNote": "帝国王权中心",
+      "sources": [
+        {
+          "title": "萌娘百科 · 萨尔贡",
+          "url": "https://zh.moegirl.org.cn/萨尔贡"
+        }
+      ],
+      "operators": [],
+      "people": [
+        "万王之王（沙阿）"
+      ],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 萨尔贡",
+          "url": "https://zh.moegirl.org.cn/萨尔贡",
+          "accessVia": "https://moegirl.icu/萨尔贡",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "阿卡胡拉",
+      "aliases": [],
+      "region": "sargon",
+      "kind": "雨林地区",
+      "summary": "萨尔贡的雨林部族地区，嘉维尔、森蚺与特米米的故乡。“玛维索提亚”选举与后来的际崖城撤离事件发生于此，地区内有多个部落而非一座同名城市。",
+      "locationNote": "萨尔贡东部雨林地区；际崖城旧址位于该地区地下。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 萨尔贡",
+          "url": "https://zh.moegirl.org.cn/萨尔贡"
+        }
+      ],
+      "operators": [
+        "嘉维尔",
+        "森蚺",
+        "特米米",
+        "燧石"
+      ],
+      "people": [
+        "森蚺"
+      ],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 萨尔贡",
+          "url": "https://zh.moegirl.org.cn/萨尔贡",
+          "accessVia": "https://moegirl.icu/萨尔贡",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "蒙特卢佩",
+      "aliases": [],
+      "region": "siracusa",
+      "kind": "首都",
+      "summary": "叙拉古的首都与行政中心。它不是《叙拉古人》的主要舞台沃尔西尼，两座城市应分别查询。",
+      "locationNote": "政治中心",
+      "sources": [
+        {
+          "title": "萌娘百科 · 叙拉古",
+          "url": "https://zh.moegirl.org.cn/叙拉古"
+        }
+      ],
+      "operators": [],
+      "people": [],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 叙拉古",
+          "url": "https://zh.moegirl.org.cn/叙拉古",
+          "accessVia": "https://moegirl.icu/叙拉古",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "沃尔西尼",
+      "aliases": [],
+      "region": "siracusa",
+      "kind": "城市",
+      "summary": "《叙拉古人》的主要城市舞台，分为东西两岸，设有剧场、教堂、法庭等设施。贝洛内、萨卢佐与罗塞蒂家族在此活动，城市秩序受到家族争斗支配。",
+      "locationNote": "《叙拉古人》发生城市；未核得地区内方位，仅以所属地区索引显示。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 叙拉古",
+          "url": "https://zh.moegirl.org.cn/叙拉古"
+        }
+      ],
+      "operators": [
+        "德克萨斯",
+        "拉普兰德",
+        "伺夜",
+        "斥罪"
+      ],
+      "people": [
+        "贝纳尔多·贝洛内",
+        "阿尔贝托·萨卢佐"
+      ],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 叙拉古",
+          "url": "https://zh.moegirl.org.cn/叙拉古",
+          "accessVia": "https://moegirl.icu/叙拉古",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "新沃尔西尼",
+      "aliases": [],
+      "region": "siracusa",
+      "kind": "特别行政城市",
+      "summary": "沃尔西尼事件后建设的特别行政城市，尝试建立不由旧家族入驻统治的新秩序。伺夜参与其政治建设，斥罪也与当地司法改革相关。",
+      "locationNote": "新建城市，承接改革故事",
+      "sources": [
+        {
+          "title": "萌娘百科 · 叙拉古",
+          "url": "https://zh.moegirl.org.cn/叙拉古"
+        }
+      ],
+      "operators": [
+        "伺夜",
+        "斥罪"
+      ],
+      "people": [],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 叙拉古",
+          "url": "https://zh.moegirl.org.cn/叙拉古",
+          "accessVia": "https://moegirl.icu/叙拉古",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "雅赛努斯",
+      "aliases": [],
+      "region": "minos",
+      "kind": "城邦",
+      "summary": "米诺斯的重要城邦与政治中心，也是《雅赛努斯复仇记》标题中的城市。应以米诺斯城邦文化与相关故事理解，而非将其与其他国家城市混同。",
+      "locationNote": "主要城邦与首都",
+      "sources": [
+        {
+          "title": "萌娘百科 · 米诺斯(明日方舟)",
+          "url": "https://zh.moegirl.org.cn/米诺斯(明日方舟)"
+        },
+        {
+          "title": "BWIKI · 雅赛努斯复仇记",
+          "url": "https://wiki.biligame.com/arknights/雅赛努斯复仇记"
+        }
+      ],
+      "operators": [],
+      "people": [],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 米诺斯(明日方舟)",
+          "url": "https://zh.moegirl.org.cn/米诺斯(明日方舟)",
+          "accessVia": "https://moegirl.icu/米诺斯(明日方舟)",
+          "accessNote": "本次公开镜像未取得可复核全文；沿用既有来源条目，仅保留地区目录，不支持坐标确认。"
+        },
+        {
+          "title": "BWIKI · 雅赛努斯复仇记",
+          "url": "https://wiki.biligame.com/arknights/雅赛努斯复仇记"
+        }
+      ]
+    },
+    {
+      "name": "卡兹戴尔",
+      "aliases": [],
+      "region": "kazdel",
+      "kind": "重建城市",
+      "summary": "与萨卡兹故国同名的城市，在战争与重建中屡次改变形态。这里记录城市意义上的卡兹戴尔；国家历史和分散的萨卡兹聚落另属地区档案。",
+      "locationNote": "重建城市与地区同名；位置和形态随历史改变；未核得地区内方位，仅以所属地区索引显示。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 卡兹戴尔",
+          "url": "https://zh.moegirl.org.cn/卡兹戴尔"
+        }
+      ],
+      "operators": [
+        "阿米娅",
+        "维什戴尔"
+      ],
+      "people": [
+        "特蕾西娅",
+        "特雷西斯"
+      ],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 卡兹戴尔",
+          "url": "https://zh.moegirl.org.cn/卡兹戴尔",
+          "accessVia": "https://moegirl.icu/卡兹戴尔",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    },
+    {
+      "name": "特里蒙",
+      "aliases": [
+        "特雷蒙"
+      ],
+      "region": "columbia",
+      "kind": "移动城市",
+      "summary": "哥伦比亚科研重镇，莱茵生命研究活动与城市发展紧密相连。《绿野幻梦》与《孤星》在此展开，特里蒙弧光事件改变了人们对天空的认识。",
+      "locationNote": "科研中心；《孤星》发生地；未核得地区内方位，仅以所属地区索引显示。",
+      "sources": [
+        {
+          "title": "游戏剧情 · 孤星",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act25side/level_act25side_01_end.txt"
+        },
+        {
+          "title": "BWIKI · 孤星",
+          "url": "https://wiki.biligame.com/arknights/孤星"
+        }
+      ],
+      "operators": [
+        "塞雷娅",
+        "白面鸮",
+        "赫默",
+        "缪尔赛思",
+        "多萝西"
+      ],
+      "people": [],
+      "geographySources": [
+        {
+          "title": "游戏剧情 · 孤星",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act25side/level_act25side_01_end.txt"
+        },
+        {
+          "title": "BWIKI · 孤星",
+          "url": "https://wiki.biligame.com/arknights/孤星"
+        },
+        {
+          "title": "萌娘百科 · 地理复核",
+          "url": "https://zh.moegirl.org.cn/哥伦比亚(明日方舟)",
+          "accessVia": "https://moegirl.icu/哥伦比亚(明日方舟)"
+        }
+      ]
+    },
+    {
+      "name": "汐斯塔",
+      "aliases": [],
+      "region": null,
+      "kind": "独立城市",
+      "summary": "以黑曜石节和海滨旅游闻名的城市。原有城市因火山威胁而迁离，新汐斯塔成为移动城市；旧海岸位置不能充当新城的永久坐标。",
+      "locationNote": "旧汐斯塔的方位资料为伊比利亚西北；新汐斯塔已经迁移，此标记仅为旧城方位索引。",
+      "sources": [
+        {
+          "title": "萌娘百科 · 汐斯塔",
+          "url": "https://zh.moegirl.org.cn/汐斯塔"
+        }
+      ],
+      "operators": [
+        "锡兰",
+        "黑",
+        "纯烬艾雅法拉"
+      ],
+      "people": [],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 汐斯塔",
+          "url": "https://zh.moegirl.org.cn/汐斯塔",
+          "accessVia": "https://moegirl.icu/汐斯塔",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        },
+        {
+          "title": "萌娘百科 · 伊比利亚 · 简介",
+          "url": "https://zh.moegirl.org.cn/伊比利亚",
+          "accessVia": "https://moegirl.icu/伊比利亚",
+          "evidence": "伊比利亚西北方向为汐斯塔；此处仅用于旧址方位。"
+        }
+      ]
+    },
+    {
+      "name": "泽尔格勒",
+      "aliases": [],
+      "region": "ursus",
+      "kind": "城市",
+      "summary": "第十七章中的乌萨斯城市，城内设有保密研究所及石棺相关设施。图林、塔露拉等人的行动与军方实验、驶向城市的军舰共同构成这一章的冲突。",
+      "locationNote": "乌萨斯境内，第十七章保密行政区；城区情节不能推导大陆经纬位置。",
+      "sources": [
+        {
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_17-15_beg.txt",
+          "title": "《明日方舟》游戏剧情脚本 17-15",
+          "evidence": "已读取游戏原文；第三方托管，本站事件为改写摘要。",
+          "type": "游戏原文（第三方托管）",
+          "checkedAt": "2026-09-13"
+        }
+      ],
+      "operators": [],
+      "people": [],
+      "geographySources": [
+        {
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_17-15_beg.txt",
+          "title": "《明日方舟》游戏剧情脚本 17-15",
+          "evidence": "已读取游戏原文；第三方托管，本站事件为改写摘要。",
+          "type": "游戏原文（第三方托管）",
+          "checkedAt": "2026-09-13"
+        },
+        {
+          "title": "萌娘百科 · 地理复核",
+          "url": "https://zh.moegirl.org.cn/乌萨斯",
+          "accessVia": "https://moegirl.icu/乌萨斯"
+        }
+      ]
+    },
+    {
+      "name": "沁礁黑市",
+      "aliases": [],
+      "region": "sargon",
+      "kind": "地下黑市",
+      "summary": "《遗尘漫步》中凯尔希与艾利奥特避难的黑市，位于沁礁旧城相关区域。艾利奥特在这里留下并成长为“沙卒”；其代号后来成为异客。",
+      "locationNote": "萨尔贡沁礁地区；黑市与已被沙海吞没的旧城须作区分",
+      "sources": [
+        {
+          "title": "萌娘百科 · 萨尔贡",
+          "url": "https://zh.moegirl.org.cn/萨尔贡"
+        }
+      ],
+      "operators": [
+        "异客",
+        "凯尔希"
+      ],
+      "people": [],
+      "geographySources": [
+        {
+          "title": "萌娘百科 · 萨尔贡",
+          "url": "https://zh.moegirl.org.cn/萨尔贡",
+          "accessVia": "https://moegirl.icu/萨尔贡",
+          "accessNote": "本次通过公开镜像复核；镜像可能滞后，未据此声称官方坐标。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "kind": "AI-assisted editorial illustration",
+  "path": "assets/terra-painted-v3.png",
+  "tool": "built-in imagegen",
+  "official": false,
+  "geographicReference": "https://www.bilibili.com/video/BV1Hy4y1r7k7/",
+  "referenceDate": "2020-10-26",
+  "styleReference": "用户提供的地理示意图，仅参考风格，不作为地理证据",
+  "limitations": "地形纹理为美术演绎；国名相对布局据初探画面，非最新全大陆或行政测绘；城邦以所属地区和文字方位索引，不表示官方坐标。",
+  "prompt": "Use case: style-transfer. IMAGE 1 official initial Terra exploration supplies the relative region arrangement; IMAGE 2 user reference supplies only painterly topographic style. Preserve the broad continent silhouette and relative layout; flat overhead illustrated terrain with muted earth colors and navy ocean. No text, no UI, no logos, no city symbols or invented political borders. All accessible labels are separate website layers. Explicitly nonofficial editorial illustration."
+}

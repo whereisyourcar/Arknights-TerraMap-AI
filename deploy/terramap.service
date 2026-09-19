@@ -1,0 +1,25 @@
+[Unit]
+Description=TerraMap visitor counter and web server
+After=network.target
+
+[Service]
+Type=simple
+User=terramap
+Group=terramap
+WorkingDirectory=/opt/terramap
+Environment=NODE_ENV=production
+Environment=PORT=4185
+Environment=VISITOR_DATA_FILE=/var/lib/terramap/visitors.json
+ExecStart=/usr/bin/node /opt/terramap/server.mjs
+Restart=on-failure
+RestartSec=3
+StateDirectory=terramap
+UMask=0077
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/var/lib/terramap
+
+[Install]
+WantedBy=multi-user.target

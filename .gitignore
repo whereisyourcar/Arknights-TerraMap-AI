@@ -1,0 +1,17 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+var/
+*.log
+node_modules/
+coverage/
+*.pem
+*.key
+*.p12
+Development/
+Team/
+用户体验反馈意见.md
+Develop History.md
+Product Lifecycle.md
+project file.md

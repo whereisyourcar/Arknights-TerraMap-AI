@@ -1,0 +1,2655 @@
+{
+  "checked": "2026-09-19",
+  "server": "CN",
+  "scope": "覆盖游戏回顾表中截至核对日已到剧情回顾开放时间的活动与故事集，共70项。13条乐章以BWIKI曲谱文本交叉索引；补充1项故事集和3项已开放回顾的联动。主线在“主线行迹”查看，集成战略、生息演算及干员密录不在本页范围。回顾仍受账号剧情解锁条件限制，联动旧剧情尤其不保证未参加账号可补解锁。",
+  "sources": [
+    {
+      "title": "官方 · 曲谱系统内容前瞻",
+      "url": "https://www.bilibili.com/opus/1052289926969688064"
+    },
+    {
+      "title": "BWIKI · 曲谱索引",
+      "url": "https://wiki.biligame.com/arknights/回忆画集/曲谱文本"
+    },
+    {
+      "title": "游戏回顾表（公开镜像）",
+      "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+    },
+    {
+      "title": "游戏常驻表（公开镜像）",
+      "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+    }
+  ],
+  "categories": [
+    {
+      "id": "babel",
+      "name": "巴别塔",
+      "kind": "组织",
+      "region": null,
+      "description": "《方舟》的主题入口：从巴别塔的往事，到罗德岛承接的旅途。此为本站归类，不表示后续事件仍由巴别塔组织主导。"
+    },
+    {
+      "id": "rhodes",
+      "name": "罗德岛",
+      "kind": "组织",
+      "region": null,
+      "description": "医疗组织、干员旅途与巴别塔之后的故事。"
+    },
+    {
+      "id": "rhine",
+      "name": "莱茵生命",
+      "kind": "组织",
+      "region": null,
+      "description": "科研、伦理和探索未来的愿望，串起哥伦比亚的科技故事。"
+    },
+    {
+      "id": "karlan",
+      "name": "喀兰贸易",
+      "kind": "组织",
+      "region": null,
+      "description": "谢拉格故事中的重要组织；不与谢拉格这个国家等同。"
+    },
+    {
+      "id": "abyssal",
+      "name": "深海猎人",
+      "kind": "组织",
+      "region": null,
+      "description": "海洋系列的重要角色群体，故事横跨陆地与深海。"
+    },
+    {
+      "id": "penguin",
+      "name": "企鹅物流",
+      "kind": "组织",
+      "region": null,
+      "description": "从龙门的日常任务，到与叙拉古往事的交汇。"
+    },
+    {
+      "id": "blacksteel",
+      "name": "黑钢国际",
+      "kind": "组织",
+      "region": null,
+      "description": "杰西卡等人的选择与哥伦比亚边疆冲突。"
+    },
+    {
+      "id": "reunion",
+      "name": "整合运动",
+      "kind": "组织",
+      "region": null,
+      "description": "感染者处境与乌萨斯相关叙事中的重要力量。"
+    },
+    {
+      "id": "dublinn",
+      "name": "深池",
+      "kind": "组织",
+      "region": null,
+      "description": "与塔拉命运相连的组织；并非塔拉地区的同义词。"
+    },
+    {
+      "id": "ursus",
+      "name": "乌萨斯",
+      "kind": "国家／地区",
+      "region": "ursus",
+      "description": "学生、感染者与帝国之下的生活。"
+    },
+    {
+      "id": "laterano",
+      "name": "拉特兰",
+      "kind": "国家／地区",
+      "region": "laterano",
+      "description": "信仰、律法、共同体与离开圣城的人们。"
+    },
+    {
+      "id": "kjerag",
+      "name": "谢拉格",
+      "kind": "国家／地区",
+      "region": "kjerag",
+      "description": "风雪过境、银心湖列车与雪山降临1101：圣山、传统与现代化的连续叙事。"
+    },
+    {
+      "id": "siracusa",
+      "name": "叙拉古",
+      "kind": "国家／地区",
+      "region": "siracusa",
+      "description": "家族、城市与新秩序的故事。"
+    },
+    {
+      "id": "kazimierz",
+      "name": "卡西米尔",
+      "kind": "国家／地区",
+      "region": "kazimierz",
+      "description": "竞技骑士、感染者和商业秩序的碰撞。"
+    },
+    {
+      "id": "yan",
+      "name": "炎",
+      "kind": "国家／地区",
+      "region": "yan",
+      "description": "岁与人间的相遇，以及各地生活和边疆故事。"
+    },
+    {
+      "id": "columbia",
+      "name": "哥伦比亚",
+      "kind": "国家／地区",
+      "region": "columbia",
+      "description": "科研机构、拓荒城市与现代社会的矛盾。"
+    },
+    {
+      "id": "aegir",
+      "name": "阿戈尔",
+      "kind": "国家／地区",
+      "region": "aegir",
+      "description": "深海文明的视角，与伊比利亚海岸的故事相互关联。"
+    },
+    {
+      "id": "iberia",
+      "name": "伊比利亚",
+      "kind": "国家／地区",
+      "region": "iberia",
+      "description": "海岸聚落、审判庭与旧日航海文明。"
+    },
+    {
+      "id": "leithanien",
+      "name": "莱塔尼亚",
+      "kind": "国家／地区",
+      "region": "leithanien",
+      "description": "从边地城镇到双塔之下，音乐与权力相互牵动。"
+    },
+    {
+      "id": "tara",
+      "name": "塔拉",
+      "kind": "国家／地区",
+      "region": "victoria",
+      "description": "以塔拉人的身份、聚落与未来为主题，保留维多利亚背景。"
+    },
+    {
+      "id": "victoria",
+      "name": "维多利亚",
+      "kind": "国家／地区",
+      "region": "victoria",
+      "description": "主线之外的乡镇、边境与地方社会。"
+    },
+    {
+      "id": "sargon",
+      "name": "萨尔贡",
+      "kind": "国家／地区",
+      "region": "sargon",
+      "description": "雨林、沙漠与历史遗迹中的不同故事。"
+    },
+    {
+      "id": "durin",
+      "name": "杜林",
+      "kind": "国家／地区",
+      "region": "durin",
+      "description": "地下城市与居民的生活。"
+    },
+    {
+      "id": "bolivar",
+      "name": "玻利瓦尔",
+      "kind": "国家／地区",
+      "region": "bolivar",
+      "description": "多索雷斯与更广阔土地上的历史和人们。"
+    },
+    {
+      "id": "siesta",
+      "name": "汐斯塔",
+      "kind": "国家／地区",
+      "region": null,
+      "description": "音乐节、火山与迁徙之后的度假城市。"
+    },
+    {
+      "id": "higashi",
+      "name": "东",
+      "kind": "国家／地区",
+      "region": "higashi",
+      "description": "围绕当地城市与文化展开的活动。"
+    },
+    {
+      "id": "rim",
+      "name": "雷姆必拓",
+      "kind": "国家／地区",
+      "region": "rim",
+      "description": "矿业、荒野与公路串联的聚落。"
+    },
+    {
+      "id": "sami",
+      "name": "萨米",
+      "kind": "国家／地区",
+      "region": "sami",
+      "description": "北方森林及其居民的故事。"
+    },
+    {
+      "id": "kazdel",
+      "name": "卡兹戴尔",
+      "kind": "国家／地区",
+      "region": "kazdel",
+      "description": "萨卡兹的故乡，以及离乡者和重建者的经历。"
+    },
+    {
+      "id": "minos",
+      "name": "米诺斯",
+      "kind": "国家／地区",
+      "region": "minos",
+      "description": "英雄传统与舞台叙事。"
+    },
+    {
+      "id": "cross",
+      "name": "多地见闻",
+      "kind": "跨地区",
+      "region": null,
+      "description": "多篇、多地或尚不能归入单一国家的故事。不是一个行政地区。"
+    }
+  ],
+  "lines": [
+    {
+      "id": "RL",
+      "title": "方舟",
+      "official": true
+    },
+    {
+      "id": "UR",
+      "title": "燎原",
+      "official": true
+    },
+    {
+      "id": "LA",
+      "title": "那被祝福的",
+      "official": true
+    },
+    {
+      "id": "KJ",
+      "title": "山雪与银铁",
+      "official": true
+    },
+    {
+      "id": "SI",
+      "title": "七丘的新芽",
+      "official": true
+    },
+    {
+      "id": "KA",
+      "title": "霓虹之下",
+      "official": true
+    },
+    {
+      "id": "SU",
+      "title": "岁岁今朝",
+      "official": true
+    },
+    {
+      "id": "RH",
+      "title": "摘取未来之人",
+      "official": true
+    },
+    {
+      "id": "AE",
+      "title": "自海渊的一瞥",
+      "official": true
+    },
+    {
+      "id": "LE",
+      "title": "高塔迷影",
+      "official": true
+    },
+    {
+      "id": "TA",
+      "title": "薪火重燃",
+      "official": true
+    },
+    {
+      "id": "ST",
+      "title": "夏日律动",
+      "official": true
+    },
+    {
+      "id": "TS",
+      "title": "泰拉奇谈",
+      "official": true
+    },
+    {
+      "id": "SUP",
+      "title": "补充故事集",
+      "official": false
+    },
+    {
+      "id": "COLLAB",
+      "title": "可回顾的联动故事",
+      "official": false
+    }
+  ],
+  "events": [
+    {
+      "id": "act9d0",
+      "title": "生于黑夜",
+      "line": "RL",
+      "lineTitle": "方舟",
+      "order": 0,
+      "primary": "babel",
+      "related": [
+        "rhodes",
+        "kazdel"
+      ],
+      "summary": "从萨卡兹佣兵的经历切入，连接巴别塔的往事与后来主线中的人物。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sub_1_Darknights_Memoir",
+      "reviewStart": 1590091200,
+      "firstStart": 1587441600,
+      "storyCount": 13,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/生于黑夜"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act18d0",
+      "title": "遗尘漫步",
+      "line": "RL",
+      "lineTitle": "方舟",
+      "order": 1,
+      "primary": "babel",
+      "related": [
+        "rhodes",
+        "sargon",
+        "ursus",
+        "victoria"
+      ],
+      "summary": "沿着凯尔希跨越萨尔贡、乌萨斯和维多利亚的往事，回望不同时代的冲突与抉择。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sub_2_A_Walk_In_The_Dust",
+      "reviewStart": 1620244800,
+      "firstStart": 1618459200,
+      "storyCount": 14,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/遗尘漫步"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act8mini",
+      "title": "如我所见",
+      "line": "RL",
+      "lineTitle": "方舟",
+      "order": 2,
+      "primary": "babel",
+      "related": [
+        "rhodes"
+      ],
+      "summary": "从不同人物的视角补充罗德岛及这片大地的经历。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": false,
+      "retroId": null,
+      "reviewStart": 1626984000,
+      "firstStart": 1626163200,
+      "storyCount": 6,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/如我所见"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act33side",
+      "title": "巴别塔",
+      "line": "RL",
+      "lineTitle": "方舟",
+      "order": 3,
+      "primary": "babel",
+      "related": [
+        "rhodes",
+        "kazdel"
+      ],
+      "summary": "围绕特蕾西娅、博士与凯尔希，回看巴别塔时期的相遇与选择。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sub_6_Babel",
+      "reviewStart": 1715198400,
+      "firstStart": 1712808000,
+      "storyCount": 23,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/巴别塔"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act37side",
+      "title": "追迹日落以西",
+      "line": "RL",
+      "lineTitle": "方舟",
+      "order": 4,
+      "primary": "babel",
+      "related": [
+        "rhodes",
+        "victoria"
+      ],
+      "summary": "战后的伦蒂尼姆迎来新的抉择，维娜与格拉斯哥帮重新面对故乡及其未来。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sub_7_Ending_A_Grand_Overture",
+      "reviewStart": 1730232000,
+      "firstStart": 1728446400,
+      "storyCount": 18,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/追迹日落以西"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "地理与主题复核来源",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act37side/level_act37side_st01.txt"
+        }
+      ]
+    },
+    {
+      "id": "act18mini",
+      "title": "我们明日见",
+      "line": "RL",
+      "lineTitle": "方舟",
+      "order": 5,
+      "primary": "babel",
+      "related": [
+        "rhodes"
+      ],
+      "summary": "以重逢和告别的不同侧面，补充罗德岛相关人物的故事。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": false,
+      "retroId": null,
+      "reviewStart": 1740340800,
+      "firstStart": 1739520000,
+      "storyCount": 6,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/我们明日见"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act10d5",
+      "title": "乌萨斯的孩子们",
+      "line": "UR",
+      "lineTitle": "燎原",
+      "order": 0,
+      "primary": "ursus",
+      "related": [],
+      "summary": "切尔诺伯格事件之后，乌萨斯学生在创伤中寻找继续生活的方法。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": false,
+      "retroId": null,
+      "reviewStart": 1593288000,
+      "firstStart": 1592467200,
+      "storyCount": 7,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/乌萨斯的孩子们"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act51side",
+      "title": "人们，我们",
+      "line": "UR",
+      "lineTitle": "燎原",
+      "order": 1,
+      "primary": "ursus",
+      "related": [],
+      "summary": "圣骏堡的学生与帝国秩序发生冲突，人们在共同的处境中寻找彼此的声音。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": false,
+      "retroId": null,
+      "reviewStart": 1777320000,
+      "firstStart": 1775516400,
+      "storyCount": 18,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/人们，我们"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "地理与主题复核来源",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act51side/level_act51side_st01.txt"
+        }
+      ]
+    },
+    {
+      "id": "act16side",
+      "title": "吾导先路",
+      "line": "LA",
+      "lineTitle": "那被祝福的",
+      "order": 0,
+      "primary": "laterano",
+      "related": [],
+      "summary": "围绕拉特兰的会议与故人重逢，展开信仰、法律和身份的冲突。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sidestory_13_Guiding_Ahead",
+      "reviewStart": 1649102400,
+      "firstStart": 1647316800,
+      "storyCount": 18,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/吾导先路"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act26side",
+      "title": "空想花庭",
+      "line": "LA",
+      "lineTitle": "那被祝福的",
+      "order": 1,
+      "primary": "laterano",
+      "related": [],
+      "summary": "一座移动修道院中的共同生活，考验着不同族群彼此接纳的可能。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sidestory_20_Hortus_de_Escapismo",
+      "reviewStart": 1687982400,
+      "firstStart": 1686196800,
+      "storyCount": 19,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/空想花庭"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act42side",
+      "title": "众生行记",
+      "line": "LA",
+      "lineTitle": "那被祝福的",
+      "order": 2,
+      "primary": "laterano",
+      "related": [],
+      "summary": "继续拉特兰系列对信仰、制度与众生处境的讨论。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sidestory_32_The_Masses_Travels",
+      "reviewStart": 1748462400,
+      "firstStart": 1746072000,
+      "storyCount": 24,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/众生行记"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act14side",
+      "title": "风雪过境",
+      "line": "KJ",
+      "lineTitle": "山雪与银铁",
+      "order": 0,
+      "primary": "kjerag",
+      "related": [
+        "karlan"
+      ],
+      "summary": "博士到访谢拉格，置身三族、圣山与改革力量之间的角力。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sidestory_11_Break_The_Ice",
+      "reviewStart": 1641844800,
+      "firstStart": 1640059200,
+      "storyCount": 20,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/风雪过境"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act30side",
+      "title": "银心湖列车",
+      "line": "KJ",
+      "lineTitle": "山雪与银铁",
+      "order": 1,
+      "primary": "kjerag",
+      "related": [
+        "karlan"
+      ],
+      "summary": "一趟列车之旅，将谢拉格的开放、外交与本地社会连接起来。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sidestory_24_The_Rides_To_Lake_Silberneherze",
+      "reviewStart": 1703534400,
+      "firstStart": 1701748800,
+      "storyCount": 19,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/银心湖列车"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act46side",
+      "title": "雪山降临1101",
+      "line": "KJ",
+      "lineTitle": "山雪与银铁",
+      "order": 2,
+      "primary": "kjerag",
+      "related": [
+        "karlan"
+      ],
+      "summary": "谢拉格系列继续前进，技术建设与圣山传统共同面对变革。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": false,
+      "retroId": null,
+      "reviewStart": 1764360000,
+      "firstStart": 1761951600,
+      "storyCount": 24,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/雪山降临1101"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act21side",
+      "title": "叙拉古人",
+      "line": "SI",
+      "lineTitle": "七丘的新芽",
+      "order": 0,
+      "primary": "siracusa",
+      "related": [
+        "penguin"
+      ],
+      "summary": "德克萨斯重返故乡，家族恩怨与新城市的愿景相互交织。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sidestory_17_Il_Siracusano",
+      "reviewStart": 1669665600,
+      "firstStart": 1667275200,
+      "storyCount": 24,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/叙拉古人"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act38side",
+      "title": "揭幕者们",
+      "line": "SI",
+      "lineTitle": "七丘的新芽",
+      "order": 1,
+      "primary": "siracusa",
+      "related": [],
+      "summary": "在叙拉古新旧秩序的变化中，继续观察人们与家族的选择。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sidestory_28_i_portatori_dei_velluti",
+      "reviewStart": 1732824000,
+      "firstStart": 1730433600,
+      "storyCount": 24,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/揭幕者们"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act20mini",
+      "title": "十字路口",
+      "line": "SI",
+      "lineTitle": "七丘的新芽",
+      "order": 2,
+      "primary": "siracusa",
+      "related": [],
+      "summary": "补充叙拉古相关人物在不同道路之间的抉择。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": false,
+      "retroId": null,
+      "reviewStart": 1773950400,
+      "firstStart": 1773097200,
+      "storyCount": 6,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/十字路口"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act13d5",
+      "title": "玛莉娅·临光",
+      "line": "KA",
+      "lineTitle": "霓虹之下",
+      "order": 0,
+      "primary": "kazimierz",
+      "related": [],
+      "summary": "玛莉娅走进竞技场，直面骑士理想与商业规则之间的距离。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sidestory_6_Maria_Nearl",
+      "reviewStart": 1604520000,
+      "firstStart": 1602748800,
+      "storyCount": 19,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/玛莉娅·临光"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act9mini",
+      "title": "红松林",
+      "line": "KA",
+      "lineTitle": "霓虹之下",
+      "order": 1,
+      "primary": "kazimierz",
+      "related": [],
+      "summary": "从感染者骑士的视角，补全卡西米尔竞技体系之外的生存处境。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": false,
+      "retroId": null,
+      "reviewStart": 1635105600,
+      "firstStart": 1634284800,
+      "storyCount": 7,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/红松林"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act13side",
+      "title": "长夜临光",
+      "line": "KA",
+      "lineTitle": "霓虹之下",
+      "order": 2,
+      "primary": "kazimierz",
+      "related": [],
+      "summary": "玛嘉烈归来之后，竞技舞台、感染者与骑士传统迎来冲突。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sidestory_10_Near_Light",
+      "reviewStart": 1638129600,
+      "firstStart": 1635739200,
+      "storyCount": 24,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/长夜临光"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act12mini",
+      "title": "日暮寻路",
+      "line": "KA",
+      "lineTitle": "霓虹之下",
+      "order": 3,
+      "primary": "kazimierz",
+      "related": [],
+      "summary": "延伸卡西米尔相关人物离开竞技舞台之后的经历。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": false,
+      "retroId": null,
+      "reviewStart": 1663444800,
+      "firstStart": 1662609600,
+      "storyCount": 7,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/日暮寻路"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act6d5",
+      "title": "洪炉示岁",
+      "line": "SU",
+      "lineTitle": "岁岁今朝",
+      "order": 0,
+      "primary": "yan",
+      "related": [],
+      "summary": "新年中的数段相遇，开启岁系列与人间生活的联系。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": false,
+      "retroId": null,
+      "reviewStart": 1579723200,
+      "firstStart": 1578513600,
+      "storyCount": 3,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/洪炉示岁"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act16d5",
+      "title": "画中人",
+      "line": "SU",
+      "lineTitle": "岁岁今朝",
+      "order": 1,
+      "primary": "yan",
+      "related": [],
+      "summary": "进入夕的画中世界，在虚实之间看见岁与人的关系。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sidestory_8_Who_is_Real",
+      "reviewStart": 1614283200,
+      "firstStart": 1612512000,
+      "storyCount": 17,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/画中人"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act15side",
+      "title": "将进酒",
+      "line": "SU",
+      "lineTitle": "岁岁今朝",
+      "order": 2,
+      "primary": "yan",
+      "related": [],
+      "summary": "尚蜀的市井与江湖风波，牵出岁系列的另一段相遇。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sidestory_12_Invitation_To_Wine",
+      "reviewStart": 1644868800,
+      "firstStart": 1643083200,
+      "storyCount": 19,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/将进酒"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act23side",
+      "title": "登临意",
+      "line": "SU",
+      "lineTitle": "岁岁今朝",
+      "order": 3,
+      "primary": "yan",
+      "related": [],
+      "summary": "玉门边关的旧事与当下相遇，将视线转向炎国边疆。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sidestory_19_Where_Vernal_Winds_Will_Never_Blow",
+      "reviewStart": 1675713600,
+      "firstStart": 1673928000,
+      "storyCount": 19,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/登临意"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act14mini",
+      "title": "春分",
+      "line": "SU",
+      "lineTitle": "岁岁今朝",
+      "order": 4,
+      "primary": "yan",
+      "related": [],
+      "summary": "在炎国乡野的行路与相遇中，补充普通人的命运。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": false,
+      "retroId": null,
+      "reviewStart": 1677182400,
+      "firstStart": 1676361600,
+      "storyCount": 6,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/春分"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act31side",
+      "title": "怀黍离",
+      "line": "SU",
+      "lineTitle": "岁岁今朝",
+      "order": 5,
+      "primary": "yan",
+      "related": [],
+      "summary": "以田地、农业与生活为切入点，继续岁与人间的故事。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sidestory_25_Here_A_People_Sows",
+      "reviewStart": 1709150400,
+      "firstStart": 1706760000,
+      "storyCount": 19,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/怀黍离"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act40side",
+      "title": "相见欢",
+      "line": "SU",
+      "lineTitle": "岁岁今朝",
+      "order": 6,
+      "primary": "yan",
+      "related": [],
+      "summary": "围绕厨艺与团聚展开，延续岁家族与人间烟火的联系。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sidestory_30_Such_is_the_Joy_of_Our_Reunion",
+      "reviewStart": 1739908800,
+      "firstStart": 1737518400,
+      "storyCount": 19,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/相见欢"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act19mini",
+      "title": "镜中集",
+      "line": "SU",
+      "lineTitle": "岁岁今朝",
+      "order": 7,
+      "primary": "yan",
+      "related": [],
+      "summary": "以短篇形式补充炎国与岁系列的人物见闻。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": false,
+      "retroId": null,
+      "reviewStart": 1752782400,
+      "firstStart": 1751947200,
+      "storyCount": 7,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/镜中集"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act49side",
+      "title": "辞岁行",
+      "line": "SU",
+      "lineTitle": "岁岁今朝",
+      "order": 8,
+      "primary": "yan",
+      "related": [],
+      "summary": "岁系列的新一段旅途，继续连接家族与人间。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": false,
+      "retroId": null,
+      "reviewStart": 1773086400,
+      "firstStart": 1770678000,
+      "storyCount": 24,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/辞岁行"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act15d0",
+      "title": "孤岛风云",
+      "line": "RH",
+      "lineTitle": "摘取未来之人",
+      "order": 0,
+      "primary": "columbia",
+      "related": [
+        "rhine"
+      ],
+      "summary": "一场监狱中的营救，牵出哥伦比亚企业利益与莱茵生命相关人物。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sidestory_7_Mansfield_Break",
+      "reviewStart": 1609963200,
+      "firstStart": 1608177600,
+      "storyCount": 18,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/孤岛风云"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act19side",
+      "title": "绿野幻梦",
+      "line": "RH",
+      "lineTitle": "摘取未来之人",
+      "order": 1,
+      "primary": "columbia",
+      "related": [
+        "rhine"
+      ],
+      "summary": "实验与科研伦理交织，聚焦莱茵生命内部的分歧。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sidestory_15_Dorothy's_Vision",
+      "reviewStart": 1658779200,
+      "firstStart": 1656993600,
+      "storyCount": 20,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/绿野幻梦"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act25side",
+      "title": "孤星",
+      "line": "RH",
+      "lineTitle": "摘取未来之人",
+      "order": 2,
+      "primary": "columbia",
+      "related": [
+        "rhine"
+      ],
+      "summary": "围绕特里蒙与探索天空的计划，汇集科学家的理想和代价。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sub_5_Lone_Trail",
+      "reviewStart": 1685304000,
+      "firstStart": 1682913600,
+      "storyCount": 24,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/孤星"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act47side",
+      "title": "未许之地",
+      "line": "RH",
+      "lineTitle": "摘取未来之人",
+      "order": 3,
+      "primary": "columbia",
+      "related": [
+        "rhine"
+      ],
+      "summary": "延伸哥伦比亚与科研系列，继续追问未来由谁决定。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": false,
+      "retroId": null,
+      "reviewStart": 1766692800,
+      "firstStart": 1764889200,
+      "storyCount": 19,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/未许之地"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "1stact",
+      "title": "骑兵与猎人",
+      "line": "AE",
+      "lineTitle": "自海渊的一瞥",
+      "order": 0,
+      "primary": "victoria",
+      "related": [
+        "abyssal",
+        "aegir"
+      ],
+      "summary": "格拉尼在维多利亚乡村的任务与斯卡蒂相交，是海洋系列的早期连接点。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sidestory_1_Grani_And_The_Treasure_Of_Knights",
+      "reviewStart": 1560974400,
+      "firstStart": 1559181600,
+      "storyCount": 16,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/骑兵与猎人"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act18d3",
+      "title": "覆潮之下",
+      "line": "AE",
+      "lineTitle": "自海渊的一瞥",
+      "order": 1,
+      "primary": "iberia",
+      "related": [
+        "aegir",
+        "abyssal"
+      ],
+      "summary": "伊比利亚海岸的聚落中，深海猎人追寻来自海洋的异变。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sub_3_Under_Tides",
+      "reviewStart": 1621627200,
+      "firstStart": 1619852400,
+      "storyCount": 18,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/覆潮之下"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act17side",
+      "title": "愚人号",
+      "line": "AE",
+      "lineTitle": "自海渊的一瞥",
+      "order": 2,
+      "primary": "iberia",
+      "related": [
+        "aegir",
+        "abyssal"
+      ],
+      "summary": "旧日巨舰、伊比利亚的航海历史与海嗣威胁在海上交汇。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sub_4_Stultifera_Navis",
+      "reviewStart": 1653768000,
+      "firstStart": 1651388400,
+      "storyCount": 24,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/愚人号"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act34side",
+      "title": "生路",
+      "line": "AE",
+      "lineTitle": "自海渊的一瞥",
+      "order": 3,
+      "primary": "aegir",
+      "related": [
+        "iberia",
+        "abyssal"
+      ],
+      "summary": "将视线深入海洋文明，继续阿戈尔与深海猎人的故事。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sidestory_26_Path_Of_Life",
+      "reviewStart": 1719345600,
+      "firstStart": 1717560000,
+      "storyCount": 19,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/生路"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act39side",
+      "title": "出苍白海",
+      "line": "AE",
+      "lineTitle": "自海渊的一瞥",
+      "order": 4,
+      "primary": "iberia",
+      "related": [
+        "aegir"
+      ],
+      "summary": "伊比利亚盐漠中的居民与海盗踏上旅程，重新面对黄金时代的遗产与被禁忌的大海。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sidestory_29_Exodus_From_The_Pale_Sea",
+      "reviewStart": 1735156800,
+      "firstStart": 1733371200,
+      "storyCount": 19,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/出苍白海"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "地理与主题复核来源",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act39side/level_act39side_st01.txt"
+        }
+      ]
+    },
+    {
+      "id": "act11d0",
+      "title": "沃伦姆德的薄暮",
+      "line": "LE",
+      "lineTitle": "高塔迷影",
+      "order": 0,
+      "primary": "leithanien",
+      "related": [],
+      "summary": "莱塔尼亚边地城镇中的灾难与疑团，牵动感染者和居民之间的裂痕。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sidestory_4_Twilight_Of_Wolumonde",
+      "reviewStart": 1596052800,
+      "firstStart": 1594267200,
+      "storyCount": 20,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/沃伦姆德的薄暮"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act18side",
+      "title": "尘影余音",
+      "line": "LE",
+      "lineTitle": "高塔迷影",
+      "order": 1,
+      "primary": "leithanien",
+      "related": [],
+      "summary": "在维谢海姆，音乐、身份与被压迫者的生活相互交织。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sidestory_14_Lingering_Echoes",
+      "reviewStart": 1655928000,
+      "firstStart": 1654747200,
+      "storyCount": 19,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/尘影余音"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act29side",
+      "title": "崔林特尔梅之金",
+      "line": "LE",
+      "lineTitle": "高塔迷影",
+      "order": 2,
+      "primary": "leithanien",
+      "related": [],
+      "summary": "来到双塔之城，走近莱塔尼亚权力更替与音乐传统。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sidestory_23_Zwillingsturme_im_Herbst",
+      "reviewStart": 1701201600,
+      "firstStart": 1698811200,
+      "storyCount": 23,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/崔林特尔梅之金"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act22side",
+      "title": "照我以火",
+      "line": "TA",
+      "lineTitle": "薪火重燃",
+      "order": 0,
+      "primary": "tara",
+      "related": [
+        "victoria",
+        "dublinn"
+      ],
+      "summary": "苇草与塔拉居民寻找生存之路，重新理解领袖与归属。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sidestory_18_What_the_Firelight_Casts",
+      "reviewStart": 1672862400,
+      "firstStart": 1671076800,
+      "storyCount": 18,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/照我以火"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act41side",
+      "title": "挽歌燃烧殆尽",
+      "line": "TA",
+      "lineTitle": "薪火重燃",
+      "order": 1,
+      "primary": "tara",
+      "related": [
+        "victoria",
+        "dublinn"
+      ],
+      "summary": "继续塔拉与维多利亚的故事，追索旧秩序留下的创伤。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sidestory_31_When_Elegies_are_Ashes",
+      "reviewStart": 1743105600,
+      "firstStart": 1741320000,
+      "storyCount": 19,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/挽歌燃烧殆尽"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act3d0",
+      "title": "火蓝之心",
+      "line": "ST",
+      "lineTitle": "夏日律动",
+      "order": 0,
+      "primary": "siesta",
+      "related": [],
+      "summary": "汐斯塔音乐节的热闹背后，是火山危机与城市未来。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sidestory_2_Heart_Of_Surging_Flame",
+      "reviewStart": 1568664000,
+      "firstStart": 1566892800,
+      "storyCount": 26,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/火蓝之心"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act12d0",
+      "title": "密林悍将归来",
+      "line": "ST",
+      "lineTitle": "夏日律动",
+      "order": 1,
+      "primary": "sargon",
+      "related": [],
+      "summary": "嘉维尔回到阿卡胡拉，在雨林部族的重逢中面对新的变化。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sidestory_5_The_Great_Chief_Returns",
+      "reviewStart": 1600113600,
+      "firstStart": 1598328000,
+      "storyCount": 21,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/密林悍将归来"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act12side",
+      "title": "多索雷斯假日",
+      "line": "ST",
+      "lineTitle": "夏日律动",
+      "order": 2,
+      "primary": "bolivar",
+      "related": [
+        "yan"
+      ],
+      "summary": "陈与伙伴来到玻利瓦尔的度假城市，卷入竞赛与当地政治。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sidestory_9_Dossoles_Holiday",
+      "reviewStart": 1630353600,
+      "firstStart": 1627963200,
+      "storyCount": 20,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/多索雷斯假日"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act20side",
+      "title": "理想城：长夏狂欢季",
+      "line": "ST",
+      "lineTitle": "夏日律动",
+      "order": 3,
+      "primary": "durin",
+      "related": [
+        "sargon"
+      ],
+      "summary": "杜林地下城市的夏日生活，与来自地上的访客发生交集。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sidestory_16_Summer_Carnival_City",
+      "reviewStart": 1662580800,
+      "firstStart": 1660190400,
+      "storyCount": 18,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/理想城：长夏狂欢季"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act27side",
+      "title": "火山旅梦",
+      "line": "ST",
+      "lineTitle": "夏日律动",
+      "order": 4,
+      "primary": "siesta",
+      "related": [],
+      "summary": "在迁徙之后的汐斯塔，跟随艾雅法拉面对记忆、亲情与旅途。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sidestory_21_so_Long_Adele",
+      "reviewStart": 1693252800,
+      "firstStart": 1690862400,
+      "storyCount": 19,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/火山旅梦"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act35side",
+      "title": "太阳甩在身后",
+      "line": "ST",
+      "lineTitle": "夏日律动",
+      "order": 5,
+      "primary": "sargon",
+      "related": [],
+      "summary": "深入萨尔贡的沙地与遗迹，从地方故事中观察历史。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sidestory_27_Adventure_That_Cannot_Waits_For_The_Sun",
+      "reviewStart": 1724875200,
+      "firstStart": 1722484800,
+      "storyCount": 19,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/太阳甩在身后"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act44side",
+      "title": "墟",
+      "line": "ST",
+      "lineTitle": "夏日律动",
+      "order": 6,
+      "primary": "higashi",
+      "related": [],
+      "summary": "东的地方社会与旧日遗迹成为新的舞台，人物在传承与变局之间作出选择。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sidestory_34_Ato",
+      "reviewStart": 1756497600,
+      "firstStart": 1754107200,
+      "storyCount": 19,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/墟"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "地理与主题复核来源",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act44side/level_act44side_st01.txt"
+        }
+      ]
+    },
+    {
+      "id": "act53side",
+      "title": "直到大地变成一颗酸橙",
+      "line": "ST",
+      "lineTitle": "夏日律动",
+      "order": 7,
+      "primary": "rim",
+      "related": [],
+      "summary": "雷姆必拓的公路连接不同聚落，安洁莉娜与同行者各自寻找旅途的终点。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": false,
+      "retroId": null,
+      "reviewStart": 1787947200,
+      "firstStart": 1785538800,
+      "storyCount": 19,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/直到大地变成一颗酸橙"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "地理与主题复核来源",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act53side/level_act53side_st01.txt"
+        }
+      ]
+    },
+    {
+      "id": "act5d0",
+      "title": "喧闹法则",
+      "line": "TS",
+      "lineTitle": "泰拉奇谈",
+      "order": 0,
+      "primary": "penguin",
+      "related": [
+        "yan"
+      ],
+      "summary": "企鹅物流在龙门的夜晚卷入一连串追逐与冲突。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sidestory_3_Code_Of_Brawl",
+      "reviewStart": 1575921600,
+      "firstStart": 1574150400,
+      "storyCount": 27,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/喧闹法则"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act28side",
+      "title": "不义之财",
+      "line": "TS",
+      "lineTitle": "泰拉奇谈",
+      "order": 1,
+      "primary": "blacksteel",
+      "related": [
+        "columbia"
+      ],
+      "summary": "杰西卡与黑钢相关人物在哥伦比亚边疆面对雇佣关系与个人选择。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sidestory_22_Come_Catastrophes_or_Wakes_of_Vultures",
+      "reviewStart": 1695672000,
+      "firstStart": 1693886400,
+      "storyCount": 19,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/不义之财"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act43side",
+      "title": "红丝绒",
+      "line": "TS",
+      "lineTitle": "泰拉奇谈",
+      "order": 2,
+      "primary": "columbia",
+      "related": [
+        "victoria"
+      ],
+      "summary": "蓝卡坞的电影拍摄与猩红剧团的旧事交织，卢西恩走向舞台背后的复仇与真相。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": true,
+      "retroId": "permanent_sidestory_33_Act_or_Die",
+      "reviewStart": 1750881600,
+      "firstStart": 1749096000,
+      "storyCount": 19,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/红丝绒"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "地理与主题复核来源",
+          "url": "https://wiki.biligame.com/arknights/蒂比"
+        },
+        {
+          "title": "地理与主题复核来源",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act43side/level_act43side_st01.txt"
+        }
+      ]
+    },
+    {
+      "id": "act48side",
+      "title": "雅赛努斯复仇记",
+      "line": "TS",
+      "lineTitle": "泰拉奇谈",
+      "order": 3,
+      "primary": "minos",
+      "related": [
+        "sargon"
+      ],
+      "summary": "萨尔贡使节抵达米诺斯城邦雅赛努斯，文物归还与一出戏剧触动战争留下的记忆。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": false,
+      "retroId": null,
+      "reviewStart": 1769716800,
+      "firstStart": 1767913200,
+      "storyCount": 19,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/雅赛努斯复仇记"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "地理与主题复核来源",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act48side/level_act48side_st01.txt"
+        }
+      ]
+    },
+    {
+      "id": "act4d0",
+      "title": "战地秘闻",
+      "line": "TS",
+      "lineTitle": "泰拉奇谈",
+      "order": 4,
+      "primary": "cross",
+      "related": [],
+      "summary": "数段任务见闻从不同角度展现罗德岛干员的生活。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": false,
+      "retroId": null,
+      "reviewStart": 1571947200,
+      "firstStart": 1571126400,
+      "storyCount": 7,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/战地秘闻"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act7d5",
+      "title": "午间逸话",
+      "line": "TS",
+      "lineTitle": "泰拉奇谈",
+      "order": 5,
+      "primary": "cross",
+      "related": [],
+      "summary": "短篇合集，透过任务与闲暇时刻认识干员。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": false,
+      "retroId": null,
+      "reviewStart": 1583784000,
+      "firstStart": 1582617600,
+      "storyCount": 6,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/午间逸话"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act13d0",
+      "title": "踏寻往昔之风",
+      "line": "TS",
+      "lineTitle": "泰拉奇谈",
+      "order": 6,
+      "primary": "cross",
+      "related": [],
+      "summary": "不同人物与旧事相遇，组成跨地区的短篇见闻。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": false,
+      "retroId": null,
+      "reviewStart": 1601755200,
+      "firstStart": 1600920000,
+      "storyCount": 7,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/踏寻往昔之风"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act15d5",
+      "title": "此地之外",
+      "line": "TS",
+      "lineTitle": "泰拉奇谈",
+      "order": 7,
+      "primary": "cross",
+      "related": [],
+      "summary": "围绕离乡、旅行与日常相遇展开的短篇合集。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": false,
+      "retroId": null,
+      "reviewStart": 1610654400,
+      "firstStart": 1609833600,
+      "storyCount": 7,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/此地之外"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act7mini",
+      "title": "灯火序曲",
+      "line": "TS",
+      "lineTitle": "泰拉奇谈",
+      "order": 8,
+      "primary": "cross",
+      "related": [],
+      "summary": "从多个人物的片段观察这片大地，不视为单一地区的连续行程。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": false,
+      "retroId": null,
+      "reviewStart": 1623355200,
+      "firstStart": 1622520000,
+      "storyCount": 6,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/灯火序曲"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act10mini",
+      "title": "阴云火花",
+      "line": "TS",
+      "lineTitle": "泰拉奇谈",
+      "order": 9,
+      "primary": "victoria",
+      "related": [],
+      "summary": "维多利亚相关人物的短篇故事，在平常生活中埋下新的变化。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": false,
+      "retroId": null,
+      "reviewStart": 1645732800,
+      "firstStart": 1644912000,
+      "storyCount": 6,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/阴云火花"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act11mini",
+      "title": "未尽篇章",
+      "line": "TS",
+      "lineTitle": "泰拉奇谈",
+      "order": 10,
+      "primary": "cross",
+      "related": [],
+      "summary": "补全不同地区人物尚未说完的故事。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": false,
+      "retroId": null,
+      "reviewStart": 1659038400,
+      "firstStart": 1658217600,
+      "storyCount": 6,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/未尽篇章"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act15mini",
+      "title": "眠于树影之中",
+      "line": "TS",
+      "lineTitle": "泰拉奇谈",
+      "order": 11,
+      "primary": "sami",
+      "related": [
+        "ursus",
+        "columbia",
+        "rhine"
+      ],
+      "summary": "麦哲伦从北方科考线走入萨米，在提丰与当地人的引领下接近森林和冰原的秘密。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": false,
+      "retroId": null,
+      "reviewStart": 1689451200,
+      "firstStart": 1688616000,
+      "storyCount": 7,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/眠于树影之中"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "地理与主题复核来源",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act15mini/level_act15mini_st01.txt"
+        },
+        {
+          "title": "地理与主题复核来源",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act15mini/level_act15mini_st02.txt"
+        }
+      ]
+    },
+    {
+      "id": "act16mini",
+      "title": "去咧嘴谷",
+      "line": "TS",
+      "lineTitle": "泰拉奇谈",
+      "order": 12,
+      "primary": "rim",
+      "related": [],
+      "summary": "雷姆必拓荒野中的旅途，聚焦当地居民与行路者。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": false,
+      "retroId": null,
+      "reviewStart": 1705608000,
+      "firstStart": 1704787200,
+      "storyCount": 6,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/去咧嘴谷"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        }
+      ]
+    },
+    {
+      "id": "act17mini",
+      "title": "熔炉“还魂”记",
+      "line": "TS",
+      "lineTitle": "泰拉奇谈",
+      "order": 13,
+      "primary": "kazdel",
+      "related": [],
+      "summary": "卡兹戴尔的魂灵熔炉发生异动，妮芙与伙伴寻找意外离开熔炉的先祖魂灵。",
+      "basis": "依游戏曲谱回忆索引归入该乐章；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": false,
+      "retroId": null,
+      "reviewStart": 1721332800,
+      "firstStart": 1720497600,
+      "storyCount": 6,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/熔炉“还魂”记"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "地理与主题复核来源",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act17mini/level_act17mini_st01.txt"
+        }
+      ]
+    },
+    {
+      "id": "act21mini",
+      "title": "丛林症结",
+      "line": "SUP",
+      "lineTitle": "补充故事集",
+      "order": 0,
+      "primary": "bolivar",
+      "related": [],
+      "summary": "从种植园里的相遇开始，吉莉安与洛伦茨被卷入玻利瓦尔的权力与生存困局。",
+      "basis": "补充游戏回顾表已开放的条目；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": false,
+      "retroId": null,
+      "reviewStart": 1784491200,
+      "firstStart": 1783638000,
+      "storyCount": 7,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/丛林症结"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "地理与主题复核来源",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act21mini/level_act21mini_st01.txt"
+        }
+      ]
+    },
+    {
+      "id": "act17d0",
+      "title": "源石尘行动",
+      "line": "COLLAB",
+      "lineTitle": "可回顾的联动故事",
+      "order": 0,
+      "primary": "sargon",
+      "related": [
+        "rhodes"
+      ],
+      "summary": "彩虹小队来到萨尔贡，与当地居民和罗德岛共同面对危机。",
+      "basis": "补充游戏回顾表已开放的条目；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": false,
+      "retroId": null,
+      "reviewStart": 1617048000,
+      "firstStart": 1612324800,
+      "storyCount": 17,
+      "collaboration": true,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/源石尘行动"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "地理与主题复核来源",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act17d0/level_act17d0_01_beg.txt"
+        }
+      ]
+    },
+    {
+      "id": "act32side",
+      "title": "水晶箭行动",
+      "line": "COLLAB",
+      "lineTitle": "可回顾的联动故事",
+      "order": 1,
+      "primary": "bolivar",
+      "related": [],
+      "summary": "彩虹六号联动的后续故事，舞台来到玻利瓦尔的多索雷斯。",
+      "basis": "补充游戏回顾表已开放的条目；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": false,
+      "retroId": null,
+      "reviewStart": 1711569600,
+      "firstStart": 1709784000,
+      "storyCount": 19,
+      "collaboration": true,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/水晶箭行动"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "地理与主题复核来源",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act32side/level_act32side_st01.txt"
+        }
+      ]
+    },
+    {
+      "id": "act45side",
+      "title": "无忧梦呓",
+      "line": "COLLAB",
+      "lineTitle": "可回顾的联动故事",
+      "order": 2,
+      "primary": "victoria",
+      "related": [],
+      "summary": "在维多利亚的森林与梦城堡中，联动人物的音乐和梦境与泰拉相遇。",
+      "basis": "补充游戏回顾表已开放的条目；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": false,
+      "retroId": null,
+      "reviewStart": 1758744000,
+      "firstStart": 1756958400,
+      "storyCount": 17,
+      "collaboration": true,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/无忧梦呓"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "地理与主题复核来源",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act45side/level_act45side_st01.txt"
+        }
+      ]
+    }
+  ],
+  "excluded": [
+    {
+      "id": "act24side",
+      "title": "落叶逐火",
+      "reviewStart": 4086014399,
+      "reason": "尚未到回顾开放时间／联动未常驻"
+    },
+    {
+      "id": "act36side",
+      "title": "泰拉饭",
+      "reviewStart": 4093703999,
+      "reason": "尚未到回顾开放时间／联动未常驻"
+    },
+    {
+      "id": "act50side",
+      "title": "泡影苍霆",
+      "reviewStart": 4078583999,
+      "reason": "尚未到回顾开放时间／联动未常驻"
+    },
+    {
+      "id": "act54side",
+      "title": "月行水上",
+      "reviewStart": 1790280000,
+      "reason": "尚未到回顾开放时间／联动未常驻"
+    },
+    {
+      "id": "act13mini",
+      "title": "好久不见",
+      "reviewStart": 4085927999,
+      "reason": "尚未到回顾开放时间／联动未常驻"
+    }
+  ]
+}

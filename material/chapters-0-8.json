@@ -1,0 +1,1212 @@
+{
+  "chapters": [
+    {
+      "id": 0,
+      "title": "黑暗时代·上",
+      "place": "切尔诺伯格",
+      "summary": "博士获救后，罗德岛在整合运动暴动中的切尔诺伯格组织撤退。",
+      "nodes": [
+        {
+          "title": "核心区撤出",
+          "stage": "0-1 · 行动前",
+          "place": "切尔诺伯格·救援队撤退街区",
+          "summary": "救援队发现整合运动正在攻击军警和平民，决定快速击溃阻碍并转移。",
+          "factions": [
+            {
+              "id": "rhodes",
+              "name": "罗德岛",
+              "characters": [
+                "阿米娅",
+                "博士"
+              ],
+              "location": "救援队撤退街区"
+            },
+            {
+              "id": "reunion",
+              "name": "整合运动",
+              "characters": [],
+              "location": "街区封锁线"
+            },
+            {
+              "id": "ursus",
+              "name": "乌萨斯军警",
+              "characters": [],
+              "location": "街区防线"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_00-01_beg.txt",
+              "title": "游戏剧情原文 · 00-01_beg",
+              "evidence": "游戏剧情脚本的第三方公开镜像，已读取相关对话；事实依据为游戏原文。"
+            }
+          ],
+          "order": 1,
+          "positionAccuracy": "具名地点或叙事相对位置；无官方地理坐标，不可解释为精确行军轨迹。",
+          "stageName": "坍塌",
+          "scriptId": "00-01_beg",
+          "mappingVerified": true
+        },
+        {
+          "title": "与 Ace 会合",
+          "stage": "0-4 · 行动前",
+          "place": "切尔诺伯格·汇合点附近",
+          "summary": "Ace 先行确认队伍状况，E3 小队在汇合点附近配合杜宾夹击追兵。",
+          "factions": [
+            {
+              "id": "rhodes",
+              "name": "罗德岛",
+              "characters": [
+                "Ace",
+                "杜宾"
+              ],
+              "location": "汇合点附近"
+            },
+            {
+              "id": "reunion",
+              "name": "整合运动",
+              "characters": [],
+              "location": "追击方向"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_00-04_beg.txt",
+              "title": "游戏剧情原文 · 00-04_beg",
+              "evidence": "游戏剧情脚本的第三方公开镜像，已读取相关对话；事实依据为游戏原文。"
+            }
+          ],
+          "order": 2,
+          "positionAccuracy": "具名地点或叙事相对位置；无官方地理坐标，不可解释为精确行军轨迹。",
+          "stageName": "混战",
+          "scriptId": "00-04_beg",
+          "mappingVerified": true
+        },
+        {
+          "title": "脱离上城区",
+          "stage": "0-11 · 行动后",
+          "place": "切尔诺伯格·上城区撤出路线",
+          "summary": "罗德岛突破包围，基本脱离上城区。梅菲斯特令浮士德继续追踪，并准备向塔露拉报告。",
+          "factions": [
+            {
+              "id": "rhodes",
+              "name": "罗德岛",
+              "characters": [
+                "阿米娅",
+                "博士"
+              ],
+              "location": "上城区撤出队伍"
+            },
+            {
+              "id": "reunion",
+              "name": "整合运动",
+              "characters": [
+                "梅菲斯特",
+                "浮士德"
+              ],
+              "location": "追击方视角；不与罗德岛同处"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_00-11_end.txt",
+              "title": "游戏剧情原文 · 0-11 行动后",
+              "evidence": "杜宾确认脱离上城区；临光提及护送博士，末尾为整合运动另一视角。"
+            }
+          ],
+          "order": 3,
+          "positionAccuracy": "具名地点或叙事相对位置；无官方地理坐标，不可解释为精确行军轨迹。",
+          "stageName": "突围",
+          "scriptId": "00-11_end",
+          "mappingVerified": true
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "黑暗时代·下",
+      "place": "切尔诺伯格",
+      "summary": "天灾降临，救援队穿越封锁；面对塔露拉，Ace 留下掩护撤离。",
+      "nodes": [
+        {
+          "title": "穿越封锁线",
+          "stage": "1-3 · 行动前",
+          "place": "切尔诺伯格·行动组 E0 所在街区",
+          "summary": "天灾逼近，队伍没有时间绕路，决定依靠速度突破整合运动松散的封锁。",
+          "factions": [
+            {
+              "id": "rhodes",
+              "name": "罗德岛",
+              "characters": [
+                "临光",
+                "杜宾"
+              ],
+              "location": "E0 所在街区"
+            },
+            {
+              "id": "reunion",
+              "name": "整合运动",
+              "characters": [],
+              "location": "街区封锁线"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_01-03_beg.txt",
+              "title": "游戏剧情原文 · 01-03_beg",
+              "evidence": "游戏剧情脚本的第三方公开镜像，已读取相关对话；事实依据为游戏原文。"
+            }
+          ],
+          "order": 1,
+          "positionAccuracy": "具名地点或叙事相对位置；无官方地理坐标，不可解释为精确行军轨迹。",
+          "stageName": "狂奔",
+          "scriptId": "01-03_beg",
+          "mappingVerified": true
+        },
+        {
+          "title": "天灾落下",
+          "stage": "1-7 · 行动前",
+          "place": "切尔诺伯格·受灾街区",
+          "summary": "源石坠落摧毁街区，救援队保护术师并转移，残余整合运动仍继续进攻。",
+          "factions": [
+            {
+              "id": "rhodes",
+              "name": "罗德岛",
+              "characters": [
+                "Ace",
+                "临光"
+              ],
+              "location": "受灾街区"
+            },
+            {
+              "id": "reunion",
+              "name": "整合运动",
+              "characters": [],
+              "location": "受灾街区追兵"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_01-07_beg.txt",
+              "title": "游戏剧情原文 · 01-07_beg",
+              "evidence": "游戏剧情脚本的第三方公开镜像，已读取相关对话；事实依据为游戏原文。"
+            }
+          ],
+          "order": 2,
+          "positionAccuracy": "具名地点或叙事相对位置；无官方地理坐标，不可解释为精确行军轨迹。",
+          "stageName": "暴君",
+          "scriptId": "01-07_beg",
+          "mappingVerified": true
+        },
+        {
+          "title": "Ace 断后",
+          "stage": "1-8 · 行动前",
+          "place": "切尔诺伯格·撤离途中",
+          "summary": "塔露拉阻断救援队，Ace 决定留下掩护；杜宾带阿米娅与博士撤退。",
+          "factions": [
+            {
+              "id": "rhodes",
+              "name": "罗德岛",
+              "characters": [
+                "阿米娅",
+                "博士"
+              ],
+              "location": "撤离方向"
+            },
+            {
+              "id": "rhodes-rearguard",
+              "name": "罗德岛断后小队",
+              "characters": [
+                "Ace"
+              ],
+              "location": "塔露拉前方"
+            },
+            {
+              "id": "reunion",
+              "name": "整合运动",
+              "characters": [
+                "塔露拉"
+              ],
+              "location": "断后战场"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_01-08_beg.txt",
+              "title": "游戏剧情原文 · 01-08_beg",
+              "evidence": "游戏剧情脚本的第三方公开镜像，已读取相关对话；事实依据为游戏原文。"
+            }
+          ],
+          "order": 3,
+          "positionAccuracy": "具名地点或叙事相对位置；无官方地理坐标，不可解释为精确行军轨迹。",
+          "stageName": "意志",
+          "scriptId": "01-08_beg",
+          "mappingVerified": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "异卵同生",
+      "place": "龙门",
+      "summary": "罗德岛寻找并护送米莎，在与近卫局交接期间持续受到整合运动袭击。",
+      "nodes": [
+        {
+          "title": "寻找米莎",
+          "stage": "2-3 · 行动前",
+          "place": "龙门·感染者聚居街区",
+          "summary": "依据企鹅物流的情报寻找米莎，阿米娅发现儿童遭到暴民威胁并组织行动。",
+          "factions": [
+            {
+              "id": "rhodes",
+              "name": "罗德岛",
+              "characters": [
+                "阿米娅",
+                "雷蛇"
+              ],
+              "location": "米莎曾停留的街区"
+            },
+            {
+              "id": "civilians",
+              "name": "平民",
+              "characters": [
+                "米莎"
+              ],
+              "location": "儿童藏身处附近"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_02-03_beg.txt",
+              "title": "游戏剧情原文 · 02-03_beg",
+              "evidence": "游戏剧情脚本的第三方公开镜像，已读取相关对话；事实依据为游戏原文。"
+            }
+          ],
+          "order": 1,
+          "positionAccuracy": "具名地点或叙事相对位置；无官方地理坐标，不可解释为精确行军轨迹。",
+          "stageName": "无罪推定",
+          "scriptId": "02-03_beg",
+          "mappingVerified": true
+        },
+        {
+          "title": "护送交接",
+          "stage": "2-8 · 行动前",
+          "place": "龙门·楼顶街道",
+          "summary": "阿米娅将米莎交给陈和近卫局保护；整合运动紧随其后袭击楼顶街道。",
+          "factions": [
+            {
+              "id": "rhodes",
+              "name": "罗德岛",
+              "characters": [
+                "阿米娅",
+                "芙兰卡"
+              ],
+              "location": "楼顶街道"
+            },
+            {
+              "id": "lungmen",
+              "name": "龙门近卫局",
+              "characters": [
+                "陈"
+              ],
+              "location": "交接处"
+            },
+            {
+              "id": "reunion",
+              "name": "整合运动",
+              "characters": [],
+              "location": "街道周围"
+            },
+            {
+              "id": "misha",
+              "name": "受护送平民",
+              "characters": [
+                "米莎"
+              ],
+              "location": "近卫局交接处"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_02-08_beg.txt",
+              "title": "游戏剧情原文 · 02-08_beg",
+              "evidence": "游戏剧情脚本的第三方公开镜像，已读取相关对话；事实依据为游戏原文。"
+            }
+          ],
+          "order": 2,
+          "positionAccuracy": "具名地点或叙事相对位置；无官方地理坐标，不可解释为精确行军轨迹。",
+          "stageName": "不做约定",
+          "scriptId": "02-08_beg",
+          "mappingVerified": true
+        },
+        {
+          "title": "碎骨合围",
+          "stage": "2-10 · 行动前",
+          "place": "龙门·护送队阵地",
+          "summary": "碎骨率精英部队围攻罗德岛，雷蛇和芙兰卡维持防线，阿米娅应战。",
+          "factions": [
+            {
+              "id": "rhodes",
+              "name": "罗德岛",
+              "characters": [
+                "阿米娅",
+                "雷蛇"
+              ],
+              "location": "防守阵地"
+            },
+            {
+              "id": "reunion",
+              "name": "整合运动",
+              "characters": [
+                "碎骨"
+              ],
+              "location": "包围圈"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_02-10_beg.txt",
+              "title": "游戏剧情原文 · 02-10_beg",
+              "evidence": "游戏剧情脚本的第三方公开镜像，已读取相关对话；事实依据为游戏原文。"
+            }
+          ],
+          "order": 3,
+          "positionAccuracy": "具名地点或叙事相对位置；无官方地理坐标，不可解释为精确行军轨迹。",
+          "stageName": "病入膏肓",
+          "scriptId": "02-10_beg",
+          "mappingVerified": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "二次呼吸",
+      "place": "龙门及外围",
+      "summary": "米莎被劫后，罗德岛与近卫局联合追击，最终面对再次出现的“碎骨”。",
+      "nodes": [
+        {
+          "title": "追踪被劫目标",
+          "stage": "3-1 · 行动前",
+          "place": "龙门·追击路线",
+          "summary": "陈告知阿米娅米莎被红衣女子劫走。双方会合后继续追击并应对伏击。",
+          "factions": [
+            {
+              "id": "rhodes",
+              "name": "罗德岛",
+              "characters": [
+                "阿米娅",
+                "博士"
+              ],
+              "location": "会合处"
+            },
+            {
+              "id": "lungmen",
+              "name": "龙门近卫局",
+              "characters": [
+                "陈"
+              ],
+              "location": "追击路线"
+            },
+            {
+              "id": "reunion",
+              "name": "整合运动",
+              "characters": [],
+              "location": "伏击阵地"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_03-01_beg.txt",
+              "title": "游戏剧情原文 · 03-01_beg",
+              "evidence": "游戏剧情脚本的第三方公开镜像，已读取相关对话；事实依据为游戏原文。"
+            }
+          ],
+          "order": 1,
+          "positionAccuracy": "具名地点或叙事相对位置；无官方地理坐标，不可解释为精确行军轨迹。",
+          "stageName": "会合",
+          "scriptId": "03-01_beg",
+          "mappingVerified": true
+        },
+        {
+          "title": "队伍合流",
+          "stage": "3-4 · 行动前",
+          "place": "龙门外围·追击战场",
+          "summary": "企鹅物流与罗德岛会合，星熊观察敌人引导追兵的地形；众人准备迎击新敌。",
+          "factions": [
+            {
+              "id": "rhodes",
+              "name": "罗德岛",
+              "characters": [
+                "阿米娅",
+                "雷蛇"
+              ],
+              "location": "会合阵地"
+            },
+            {
+              "id": "penguin",
+              "name": "企鹅物流",
+              "characters": [
+                "能天使",
+                "德克萨斯"
+              ],
+              "location": "会合阵地"
+            },
+            {
+              "id": "lungmen",
+              "name": "龙门近卫局",
+              "characters": [
+                "星熊"
+              ],
+              "location": "前线"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_03-04_beg.txt",
+              "title": "游戏剧情原文 · 03-04_beg",
+              "evidence": "游戏剧情脚本的第三方公开镜像，已读取相关对话；事实依据为游戏原文。"
+            }
+          ],
+          "order": 2,
+          "positionAccuracy": "具名地点或叙事相对位置；无官方地理坐标，不可解释为精确行军轨迹。",
+          "stageName": "龟裂",
+          "scriptId": "03-04_beg",
+          "mappingVerified": true
+        },
+        {
+          "title": "黄昏决战",
+          "stage": "3-8 · 行动前",
+          "place": "龙门外围·决战地点",
+          "summary": "“碎骨”再次带队进攻，阿米娅与近卫局面对无法轻易化解的冲突。",
+          "factions": [
+            {
+              "id": "rhodes",
+              "name": "罗德岛",
+              "characters": [
+                "阿米娅"
+              ],
+              "location": "交战前线"
+            },
+            {
+              "id": "lungmen",
+              "name": "龙门近卫局",
+              "characters": [
+                "陈",
+                "星熊"
+              ],
+              "location": "近卫局阵线"
+            },
+            {
+              "id": "reunion",
+              "name": "整合运动",
+              "characters": [
+                "米莎"
+              ],
+              "location": "碎骨一方阵线"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_03-08_beg.txt",
+              "title": "游戏剧情原文 · 03-08_beg",
+              "evidence": "游戏剧情脚本的第三方公开镜像，已读取相关对话；事实依据为游戏原文。"
+            }
+          ],
+          "order": 3,
+          "positionAccuracy": "具名地点或叙事相对位置；无官方地理坐标，不可解释为精确行军轨迹。",
+          "stageName": "黄昏",
+          "scriptId": "03-08_beg",
+          "mappingVerified": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "急性衰竭",
+      "place": "罗德岛／切尔诺伯格废城",
+      "summary": "米莎事件后队伍返回罗德岛，随后调查靠近龙门的切尔诺伯格分城并遭遇霜星。",
+      "nodes": [
+        {
+          "title": "战后检查",
+          "stage": "4-1 · 行动前",
+          "place": "罗德岛本舰",
+          "summary": "凯尔希检查阿米娅的手与戒指，要求博士在激烈战斗后及时报告变化。",
+          "factions": [
+            {
+              "id": "rhodes",
+              "name": "罗德岛",
+              "characters": [
+                "凯尔希",
+                "阿米娅"
+              ],
+              "location": "罗德岛舱室"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_04-01_beg.txt",
+              "title": "游戏剧情原文 · 04-01_beg",
+              "evidence": "游戏剧情脚本的第三方公开镜像，已读取相关对话；事实依据为游戏原文。"
+            }
+          ],
+          "order": 1,
+          "positionAccuracy": "具名地点或叙事相对位置；无官方地理坐标，不可解释为精确行军轨迹。",
+          "stageName": "免费拥抱",
+          "scriptId": "04-01_beg",
+          "mappingVerified": true,
+          "mapContext": "舰内场景，无精确地表坐标；本节点不在后续废城战场。"
+        },
+        {
+          "title": "进入废城",
+          "stage": "4-6 · 行动前",
+          "place": "切尔诺伯格·靠近龙门的分城",
+          "summary": "联合队抵达靠近龙门的分城。阿米娅据观测判断：分城先移动到此，随后遭天灾余波摧毁；队伍继续调查并遭阻截。",
+          "factions": [
+            {
+              "id": "rhodes",
+              "name": "罗德岛",
+              "characters": [
+                "阿米娅",
+                "博士"
+              ],
+              "location": "废城内部"
+            },
+            {
+              "id": "lungmen",
+              "name": "龙门近卫局",
+              "characters": [
+                "陈",
+                "星熊"
+              ],
+              "location": "废城内部"
+            },
+            {
+              "id": "reunion",
+              "name": "整合运动",
+              "characters": [],
+              "location": "阻截位置"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_04-06_beg.txt",
+              "title": "游戏剧情原文 · 04-06_beg",
+              "evidence": "阿米娅明确区分了分城移动与天灾发生的先后；不能写成受灾废城随后长途移动。"
+            }
+          ],
+          "order": 2,
+          "positionAccuracy": "具名地点或叙事相对位置；无官方地理坐标，不可解释为精确行军轨迹。",
+          "stageName": "少见多怪",
+          "scriptId": "04-06_beg",
+          "mappingVerified": true
+        },
+        {
+          "title": "遭遇霜星",
+          "stage": "4-10 · 行动前",
+          "place": "切尔诺伯格·废城广场",
+          "summary": "霜星以冰霜法术封锁广场，霜叶试图掩护同伴；阿米娅牵制敌人，陨星前去救援霜叶。",
+          "factions": [
+            {
+              "id": "rhodes",
+              "name": "罗德岛",
+              "characters": [
+                "阿米娅",
+                "陨星"
+              ],
+              "location": "被包围阵地"
+            },
+            {
+              "id": "blacksteel",
+              "name": "黑钢协作干员",
+              "characters": [
+                "杰西卡"
+              ],
+              "location": "罗德岛阵地"
+            },
+            {
+              "id": "reunion",
+              "name": "整合运动",
+              "characters": [
+                "霜星"
+              ],
+              "location": "封锁区域"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_04-10_beg.txt",
+              "title": "游戏剧情原文 · 04-10_beg",
+              "evidence": "游戏剧情脚本的第三方公开镜像，已读取相关对话；事实依据为游戏原文。"
+            }
+          ],
+          "order": 3,
+          "positionAccuracy": "具名地点或叙事相对位置；无官方地理坐标，不可解释为精确行军轨迹。",
+          "stageName": "灯火将熄",
+          "scriptId": "04-10_beg",
+          "mappingVerified": true
+        }
+      ],
+      "chronologyNote": "本章先在罗德岛本舰进行战后检查，后转入靠近龙门的切尔诺伯格分城；舰船舱室不能定位为废城建筑。"
+    },
+    {
+      "id": 5,
+      "title": "靶向药物",
+      "place": "龙门",
+      "summary": "陈返回龙门，近卫局逐步夺回城区，罗德岛支援近卫局大楼决战。",
+      "nodes": [
+        {
+          "title": "返回龙门外围",
+          "stage": "5-1 · 行动前",
+          "place": "龙门外围／罗德岛舱室",
+          "summary": "陈在罗德岛舱室醒来，与星熊、诗怀雅交流局势；龙门外围已有敌方部队。",
+          "factions": [
+            {
+              "id": "lungmen",
+              "name": "龙门近卫局",
+              "characters": [
+                "陈",
+                "星熊"
+              ],
+              "location": "罗德岛舱室"
+            },
+            {
+              "id": "reunion",
+              "name": "整合运动",
+              "characters": [],
+              "location": "龙门外围荒野"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_05-01_beg.txt",
+              "title": "游戏剧情原文 · 05-01_beg",
+              "evidence": "游戏剧情脚本的第三方公开镜像，已读取相关对话；事实依据为游戏原文。"
+            }
+          ],
+          "order": 1,
+          "positionAccuracy": "具名地点或叙事相对位置；无官方地理坐标，不可解释为精确行军轨迹。",
+          "stageName": "冤家易结",
+          "scriptId": "05-01_beg",
+          "mappingVerified": true
+        },
+        {
+          "title": "大古广场反击",
+          "stage": "5-6 · 行动前",
+          "place": "龙门·大古广场",
+          "summary": "近卫局突袭广场据点，陈让敌人通报近卫局主力位置，为后续大楼决战造势。",
+          "factions": [
+            {
+              "id": "lungmen",
+              "name": "龙门近卫局",
+              "characters": [
+                "陈",
+                "星熊"
+              ],
+              "location": "大古广场高层"
+            },
+            {
+              "id": "reunion",
+              "name": "整合运动",
+              "characters": [],
+              "location": "大古广场据点"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_05-06_beg.txt",
+              "title": "游戏剧情原文 · 05-06_beg",
+              "evidence": "游戏剧情脚本的第三方公开镜像，已读取相关对话；事实依据为游戏原文。"
+            }
+          ],
+          "order": 2,
+          "positionAccuracy": "具名地点或叙事相对位置；无官方地理坐标，不可解释为精确行军轨迹。",
+          "stageName": "疑兵之计",
+          "scriptId": "05-06_beg",
+          "mappingVerified": true
+        },
+        {
+          "title": "夺回近卫局",
+          "stage": "5-10 · 行动前",
+          "place": "龙门·近卫局大楼",
+          "summary": "罗德岛与陈协同作战，在梅菲斯特与浮士德的火力下攻击敌方指挥体系。",
+          "factions": [
+            {
+              "id": "rhodes",
+              "name": "罗德岛",
+              "characters": [
+                "阿米娅",
+                "煌"
+              ],
+              "location": "大楼交战区"
+            },
+            {
+              "id": "lungmen",
+              "name": "龙门近卫局",
+              "characters": [
+                "陈",
+                "星熊"
+              ],
+              "location": "大楼交战区"
+            },
+            {
+              "id": "reunion",
+              "name": "整合运动",
+              "characters": [
+                "梅菲斯特",
+                "浮士德"
+              ],
+              "location": "敌方指挥阵地"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_05-10_beg.txt",
+              "title": "游戏剧情原文 · 05-10_beg",
+              "evidence": "游戏剧情脚本的第三方公开镜像，已读取相关对话；事实依据为游戏原文。"
+            }
+          ],
+          "order": 3,
+          "positionAccuracy": "具名地点或叙事相对位置；无官方地理坐标，不可解释为精确行军轨迹。",
+          "stageName": "长夜终尽",
+          "scriptId": "05-10_beg",
+          "mappingVerified": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "局部坏死",
+      "place": "龙门／切尔诺伯格废城（插叙）",
+      "summary": "龙门清剿行动与废城相遇的回忆交错展开，最终迎来与霜星的最后一战。",
+      "chronologyNote": "本章存在插叙。节点按章节阅读顺序展示；6-8 是废城回忆，不应绘为从龙门即时返回废城的路线。",
+      "nodes": [
+        {
+          "title": "城区追击",
+          "stage": "6-1 · 行动前",
+          "place": "龙门·城区",
+          "summary": "整合运动撤离受阻，煌尝试解除敌方武装；感染者宿主在城区持续作战。",
+          "factions": [
+            {
+              "id": "rhodes",
+              "name": "罗德岛",
+              "characters": [
+                "煌"
+              ],
+              "location": "城区街道"
+            },
+            {
+              "id": "reunion",
+              "name": "整合运动",
+              "characters": [
+                "梅菲斯特",
+                "浮士德"
+              ],
+              "location": "撤离路线"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_06-01_beg.txt",
+              "title": "游戏剧情原文 · 06-01_beg",
+              "evidence": "游戏剧情脚本的第三方公开镜像，已读取相关对话；事实依据为游戏原文。"
+            }
+          ],
+          "order": 1,
+          "positionAccuracy": "具名地点或叙事相对位置；无官方地理坐标，不可解释为精确行军轨迹。",
+          "stageName": "僵局",
+          "scriptId": "06-01_beg",
+          "mappingVerified": true
+        },
+        {
+          "title": "废城援助（插叙）",
+          "stage": "6-8 · 行动前",
+          "place": "切尔诺伯格·废城",
+          "summary": "煌空降支援阿米娅，与霜星交锋；塌陷后双方暂时共同挖掘救人。",
+          "factions": [
+            {
+              "id": "rhodes",
+              "name": "罗德岛",
+              "characters": [
+                "煌",
+                "阿米娅"
+              ],
+              "location": "废城坍塌区域"
+            },
+            {
+              "id": "reunion",
+              "name": "整合运动",
+              "characters": [
+                "霜星"
+              ],
+              "location": "废城坍塌区域"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_06-07_beg.txt",
+              "title": "游戏剧情原文 · 06-07_beg",
+              "evidence": "游戏剧情脚本的第三方公开镜像，已读取相关对话；事实依据为游戏原文。"
+            },
+            {
+              "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_06-07_end.txt",
+              "title": "游戏剧情原文 · 6-8 行动后",
+              "evidence": "雪怪小队提议与罗德岛共同挖掘，核验暂时合作。"
+            }
+          ],
+          "order": 2,
+          "positionAccuracy": "具名地点或叙事相对位置；无官方地理坐标，不可解释为精确行军轨迹。",
+          "stageName": "只是从天而降！",
+          "scriptId": "06-07_beg",
+          "mappingVerified": true
+        },
+        {
+          "title": "冬逝",
+          "stage": "6-17 · 行动后",
+          "place": "龙门·霜星决战区域",
+          "summary": "与霜星决战后，罗德岛迎来她最后的告别；她向博士诉说未竟的理想。",
+          "factions": [
+            {
+              "id": "rhodes",
+              "name": "罗德岛",
+              "characters": [
+                "阿米娅",
+                "煌"
+              ],
+              "location": "决战区域"
+            },
+            {
+              "id": "reunion",
+              "name": "整合运动",
+              "characters": [
+                "霜星"
+              ],
+              "location": "决战区域"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_06-15_end.txt",
+              "title": "游戏剧情原文 · 06-15_end",
+              "evidence": "游戏剧情脚本的第三方公开镜像，已读取相关对话；事实依据为游戏原文。"
+            }
+          ],
+          "order": 3,
+          "positionAccuracy": "具名地点或叙事相对位置；无官方地理坐标，不可解释为精确行军轨迹。",
+          "stageName": "冬逝",
+          "scriptId": "06-15_end",
+          "mappingVerified": true
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "苦难摇篮",
+      "place": "龙门 → 切尔诺伯格核心城",
+      "summary": "陈离开龙门；罗德岛出击核心城，突破游击队防线并与爱国者交战。",
+      "nodes": [
+        {
+          "title": "W 质问塔露拉",
+          "stage": "7-1 · 幕间",
+          "stageName": "32:00:00",
+          "scriptId": "st_07-01",
+          "mappingVerified": true,
+          "place": "切尔诺伯格·核心城指挥塔较低楼层",
+          "summary": "W 在指挥塔下方楼层与塔露拉会面，双方冲突升级；W 受剑伤后引爆炸弹。",
+          "factions": [
+            {
+              "id": "w-mercenaries",
+              "name": "W（萨卡兹佣兵）",
+              "characters": [
+                "W"
+              ],
+              "location": "指挥塔较低楼层"
+            },
+            {
+              "id": "reunion-command",
+              "name": "整合运动领导者",
+              "characters": [
+                "塔露拉"
+              ],
+              "location": "指挥塔会面处"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_st_07-01.txt",
+              "title": "游戏剧情原文 · 7-1 幕间",
+              "evidence": "W 明言不能进入指挥塔顶部，要求塔露拉下楼见面；随后剑伤与爆炸对话。"
+            }
+          ],
+          "positionAccuracy": "剧情具名建筑与相对楼层，无官方角色坐标。",
+          "order": 1
+        },
+        {
+          "title": "别离之夜",
+          "stage": "7-3 · 行动前",
+          "place": "龙门街头／罗德岛舷侧",
+          "summary": "陈与星熊对峙；迷迭香获准带出武装，罗德岛准备启动舰船。",
+          "factions": [
+            {
+              "id": "lungmen",
+              "name": "龙门近卫局",
+              "characters": [
+                "陈",
+                "星熊"
+              ],
+              "location": "龙门街头"
+            },
+            {
+              "id": "rhodes",
+              "name": "罗德岛",
+              "characters": [
+                "迷迭香",
+                "博士"
+              ],
+              "location": "罗德岛舷侧"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_07-02_beg.txt",
+              "title": "游戏剧情原文 · 07-02_beg",
+              "evidence": "游戏剧情脚本的第三方公开镜像，已读取相关对话；事实依据为游戏原文。"
+            }
+          ],
+          "order": 2,
+          "positionAccuracy": "具名地点或叙事相对位置；无官方地理坐标，不可解释为精确行军轨迹。",
+          "stageName": "变节之刃",
+          "scriptId": "07-02_beg",
+          "mappingVerified": true
+        },
+        {
+          "title": "仓库区的重逢",
+          "stage": "7-9 · 行动后",
+          "place": "切尔诺伯格核心城·仓库区",
+          "summary": "阿米娅在仓库区发现陈留下的战斗与止血痕迹，试图救助当地感染者，并与 Guard 重逢。陈此时已经离开现场。",
+          "factions": [
+            {
+              "id": "rhodes",
+              "name": "罗德岛",
+              "characters": [
+                "阿米娅",
+                "凯尔希"
+              ],
+              "location": "仓库区"
+            },
+            {
+              "id": "guard",
+              "name": "Guard",
+              "characters": [
+                "Guard"
+              ],
+              "location": "仓库区重逢处"
+            },
+            {
+              "id": "ursus-civilians",
+              "name": "乌萨斯感染者平民",
+              "characters": [],
+              "location": "仓库区"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_07-07_end.txt",
+              "title": "游戏剧情原文 · 7-9 行动后",
+              "evidence": "原文明确仓库区、陈已离开现场、阿米娅与凯尔希及 Guard 相见。"
+            }
+          ],
+          "order": 3,
+          "positionAccuracy": "具名地点或叙事相对位置；无官方地理坐标，不可解释为精确行军轨迹。",
+          "stageName": "沉默者之怒-2",
+          "scriptId": "07-07_end",
+          "mappingVerified": true
+        },
+        {
+          "title": "爱国者之死",
+          "stage": "7-18 · 行动前",
+          "place": "切尔诺伯格·核心城",
+          "summary": "凯尔希与爱国者交涉后开战，罗德岛集中力量迎击其进军，阿米娅面临致命威胁。",
+          "factions": [
+            {
+              "id": "rhodes",
+              "name": "罗德岛",
+              "characters": [
+                "阿米娅",
+                "迷迭香"
+              ],
+              "location": "交战前线"
+            },
+            {
+              "id": "rhodes-command",
+              "name": "罗德岛指挥组",
+              "characters": [
+                "凯尔希",
+                "博士"
+              ],
+              "location": "交战指挥位置"
+            },
+            {
+              "id": "guerrilla",
+              "name": "感染者游击队",
+              "characters": [
+                "爱国者"
+              ],
+              "location": "游击队阵线"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_07-16_beg.txt",
+              "title": "游戏剧情原文 · 07-16_beg",
+              "evidence": "游戏剧情脚本的第三方公开镜像，已读取相关对话；事实依据为游戏原文。"
+            }
+          ],
+          "order": 4,
+          "positionAccuracy": "具名地点或叙事相对位置；无官方地理坐标，不可解释为精确行军轨迹。",
+          "stageName": "爱国者之死",
+          "scriptId": "07-16_beg",
+          "mappingVerified": true
+        }
+      ],
+      "chronologyNote": "节点按剧情阅读顺序排列。7-1 是核心城指挥塔内 W 与塔露拉的会面，随后视角切回龙门；不是同一队伍从核心城返回龙门。"
+    },
+    {
+      "id": 8,
+      "title": "怒号光明",
+      "place": "乌萨斯冻原（回忆）／切尔诺伯格核心城",
+      "summary": "塔露拉的冻原往事与核心城行动交错展开，陈和阿米娅共同面对不死的黑蛇。",
+      "chronologyNote": "R 为塔露拉往事，M 为核心城当下，JT 汇合主线；节点是阅读索引，不代表同一时刻的地理迁移。",
+      "nodes": [
+        {
+          "title": "冻原村落（回忆）",
+          "stage": "R8-1 · 行动前",
+          "place": "乌萨斯·冻原村落",
+          "summary": "纠察队盘查并伤害收留塔露拉的老人，塔露拉出面制止。",
+          "factions": [
+            {
+              "id": "talulah-past",
+              "name": "塔露拉（回忆）",
+              "characters": [
+                "塔露拉"
+              ],
+              "location": "冻原村落"
+            },
+            {
+              "id": "ursus-patrol",
+              "name": "乌萨斯感染者纠察队",
+              "characters": [],
+              "location": "村落盘查处"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_08-01_beg.txt",
+              "title": "游戏剧情原文 · 08-01_beg",
+              "evidence": "游戏剧情脚本的第三方公开镜像，已读取相关对话；事实依据为游戏原文。"
+            }
+          ],
+          "order": 1,
+          "positionAccuracy": "具名地点或叙事相对位置；无官方地理坐标，不可解释为精确行军轨迹。",
+          "stageName": "昨日，谷壳将裂",
+          "scriptId": "08-01_beg",
+          "mappingVerified": true
+        },
+        {
+          "title": "歌者苏醒（当下）",
+          "stage": "M8-8 · 行动前",
+          "place": "切尔诺伯格·石棺设施区域",
+          "summary": "凯尔希与博士调查核心城能源设施，遭遇引发大规模异常感染的歌唱生物。",
+          "factions": [
+            {
+              "id": "rhodes",
+              "name": "罗德岛",
+              "characters": [
+                "凯尔希",
+                "博士"
+              ],
+              "location": "设施调查区域"
+            },
+            {
+              "id": "reunion",
+              "name": "整合运动",
+              "characters": [
+                "梅菲斯特"
+              ],
+              "location": "石棺设施区域"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_08-14_beg.txt",
+              "title": "游戏剧情原文 · 08-14_beg",
+              "evidence": "凯尔希命令博士停止核心城能源供给，并辨认引发异常感染的歌唱生物。第三方托管游戏原文。"
+            }
+          ],
+          "order": 2,
+          "positionAccuracy": "具名地点或叙事相对位置；无官方地理坐标，不可解释为精确行军轨迹。",
+          "stageName": "苏醒，浮出梦乡",
+          "scriptId": "08-14_beg",
+          "mappingVerified": true
+        },
+        {
+          "title": "足践烈焰（当下）",
+          "stage": "JT8-3 · 行动前",
+          "place": "切尔诺伯格·核心城指挥塔",
+          "summary": "阿米娅与陈揭穿控制塔露拉的意志，联手对抗不死的黑蛇。",
+          "factions": [
+            {
+              "id": "rhodes",
+              "name": "罗德岛",
+              "characters": [
+                "阿米娅"
+              ],
+              "location": "指挥塔"
+            },
+            {
+              "id": "chen",
+              "name": "陈",
+              "characters": [
+                "陈"
+              ],
+              "location": "指挥塔"
+            },
+            {
+              "id": "black-snake",
+              "name": "不死的黑蛇",
+              "characters": [
+                "塔露拉"
+              ],
+              "location": "指挥塔"
+            }
+          ],
+          "sources": [
+            {
+              "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_08-17_beg.txt",
+              "title": "游戏剧情原文 · 08-17_beg",
+              "evidence": "游戏剧情脚本的第三方公开镜像，已读取相关对话；事实依据为游戏原文。"
+            }
+          ],
+          "order": 3,
+          "positionAccuracy": "具名地点或叙事相对位置；无官方地理坐标，不可解释为精确行军轨迹。",
+          "stageName": "昂首，足践烈焰",
+          "scriptId": "08-17_beg",
+          "mappingVerified": true
+        }
+      ]
+    }
+  ],
+  "audit": {
+    "scope": "0—8章，28个关键叙事节点；第7章4个，其余每章3个。",
+    "readScope": "BWIKI 27 个关卡介绍；游戏文本镜像约 35 个有效战前/战后脚本的首尾及相关对话；BWIKI 回忆画集 EP00—EP08。 游戏 story_review_table 的 main_0—main_8 全部节点索引用于编号校准。 补读0-11行动后与7-9行动后，全部28节点现均有游戏脚本来源。",
+    "limitations": [
+      "不是全量逐句剧情索引；未逐字核对所有支线对话。",
+      "第 6、8 章必须区分插叙与当下，禁止把阅读顺序绘成连续物理行军。",
+      "角色、势力的标记是对应节点中的代表，不表示此势力全部人员位于同一点。",
+      "第三方仓库托管官方游戏文本，不是鹰角官方发布网站。",
+      "已用游戏 story_review_table 逐条校准 scriptId、storyCode、avgTag。特别更正 06-07→6-8、06-15_end→6-17、07-02→7-3。只读 BWIKI 关卡介绍的节点保留原关卡号。"
+    ],
+    "reviewedAt": "2026-09-13",
+    "mappingSource": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json",
+    "secondReview": "独立复核修正：4-6分城先移动后受天灾余波；米莎归为受护送平民，不归属近卫局；新增有原文依据的7-1 W会面。"
+  }
+}

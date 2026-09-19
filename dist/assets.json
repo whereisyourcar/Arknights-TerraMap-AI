@@ -1,0 +1,3179 @@
+{
+  "凯尔希05.png": {
+    "path": "assets/avatar-char_003_kalts.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_003_kalts.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "游戏素材归原权利人；BWIKI提供展示，非独立授权声明",
+    "dimensions": [
+      180,
+      180
+    ],
+    "identityEvidence": "游戏角色表 char_003_kalts 对应 凯尔希；替换原40–50px低清头像"
+  },
+  "Icon group 罗德岛.png": {
+    "path": "assets/emblem-罗德岛.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/1/17/20nz08hico77xghjctflzrssax8bq18.png",
+    "source": "https://wiki.biligame.com/arknights/%E5%87%AF%E5%B0%94%E5%B8%8C",
+    "checked": "2026-09-13",
+    "rights": "游戏素材归原权利人；BWIKI提供展示，非独立授权声明",
+    "dimensions": [
+      510,
+      510
+    ]
+  },
+  "迷迭香05.png": {
+    "path": "assets/迷迭香05.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/thumb/f/f7/66djrrwric5g0dfuswhriarag1xw3bv.png/100px-%E8%BF%B7%E8%BF%AD%E9%A6%9905.png",
+    "source": "https://wiki.biligame.com/arknights/%E8%BF%B7%E8%BF%AD%E9%A6%99",
+    "checked": "2026-09-13",
+    "rights": "游戏素材归原权利人；BWIKI提供展示，非独立授权声明",
+    "dimensions": [
+      100,
+      100
+    ]
+  },
+  "Icon group 罗德岛-精英干员.png": {
+    "path": "assets/emblem-罗德岛-精英干员.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/3/34/a9nmmslbtl8cf6nibk568naf5o6gurm.png",
+    "source": "https://wiki.biligame.com/arknights/%E8%BF%B7%E8%BF%AD%E9%A6%99",
+    "checked": "2026-09-13",
+    "rights": "游戏素材归原权利人；BWIKI提供展示，非独立授权声明",
+    "dimensions": [
+      510,
+      510
+    ]
+  },
+  "陈05.png": {
+    "path": "assets/avatar-char_010_chen.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_010_chen.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "游戏素材归原权利人；BWIKI提供展示，非独立授权声明",
+    "dimensions": [
+      180,
+      180
+    ],
+    "identityEvidence": "游戏角色表 char_010_chen 对应 陈；替换原40–50px低清头像"
+  },
+  "Icon group 龙门近卫局.png": {
+    "path": "assets/emblem-龙门近卫局.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/a/a7/8u8si1ejc1ubo6r9ote21atrna556gy.png",
+    "source": "https://wiki.biligame.com/arknights/%E9%99%88",
+    "checked": "2026-09-13",
+    "rights": "游戏素材归原权利人；BWIKI提供展示，非独立授权声明",
+    "dimensions": [
+      510,
+      510
+    ]
+  },
+  "阿米娅05.png": {
+    "path": "assets/avatar-char_002_amiya.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_002_amiya.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "游戏素材归原权利人；BWIKI提供展示，非独立授权声明",
+    "dimensions": [
+      180,
+      180
+    ],
+    "identityEvidence": "游戏角色表 char_002_amiya 对应 阿米娅；替换原40–50px低清头像"
+  },
+  "W05.png": {
+    "path": "assets/W05.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/thumb/a/ab/1pejgrnwpioapuod7nlh84k6uhdafwd.png/100px-W05.png",
+    "source": "https://wiki.biligame.com/arknights/W",
+    "checked": "2026-09-13",
+    "rights": "游戏素材归原权利人；BWIKI提供展示，非独立授权声明",
+    "dimensions": [
+      100,
+      100
+    ]
+  },
+  "爱国者05.png": {
+    "path": "assets/爱国者05.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/thumb/b/b8/hgtkemhsq2iilycnmjlrbal0ols1zno.png/120px-%E7%88%B1%E5%9B%BD%E8%80%85.png",
+    "source": "https://wiki.biligame.com/arknights/%E7%88%B1%E5%9B%BD%E8%80%85",
+    "checked": "2026-09-13",
+    "rights": "游戏素材归原权利人；BWIKI提供展示，非独立授权声明",
+    "dimensions": [
+      120,
+      120
+    ]
+  },
+  "乌啾05.png": {
+    "path": "assets/乌啾05.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/thumb/5/56/7eczhlmlbz0q9osfk9d6vxzuxvf3k0n.png/100px-%E4%B9%8C%E5%95%BE05.png",
+    "source": "https://wiki.biligame.com/arknights/%E4%B9%8C%E5%95%BE",
+    "checked": "2026-09-13",
+    "rights": "游戏素材归原权利人；BWIKI提供展示，非独立授权声明",
+    "dimensions": [
+      100,
+      100
+    ]
+  },
+  "Icon group 乌萨斯.png": {
+    "path": "assets/emblem-乌萨斯.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/d/d3/owx1av7tlne5qsv73dywl5cizsqlhjo.png",
+    "source": "https://wiki.biligame.com/arknights/%E4%B9%8C%E5%95%BE",
+    "checked": "2026-09-13",
+    "rights": "游戏素材归原权利人；BWIKI提供展示，非独立授权声明",
+    "dimensions": [
+      510,
+      510
+    ]
+  },
+  "official-terra-exploration": {
+    "path": "assets/terra-official-exploration.jpg",
+    "url": "https://patchwiki.biligame.com/images/arknights/d/dc/f035ko03a5nymzh11vrv4gfzsxybtx8.jpg",
+    "source": "https://wiki.biligame.com/arknights/文件:泰拉地图2.jpg",
+    "officialSource": "https://www.bilibili.com/video/BV1Hy4y1r7k7/",
+    "checked": "2026-09-13",
+    "rights": "明日方舟官方地图画面，版权归鹰角网络；BWIKI收录。",
+    "width": 1830,
+    "height": 769,
+    "dimensions": [
+      1830,
+      769
+    ]
+  },
+  "临光05.png": {
+    "path": "assets/临光05.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/f/f2/cpddyhssaumwjkppjpk3roprwvq7zw0.png",
+    "source": "https://wiki.biligame.com/arknights/文件:临光05.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      182,
+      182
+    ]
+  },
+  "伊内丝05.png": {
+    "path": "assets/伊内丝05.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/2/26/7hzecd18w5q8vq1yq1xw397vmqie6q9.png",
+    "source": "https://wiki.biligame.com/arknights/文件:伊内丝05.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "凛冬05.png": {
+    "path": "assets/凛冬05.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/2/26/5xjacw8lpmbrfs1irskc8psz3c1hcv2.png",
+    "source": "https://wiki.biligame.com/arknights/文件:凛冬05.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      178,
+      177
+    ]
+  },
+  "号角05.png": {
+    "path": "assets/号角05.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/5/51/7sufjmj2fvvilkftf99jyloctyi2yrx.png",
+    "source": "https://wiki.biligame.com/arknights/文件:号角05.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      179,
+      178
+    ]
+  },
+  "德克萨斯05.png": {
+    "path": "assets/德克萨斯05.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/7/75/gxgyf3zuys0toyeway0o7nixnjq6rhy.png",
+    "source": "https://wiki.biligame.com/arknights/文件:德克萨斯05.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      182,
+      182
+    ]
+  },
+  "推进之王05.png": {
+    "path": "assets/推进之王05.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/8/85/larse6io8cx41v6lee07xqpjpbz3a39.png",
+    "source": "https://wiki.biligame.com/arknights/文件:推进之王05.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      182,
+      182
+    ]
+  },
+  "星熊05.png": {
+    "path": "assets/星熊05.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/c/cc/sfcd11x2fmpioa8v4xm2xk66nzsp2j8.png",
+    "source": "https://wiki.biligame.com/arknights/文件:星熊05.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      177,
+      157
+    ]
+  },
+  "杜宾05.png": {
+    "path": "assets/杜宾05.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/f/f0/jiwntvr78crkqxgupp3s9bpcavliru4.png",
+    "source": "https://wiki.biligame.com/arknights/文件:杜宾05.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      182,
+      182
+    ]
+  },
+  "杰西卡05.png": {
+    "path": "assets/杰西卡05.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/e/ec/afyptwoirviksnmy22zlvmdmqhpxfmb.png",
+    "source": "https://wiki.biligame.com/arknights/文件:杰西卡05.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      182,
+      182
+    ]
+  },
+  "煌05.png": {
+    "path": "assets/煌05.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/d/d1/lm3woc71jg9qc3q6pc507y8gb64nhd9.png",
+    "source": "https://wiki.biligame.com/arknights/文件:煌05.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      182,
+      182
+    ]
+  },
+  "玛恩纳05.png": {
+    "path": "assets/玛恩纳05.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/d/d3/6364m27jz2yoygxx0opoh4plfiv7dyh.png",
+    "source": "https://wiki.biligame.com/arknights/文件:玛恩纳05.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      178,
+      178
+    ]
+  },
+  "琴柳05.png": {
+    "path": "assets/琴柳05.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/b/b4/9wkjwyt5k2c25fwqfvv8qwpcfnyqhit.png",
+    "source": "https://wiki.biligame.com/arknights/文件:琴柳05.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "维什戴尔05.png": {
+    "path": "assets/维什戴尔05.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/e/e2/a5lh9i7y5rpzooeltpdeh75ocvqzgig.png",
+    "source": "https://wiki.biligame.com/arknights/文件:维什戴尔05.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "维伊05.png": {
+    "path": "assets/维伊05.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/0/04/3v6zpb81bzp6nbhcn3vq0l4fgfjm44h.png",
+    "source": "https://wiki.biligame.com/arknights/文件:维伊05.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "维娜·维多利亚05.png": {
+    "path": "assets/维娜·维多利亚05.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/e/ec/ejlho1iq5818gmaj1eot12n4odclcyb.png",
+    "source": "https://wiki.biligame.com/arknights/文件:维娜·维多利亚05.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "能天使05.png": {
+    "path": "assets/能天使05.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/2/23/1g5lvcb8f8tiyl8kasmnqkfv8hlopxb.png",
+    "source": "https://wiki.biligame.com/arknights/文件:能天使05.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      180,
+      181
+    ]
+  },
+  "芙兰卡05.png": {
+    "path": "assets/芙兰卡05.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/c/ca/0t6u398wkj5rkcy3w8a7mujuyod80jp.png",
+    "source": "https://wiki.biligame.com/arknights/文件:芙兰卡05.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      182,
+      182
+    ]
+  },
+  "苇草05.png": {
+    "path": "assets/苇草05.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/e/ec/9wij4qqtlnqigapusgm41olq4h4zf9s.png",
+    "source": "https://wiki.biligame.com/arknights/文件:苇草05.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      182,
+      182
+    ]
+  },
+  "诗怀雅05.png": {
+    "path": "assets/诗怀雅05.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/c/c2/skj2fg8t8ys9ep2b90rx8a6jy6la4hz.png",
+    "source": "https://wiki.biligame.com/arknights/文件:诗怀雅05.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      182,
+      182
+    ]
+  },
+  "赫德雷05.png": {
+    "path": "assets/赫德雷05.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/f/fa/lc4bsqqr8hvfw4d6pj72zzpsmhd9cyu.png",
+    "source": "https://wiki.biligame.com/arknights/文件:赫德雷05.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "逻各斯05.png": {
+    "path": "assets/逻各斯05.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/0/0c/539c441t9w2ng2cvr0v9njfdure8we8.png",
+    "source": "https://wiki.biligame.com/arknights/文件:逻各斯05.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "阿斯卡纶05.png": {
+    "path": "assets/阿斯卡纶05.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/5/51/i9fg6uwvnd9h41uuz1tj52ga4etp5u2.png",
+    "source": "https://wiki.biligame.com/arknights/文件:阿斯卡纶05.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "陨星05.png": {
+    "path": "assets/陨星05.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/c/cc/7vwaf3r4xblfoegn5qu54gcti6nqeu4.png",
+    "source": "https://wiki.biligame.com/arknights/文件:陨星05.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      181,
+      182
+    ]
+  },
+  "雷蛇05.png": {
+    "path": "assets/雷蛇05.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/2/27/rsxfld4a85si1f4bsgc4l5yhaxvil05.png",
+    "source": "https://wiki.biligame.com/arknights/文件:雷蛇05.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      182,
+      182
+    ]
+  },
+  "风笛05.png": {
+    "path": "assets/风笛05.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/b/bb/sadp8y6dcsolrfm7eh66oeqcvrsv2h4.png",
+    "source": "https://wiki.biligame.com/arknights/文件:风笛05.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "Icon_camp_zone_1.png": {
+    "path": "assets/Icon_camp_zone_1.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/3/3b/66oxwwbwwyi33maeg9l82m6r132bqo6.png",
+    "source": "https://wiki.biligame.com/arknights/文件:Icon_camp_zone_1.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      146,
+      166
+    ]
+  },
+  "Icon_camp_zone_10.png": {
+    "path": "assets/Icon_camp_zone_10.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/b/bc/jxec3t2b4bt7hughm6nwss6qrtwakwe.png",
+    "source": "https://wiki.biligame.com/arknights/文件:Icon_camp_zone_10.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      165,
+      129
+    ]
+  },
+  "Icon_camp_zone_11.png": {
+    "path": "assets/Icon_camp_zone_11.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/d/d4/7xmm6fe6u1oijnpghdz7i70md6yix3m.png",
+    "source": "https://wiki.biligame.com/arknights/文件:Icon_camp_zone_11.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      176,
+      164
+    ]
+  },
+  "Icon_camp_zone_12.png": {
+    "path": "assets/Icon_camp_zone_12.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/7/7a/kci50cbiala56zvigjl84jc8jv9yg60.png",
+    "source": "https://wiki.biligame.com/arknights/文件:Icon_camp_zone_12.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      164,
+      133
+    ]
+  },
+  "Icon_camp_zone_13.png": {
+    "path": "assets/Icon_camp_zone_13.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/6/68/2gq7aoql1kyi422mrr6fym4uzwuigqh.png",
+    "source": "https://wiki.biligame.com/arknights/文件:Icon_camp_zone_13.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      142,
+      141
+    ]
+  },
+  "Icon_camp_zone_14.png": {
+    "path": "assets/Icon_camp_zone_14.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/c/cf/ewkgtn31g37h5fe6rgtlx6fxul37kiv.png",
+    "source": "https://wiki.biligame.com/arknights/文件:Icon_camp_zone_14.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      168,
+      163
+    ]
+  },
+  "Icon_camp_zone_15.png": {
+    "path": "assets/Icon_camp_zone_15.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/6/68/iu2vimdg25s66c4t3e652rs7x402ka1.png",
+    "source": "https://wiki.biligame.com/arknights/文件:Icon_camp_zone_15.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      152,
+      170
+    ]
+  },
+  "Icon_camp_zone_2.png": {
+    "path": "assets/Icon_camp_zone_2.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/7/7e/6iqb1k3ov8oa7du8eu14gzvodk3p40j.png",
+    "source": "https://wiki.biligame.com/arknights/文件:Icon_camp_zone_2.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      142,
+      163
+    ]
+  },
+  "Icon_camp_zone_3.png": {
+    "path": "assets/Icon_camp_zone_3.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/c/ca/of6lh6b0ao6ibd1w28ovzyos0or80rn.png",
+    "source": "https://wiki.biligame.com/arknights/文件:Icon_camp_zone_3.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      178,
+      130
+    ]
+  },
+  "Icon_camp_zone_4.png": {
+    "path": "assets/Icon_camp_zone_4.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/9/9d/7u1fman1d706rueoqtppwtvm4eu2tw1.png",
+    "source": "https://wiki.biligame.com/arknights/文件:Icon_camp_zone_4.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      107,
+      180
+    ]
+  },
+  "Icon_camp_zone_5.png": {
+    "path": "assets/Icon_camp_zone_5.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/0/0f/all7z81huwlkzt39aa4itocckhrgt9z.png",
+    "source": "https://wiki.biligame.com/arknights/文件:Icon_camp_zone_5.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      649,
+      647
+    ]
+  },
+  "Icon_camp_zone_6.png": {
+    "path": "assets/Icon_camp_zone_6.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/6/67/t1ysm6qiy5mvfsl36aet1vlaq0ks5h1.png",
+    "source": "https://wiki.biligame.com/arknights/文件:Icon_camp_zone_6.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      179,
+      111
+    ]
+  },
+  "Icon_camp_zone_7.png": {
+    "path": "assets/Icon_camp_zone_7.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/f/f6/93bjc6sqnjllsbr9ryha07e4t0zgioc.png",
+    "source": "https://wiki.biligame.com/arknights/文件:Icon_camp_zone_7.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      164,
+      137
+    ]
+  },
+  "Icon_camp_zone_8.png": {
+    "path": "assets/Icon_camp_zone_8.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/a/a2/9vtho56f13o6adcmvwbgy72xuyt1awi.png",
+    "source": "https://wiki.biligame.com/arknights/文件:Icon_camp_zone_8.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      160,
+      173
+    ]
+  },
+  "Icon_camp_zone_9.png": {
+    "path": "assets/Icon_camp_zone_9.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/f/fb/ooa2iecbl3k4svbysy4mw07bwdnzr6d.png",
+    "source": "https://wiki.biligame.com/arknights/文件:Icon_camp_zone_9.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，原权利人保留版权；BWIKI收录。",
+    "dimensions": [
+      168,
+      180
+    ]
+  },
+  "official-terra-3": {
+    "path": "assets/terra-official-3.png",
+    "source": "https://zh.moegirl.org.cn/泰拉大陆",
+    "officialSource": "https://www.bilibili.com/video/BV17W4y1E7hK/",
+    "checked": "2026-09-13",
+    "rights": "明日方舟官方PV素材，原权利人所有",
+    "dimensions": [
+      1920,
+      1080
+    ]
+  },
+  "初雪05.png": {
+    "path": "assets/初雪05.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/f/f3/5bj92ds1zbncb5cpp1903yhufvp6ubh.png",
+    "source": "https://wiki.biligame.com/arknights/文件:初雪05.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，BWIKI收录",
+    "dimensions": [
+      181,
+      180
+    ]
+  },
+  "灵知05.png": {
+    "path": "assets/灵知05.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/a/a6/9uhk2rel3subiu6ovyvjekj0ee9dhk4.png",
+    "source": "https://wiki.biligame.com/arknights/文件:灵知05.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，BWIKI收录",
+    "dimensions": [
+      180,
+      167
+    ]
+  },
+  "银灰05.png": {
+    "path": "assets/银灰05.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/4/47/finkzs8yhr1l5g14kidpz9nimx82dgg.png",
+    "source": "https://wiki.biligame.com/arknights/文件:银灰05.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，BWIKI收录",
+    "dimensions": [
+      181,
+      181
+    ]
+  },
+  "Pack_银灰_skin_0_0.png": {
+    "path": "assets/Pack_银灰_skin_0_0.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/8/81/4vkkrcasr44wj64qr49tc51qap3ihj2.png",
+    "source": "https://wiki.biligame.com/arknights/文件:Pack_银灰_skin_0_0.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟游戏素材，BWIKI收录",
+    "dimensions": [
+      1460,
+      1460
+    ]
+  },
+  "特雷西斯": {
+    "path": "assets/npc-特雷西斯.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_11-15_beg.txt",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avg/characters/avg_npc_062.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟官方剧情立绘，第三方公开素材镜像",
+    "identityEvidence": "角色ID由所引剧情脚本的Character/CharSlot与紧邻具名发言核对",
+    "focusBox": [
+      239,
+      12,
+      505,
+      451
+    ],
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "alphaBounds": [
+      239,
+      12,
+      744,
+      1015
+    ],
+    "focusMethod": "原图透明边界内的上半身；仅用于CSS视口裁切，不修改原图"
+  },
+  "开斯特公爵": {
+    "path": "assets/npc-开斯特公爵.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_12-01_beg.txt",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avg/characters/avg_npc_726_1%237%241.png",
+    "checked": "2026-09-13",
+    "rights": "明日方舟官方剧情立绘，第三方公开素材镜像",
+    "identityEvidence": "角色ID由所引剧情脚本的Character/CharSlot与紧邻具名发言核对",
+    "focusBox": [
+      0,
+      0,
+      1024,
+      512
+    ],
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "alphaBounds": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "focusMethod": "原图透明边界内的上半身；仅用于CSS视口裁切，不修改原图"
+  },
+  "Friston-305.png": {
+    "path": "assets/avatar-char_4093_frston.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_4093_frston.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_4093_frston 的 name 字段为 Friston-3",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "乌有05.png": {
+    "path": "assets/avatar-char_455_nothin.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_455_nothin.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_455_nothin 的 name 字段为 乌有",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "仇白05.png": {
+    "path": "assets/avatar-char_4082_qiubai.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_4082_qiubai.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_4082_qiubai 的 name 字段为 仇白",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "令05.png": {
+    "path": "assets/avatar-char_2023_ling.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_2023_ling.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_2023_ling 的 name 字段为 令",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "伺夜05.png": {
+    "path": "assets/avatar-char_427_vigil.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_427_vigil.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_427_vigil 的 name 字段为 伺夜",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "克洛丝05.png": {
+    "path": "assets/avatar-char_124_kroos.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_124_kroos.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_124_kroos 的 name 字段为 克洛丝",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "凛视05.png": {
+    "path": "assets/avatar-char_4102_threye.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_4102_threye.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_4102_threye 的 name 字段为 凛视",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "卡夫卡05.png": {
+    "path": "assets/avatar-char_214_kafka.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_214_kafka.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_214_kafka 的 name 字段为 卡夫卡",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "古米05.png": {
+    "path": "assets/avatar-char_196_sunbr.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_196_sunbr.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_196_sunbr 的 name 字段为 古米",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "可颂05.png": {
+    "path": "assets/avatar-char_201_moeshd.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_201_moeshd.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_201_moeshd 的 name 字段为 可颂",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "嘉维尔05.png": {
+    "path": "assets/avatar-char_187_ccheal.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_187_ccheal.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_187_ccheal 的 name 字段为 嘉维尔",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "四月05.png": {
+    "path": "assets/avatar-char_365_aprl.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_365_aprl.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_365_aprl 的 name 字段为 四月",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "因陀罗05.png": {
+    "path": "assets/avatar-char_155_tiger.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_155_tiger.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_155_tiger 的 name 字段为 因陀罗",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "埃拉托05.png": {
+    "path": "assets/avatar-char_4043_erato.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_4043_erato.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_4043_erato 的 name 字段为 埃拉托",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "塞雷娅05.png": {
+    "path": "assets/avatar-char_202_demkni.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_202_demkni.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_202_demkni 的 name 字段为 塞雷娅",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "夕05.png": {
+    "path": "assets/avatar-char_2015_dusk.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_2015_dusk.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_2015_dusk 的 name 字段为 夕",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "多萝西05.png": {
+    "path": "assets/avatar-char_4048_doroth.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_4048_doroth.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_4048_doroth 的 name 字段为 多萝西",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "夜刀05.png": {
+    "path": "assets/avatar-char_502_nblade.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_502_nblade.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_502_nblade 的 name 字段为 夜刀",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "夜莺05.png": {
+    "path": "assets/avatar-char_179_cgbird.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_179_cgbird.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_179_cgbird 的 name 字段为 夜莺",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "安哲拉05.png": {
+    "path": "assets/avatar-char_218_cuttle.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_218_cuttle.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_218_cuttle 的 name 字段为 安哲拉",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "安洁莉娜05.png": {
+    "path": "assets/avatar-char_291_aglina.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_291_aglina.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_291_aglina 的 name 字段为 安洁莉娜",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "宴05.png": {
+    "path": "assets/avatar-char_337_utage.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_337_utage.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_337_utage 的 name 字段为 宴",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "寒檀05.png": {
+    "path": "assets/avatar-char_341_sntlla.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_341_sntlla.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_341_sntlla 的 name 字段为 寒檀",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "崖心05.png": {
+    "path": "assets/avatar-char_173_slchan.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_173_slchan.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_173_slchan 的 name 字段为 崖心",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "嵯峨05.png": {
+    "path": "assets/avatar-char_362_saga.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_362_saga.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_362_saga 的 name 字段为 嵯峨",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "左乐05.png": {
+    "path": "assets/avatar-char_4121_zuole.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_4121_zuole.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_4121_zuole 的 name 字段为 左乐",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "帕拉斯05.png": {
+    "path": "assets/avatar-char_485_pallas.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_485_pallas.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_485_pallas 的 name 字段为 帕拉斯",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "年05.png": {
+    "path": "assets/avatar-char_2014_nian.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_2014_nian.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_2014_nian 的 name 字段为 年",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "幽灵鲨05.png": {
+    "path": "assets/avatar-char_143_ghost.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_143_ghost.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_143_ghost 的 name 字段为 幽灵鲨",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "戴菲恩05.png": {
+    "path": "assets/avatar-char_4110_delphn.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_4110_delphn.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_4110_delphn 的 name 字段为 戴菲恩",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "拉普兰德05.png": {
+    "path": "assets/avatar-char_140_whitew.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_140_whitew.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_140_whitew 的 name 字段为 拉普兰德",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "提丰05.png": {
+    "path": "assets/avatar-char_2012_typhon.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_2012_typhon.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_2012_typhon 的 name 字段为 提丰",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "摩根05.png": {
+    "path": "assets/avatar-char_154_morgan.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_154_morgan.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_154_morgan 的 name 字段为 摩根",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "斥罪05.png": {
+    "path": "assets/avatar-char_4065_judge.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_4065_judge.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_4065_judge 的 name 字段为 斥罪",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "断崖05.png": {
+    "path": "assets/avatar-char_294_ayer.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_294_ayer.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_294_ayer 的 name 字段为 断崖",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "斯卡蒂05.png": {
+    "path": "assets/avatar-char_263_skadi.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_263_skadi.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_263_skadi 的 name 字段为 斯卡蒂",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "早露05.png": {
+    "path": "assets/avatar-char_197_poca.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_197_poca.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_197_poca 的 name 字段为 早露",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "明椒05.png": {
+    "path": "assets/avatar-char_4071_peper.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_4071_peper.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_4071_peper 的 name 字段为 明椒",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "星极05.png": {
+    "path": "assets/avatar-char_274_astesi.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_274_astesi.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_274_astesi 的 name 字段为 星极",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "普罗旺斯05.png": {
+    "path": "assets/avatar-char_145_prove.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_145_prove.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_145_prove 的 name 字段为 普罗旺斯",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "月禾05.png": {
+    "path": "assets/avatar-char_343_tknogi.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_343_tknogi.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_343_tknogi 的 name 字段为 月禾",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "杜林05.png": {
+    "path": "assets/avatar-char_501_durin.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_501_durin.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_501_durin 的 name 字段为 杜林",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "极境05.png": {
+    "path": "assets/avatar-char_401_elysm.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_401_elysm.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_401_elysm 的 name 字段为 极境",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "林05.png": {
+    "path": "assets/avatar-char_4080_lin.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_4080_lin.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_4080_lin 的 name 字段为 林",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "柏喙05.png": {
+    "path": "assets/avatar-char_252_bibeak.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_252_bibeak.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_252_bibeak 的 name 字段为 柏喙",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "格雷伊05.png": {
+    "path": "assets/avatar-char_253_greyy.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_253_greyy.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_253_greyy 的 name 字段为 格雷伊",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "桃金娘05.png": {
+    "path": "assets/avatar-char_151_myrtle.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_151_myrtle.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_151_myrtle 的 name 字段为 桃金娘",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "棘刺05.png": {
+    "path": "assets/avatar-char_293_thorns.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_293_thorns.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_293_thorns 的 name 字段为 棘刺",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "歌蕾蒂娅05.png": {
+    "path": "assets/avatar-char_474_glady.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_474_glady.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_474_glady 的 name 字段为 歌蕾蒂娅",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "波登可05.png": {
+    "path": "assets/avatar-char_258_podego.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_258_podego.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_258_podego 的 name 字段为 波登可",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "泥岩05.png": {
+    "path": "assets/avatar-char_311_mudrok.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_311_mudrok.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_311_mudrok 的 name 字段为 泥岩",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "洛洛05.png": {
+    "path": "assets/avatar-char_4040_rockr.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_4040_rockr.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_4040_rockr 的 name 字段为 洛洛",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "流明05.png": {
+    "path": "assets/avatar-char_4042_lumen.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_4042_lumen.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_4042_lumen 的 name 字段为 流明",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "海蒂05.png": {
+    "path": "assets/avatar-char_4045_heidi.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_4045_heidi.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_4045_heidi 的 name 字段为 海蒂",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "深靛05.png": {
+    "path": "assets/avatar-char_469_indigo.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_469_indigo.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_469_indigo 的 name 字段为 深靛",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "火神05.png": {
+    "path": "assets/avatar-char_163_hpsts.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_163_hpsts.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_163_hpsts 的 name 字段为 火神",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "焰尾05.png": {
+    "path": "assets/avatar-char_420_flamtl.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_420_flamtl.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_420_flamtl 的 name 字段为 焰尾",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "特米米05.png": {
+    "path": "assets/avatar-char_411_tomimi.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_411_tomimi.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_411_tomimi 的 name 字段为 特米米",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "瑕光05.png": {
+    "path": "assets/avatar-char_423_blemsh.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_423_blemsh.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_423_blemsh 的 name 字段为 瑕光",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "白金05.png": {
+    "path": "assets/avatar-char_204_platnm.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_204_platnm.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_204_platnm 的 name 字段为 白金",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "白铁05.png": {
+    "path": "assets/avatar-char_4072_ironmn.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_4072_ironmn.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_4072_ironmn 的 name 字段为 白铁",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "白雪05.png": {
+    "path": "assets/avatar-char_118_yuki.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_118_yuki.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_118_yuki 的 name 字段为 白雪",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "白面鸮05.png": {
+    "path": "assets/avatar-char_128_plosis.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_128_plosis.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_128_plosis 的 name 字段为 白面鸮",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "真理05.png": {
+    "path": "assets/avatar-char_195_glassb.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_195_glassb.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_195_glassb 的 name 字段为 真理",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "砾05.png": {
+    "path": "assets/avatar-char_237_gravel.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_237_gravel.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_237_gravel 的 name 字段为 砾",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "稀音05.png": {
+    "path": "assets/avatar-char_336_folivo.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_336_folivo.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_336_folivo 的 name 字段为 稀音",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "米格鲁05.png": {
+    "path": "assets/avatar-char_122_beagle.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_122_beagle.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_122_beagle 的 name 字段为 米格鲁",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "缪尔赛思05.png": {
+    "path": "assets/avatar-char_249_mlyss.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_249_mlyss.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_249_mlyss 的 name 字段为 缪尔赛思",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "羽毛笔05.png": {
+    "path": "assets/avatar-char_421_crow.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_421_crow.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_421_crow 的 name 字段为 羽毛笔",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "翎羽05.png": {
+    "path": "assets/avatar-char_192_falco.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_192_falco.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_192_falco 的 name 字段为 翎羽",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "耶拉05.png": {
+    "path": "assets/avatar-char_4013_kjera.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_4013_kjera.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_4013_kjera 的 name 字段为 耶拉",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "至简05.png": {
+    "path": "assets/avatar-char_4054_malist.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_4054_malist.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_4054_malist 的 name 字段为 至简",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "艾丽妮05.png": {
+    "path": "assets/avatar-char_4009_irene.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_4009_irene.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_4009_irene 的 name 字段为 艾丽妮",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "艾雅法拉05.png": {
+    "path": "assets/avatar-char_180_amgoat.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_180_amgoat.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_180_amgoat 的 name 字段为 艾雅法拉",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "苦艾05.png": {
+    "path": "assets/avatar-char_405_absin.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_405_absin.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_405_absin 的 name 字段为 苦艾",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "莫斯提马05.png": {
+    "path": "assets/avatar-char_213_mostma.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_213_mostma.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_213_mostma 的 name 字段为 莫斯提马",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "莱恩哈特05.png": {
+    "path": "assets/avatar-char_373_lionhd.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_373_lionhd.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_373_lionhd 的 name 字段为 莱恩哈特",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "菲亚梅塔05.png": {
+    "path": "assets/avatar-char_300_phenxi.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_300_phenxi.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_300_phenxi 的 name 字段为 菲亚梅塔",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "蓝毒05.png": {
+    "path": "assets/avatar-char_129_bluep.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_129_bluep.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_129_bluep 的 name 字段为 蓝毒",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "薇薇安娜05.png": {
+    "path": "assets/avatar-char_4098_vvana.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_4098_vvana.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_4098_vvana 的 name 字段为 薇薇安娜",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "褐果05.png": {
+    "path": "assets/avatar-char_4041_chnut.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_4041_chnut.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_4041_chnut 的 name 字段为 褐果",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "见行者05.png": {
+    "path": "assets/avatar-char_4036_forcer.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_4036_forcer.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_4036_forcer 的 name 字段为 见行者",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "角峰05.png": {
+    "path": "assets/avatar-char_199_yak.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_199_yak.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_199_yak 的 name 字段为 角峰",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "讯使05.png": {
+    "path": "assets/avatar-char_198_blackd.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_198_blackd.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_198_blackd 的 name 字段为 讯使",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "调香师05.png": {
+    "path": "assets/avatar-char_181_flower.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_181_flower.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_181_flower 的 name 字段为 调香师",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "赤冬05.png": {
+    "path": "assets/avatar-char_475_akafyu.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_475_akafyu.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_475_akafyu 的 name 字段为 赤冬",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "赫拉格05.png": {
+    "path": "assets/avatar-char_188_helage.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_188_helage.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_188_helage 的 name 字段为 赫拉格",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "赫默05.png": {
+    "path": "assets/avatar-char_108_silent.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_108_silent.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_108_silent 的 name 字段为 赫默",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "车尔尼05.png": {
+    "path": "assets/avatar-char_4047_pianst.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_4047_pianst.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_4047_pianst 的 name 字段为 车尔尼",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "达格达05.png": {
+    "path": "assets/avatar-char_157_dagda.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_157_dagda.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_157_dagda 的 name 字段为 达格达",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "远山05.png": {
+    "path": "assets/avatar-char_109_fmout.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_109_fmout.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_109_fmout 的 name 字段为 远山",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "远牙05.png": {
+    "path": "assets/avatar-char_430_fartth.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_430_fartth.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_430_fartth 的 name 字段为 远牙",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "送葬人05.png": {
+    "path": "assets/avatar-char_279_excu.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_279_excu.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_279_excu 的 name 字段为 送葬人",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "重岳05.png": {
+    "path": "assets/avatar-char_2024_chyue.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_2024_chyue.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_2024_chyue 的 name 字段为 重岳",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "铃兰05.png": {
+    "path": "assets/avatar-char_358_lisa.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_358_lisa.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_358_lisa 的 name 字段为 铃兰",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "铸铁05.png": {
+    "path": "assets/avatar-char_333_sidero.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_333_sidero.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_333_sidero 的 name 字段为 铸铁",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "锏05.png": {
+    "path": "assets/avatar-char_4116_blkkgt.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_4116_blkkgt.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_4116_blkkgt 的 name 字段为 锏",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "闪灵05.png": {
+    "path": "assets/avatar-char_147_shining.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_147_shining.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_147_shining 的 name 字段为 闪灵",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "雪绒05.png": {
+    "path": "assets/avatar-char_466_qanik.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_466_qanik.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_466_qanik 的 name 字段为 雪绒",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "霍尔海雅05.png": {
+    "path": "assets/avatar-char_4027_heyak.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_4027_heyak.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_4027_heyak 的 name 字段为 霍尔海雅",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "鸿雪05.png": {
+    "path": "assets/avatar-char_4055_bgsnow.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_4055_bgsnow.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_4055_bgsnow 的 name 字段为 鸿雪",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "黑角05.png": {
+    "path": "assets/avatar-char_500_noirc.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_500_noirc.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_500_noirc 的 name 字段为 黑角",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "黑键05.png": {
+    "path": "assets/avatar-char_4046_ebnhlz.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_4046_ebnhlz.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_4046_ebnhlz 的 name 字段为 黑键",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "龙舌兰05.png": {
+    "path": "assets/avatar-char_486_takila.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_486_takila.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_486_takila 的 name 字段为 龙舌兰",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "森蚺05.png": {
+    "path": "assets/avatar-char_416_zumama.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_416_zumama.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_416_zumama 的 name 字段为 森蚺",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "威灵顿公爵": {
+    "path": "assets/npc-威灵顿公爵.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avg/characters/avg_npc_652_1%231%241.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_st_11-03.txt",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏剧情立绘，第三方公开镜像，权利归原权利人",
+    "identityEvidence": "[Character]\n[character(name=\"avg_npc_652_1#1$1\",fadetime=1)]\n[Delay(time=1)]\n[name=\"威灵顿公爵\"]——",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "focusBox": [
+      347,
+      0,
+      333,
+      461
+    ],
+    "alphaBounds": [
+      347,
+      0,
+      680,
+      1024
+    ],
+    "focusMethod": "原图透明边界内的上半身；仅用于CSS视口裁切，不修改原图"
+  },
+  "高多汀公爵": {
+    "path": "assets/npc-高多汀公爵.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avg/characters/avg_npc_1068_1%231%241.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_st_13-03.txt",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏剧情立绘，第三方公开镜像，权利归原权利人",
+    "identityEvidence": "[charslot(slot=\"m\",name=\"avg_npc_726_1#7$1\",focus=\"m\")]\n[name=\"开斯特公爵\"]看来，就连您也意识到，现在情况的严峻了。\n[charslot(slot=\"m\",name=\"avg_npc_1068_1#1$1\",focus=\"m\")]\n[name=\"高多汀公爵\"]是啊，严峻到我们谨慎的开斯特公爵，都决定离开自己的领地，亲临前线了。",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "focusBox": [
+      258,
+      0,
+      510,
+      461
+    ],
+    "alphaBounds": [
+      258,
+      0,
+      768,
+      1024
+    ],
+    "focusMethod": "原图透明边界内的上半身；仅用于CSS视口裁切，不修改原图"
+  },
+  "温德米尔公爵": {
+    "path": "assets/npc-温德米尔公爵.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avg/characters/avg_npc_868_1%238%241.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_12-18_end.txt",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏剧情立绘，第三方公开镜像，权利归原权利人",
+    "identityEvidence": "[charslot(slot=\"m\",name=\"avg_npc_866_1#1$1\",focus=\"m\")]\n[name=\"戴菲恩\"]我们带出来的这些难民也已经全部登舰，接下来他们会暂时受温德米尔公爵的庇护。\n[charslot(slot=\"m\",name=\"avg_npc_868_1#8$1\",focus=\"m\")]\n[name=\"温德米尔公爵\"]我才要谢谢你们，罗德岛。",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "focusBox": [
+      0,
+      0,
+      1024,
+      512
+    ],
+    "alphaBounds": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "focusMethod": "原图透明边界内的上半身；仅用于CSS视口裁切，不修改原图"
+  },
+  "克洛维希娅": {
+    "path": "assets/npc-克洛维希娅.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avg/characters/avg_npc_401_1%237%241.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_st_11-03.txt",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏剧情立绘，第三方公开镜像，权利归原权利人",
+    "identityEvidence": "[character(name=\"avg_npc_407_1#9$1\")]\n[name=\"推进之王\"]……阿勒黛。\n[character(name=\"avg_npc_407_1#9$1\",name2=\"avg_npc_401_1#7$1\",focus=2)]\n[name=\"克洛维希娅\"]诸王长眠之所的门再度关上了。",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "focusBox": [
+      328,
+      4,
+      435,
+      459
+    ],
+    "alphaBounds": [
+      328,
+      4,
+      763,
+      1024
+    ],
+    "focusMethod": "原图透明边界内的上半身；仅用于CSS视口裁切，不修改原图"
+  },
+  "凯瑟琳": {
+    "path": "assets/npc-凯瑟琳.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avg/characters/avg_npc_648_1%231%241.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_14-01_beg.txt",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏剧情立绘，第三方公开镜像，权利归原权利人",
+    "identityEvidence": "[charslot(slot=\"m\",name=\"avg_npc_648_1#1$1\",duration=1.5)]\n[Delay(time=2)]\n[charslot(slot=\"m\",name=\"avg_npc_648_1#1$1\",focus=\"m\")]\n[name=\"凯瑟琳\"]啊，多感人啊。一群为了美好未来背叛了朋友的人，转头来马上就被美好未来背叛了。",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "focusBox": [
+      273,
+      1,
+      479,
+      460
+    ],
+    "alphaBounds": [
+      273,
+      1,
+      752,
+      1024
+    ],
+    "focusMethod": "原图透明边界内的上半身；仅用于CSS视口裁切，不修改原图"
+  },
+  "萨卢斯": {
+    "path": "assets/npc-萨卢斯.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avg/characters/avg_npc_653_1%2310%241.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_14-01_beg.txt",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏剧情立绘，第三方公开镜像，权利归原权利人",
+    "identityEvidence": "[Background(image=\"50_g24_wildernesswarcircle_ex\",screenadapt=\"coverall\",fadetime=1)]\n[delay(time=2)]\n[charslot(slot=\"m\",name=\"avg_npc_653_1#10$1\",focus=\"m\")]\n[name=\"萨卢斯\"]……这就是，“提卡兹之血”。",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "focusBox": [
+      280,
+      0,
+      462,
+      461
+    ],
+    "alphaBounds": [
+      280,
+      0,
+      742,
+      1024
+    ],
+    "focusMethod": "原图透明边界内的上半身；仅用于CSS视口裁切，不修改原图"
+  },
+  "曼弗雷德": {
+    "path": "assets/npc-曼弗雷德.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avg/characters/avg_npc_404_1%231%241.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_14-01_beg.txt",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏剧情立绘，第三方公开镜像，权利归原权利人",
+    "identityEvidence": "[charslot(slot=\"m\",name=\"avg_npc_404_1#1$1\",focus=\"m\",duration=1.5)]\n[Delay(time=2)]\n[charslot(slot=\"m\",name=\"avg_npc_404_1#1$1\",focus=\"m\")]\n[name=\"曼弗雷德\"]……",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "focusBox": [
+      279,
+      2,
+      493,
+      460
+    ],
+    "alphaBounds": [
+      279,
+      2,
+      772,
+      1024
+    ],
+    "focusMethod": "原图透明边界内的上半身；仅用于CSS视口裁切，不修改原图"
+  },
+  "爱布拉娜": {
+    "path": "assets/npc-爱布拉娜.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avg/characters/avg_npc_722_1%231%241.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_st_13-03.txt",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏剧情立绘，第三方公开镜像，权利归原权利人",
+    "identityEvidence": "[charslot(slot=\"m\",name=\"avg_npc_723_1#1$1\",focus=\"m\")]\n[name=\"“校官”\"]只是不值一提的小事，一支脆弱的感染者武装力量。被迫团结起来反抗的可怜人。\n[charslot(slot=\"m\",name=\"avg_npc_722_1#1$1\",focus=\"m\")]\n[name=\"爱布拉娜\"]……呵。哪怕他们之中，还有一个幸存的德拉克？",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "focusBox": [
+      0,
+      0,
+      1024,
+      512
+    ],
+    "alphaBounds": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "focusMethod": "原图透明边界内的上半身；仅用于CSS视口裁切，不修改原图"
+  },
+  "Misery": {
+    "path": "assets/npc-Misery.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avg/characters/avg_npc_235.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_15-18_end.txt",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏剧情立绘，第三方公开镜像，权利归原权利人",
+    "identityEvidence": "[name=\"阿斯卡纶\"]这家伙很难缠。\n[name=\"阿斯卡纶\"]它还在持续分析我们的作战风格，化解每次攻击。\n[charslot(slot = \"m\", name = \"avg_npc_235\")]\n[name=\"Misery\"]为了解决它，我们已经调整过很多次策略—— ",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "focusBox": [
+      267,
+      4,
+      441,
+      459
+    ],
+    "alphaBounds": [
+      267,
+      4,
+      708,
+      1023
+    ],
+    "focusMethod": "原图透明边界内的上半身；仅用于CSS视口裁切，不修改原图"
+  },
+  "罗素": {
+    "path": "assets/npc-罗素.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avg/characters/avg_npc_210_1%235.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_17-01_beg.txt",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏剧情立绘，第三方公开镜像，权利归原权利人",
+    "identityEvidence": "[delay(time=1)]\n[charslot(slot=\"m\",name=\"avg_npc_210_1#5\",duration=2)]\n[Delay(time=2.5)]\n[name=\"罗素\"]情况我已经了解了。",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "focusBox": [
+      309,
+      154,
+      370,
+      373
+    ],
+    "alphaBounds": [
+      309,
+      154,
+      679,
+      982
+    ],
+    "focusMethod": "原图透明边界内的上半身；仅用于CSS视口裁切，不修改原图"
+  },
+  "血魔大君": {
+    "path": "assets/npc-血魔大君.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avg/characters/avg_npc_410_1%238%241.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_11-08_beg.txt",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏剧情立绘，第三方公开镜像，权利归原权利人",
+    "identityEvidence": "[name=\"市侩的贵族\"]我以为您对我们的招待十分满意……\n[name=\"市侩的贵族\"]您甚至会偶尔光顾我们的舞会，不是吗？您是喜欢这里的！\n[character(name=\"avg_npc_410_1#8$1\")]\n[name=\"血魔大君\"]我不得不承认，你们一度给我带来了一些快乐。",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "focusBox": [
+      187,
+      2,
+      569,
+      459
+    ],
+    "alphaBounds": [
+      187,
+      2,
+      756,
+      1021
+    ],
+    "focusMethod": "原图透明边界内的上半身；仅用于CSS视口裁切，不修改原图"
+  },
+  "珀茜瓦尔": {
+    "path": "assets/npc-珀茜瓦尔.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avg/characters/avg_npc_864_1%231%241.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_st_13-03.txt",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏剧情立绘，第三方公开镜像，权利归原权利人",
+    "identityEvidence": "[delay(time=2)]\n[PlayMusic(intro=\"$newhope01_intro\", key=\"$newhope01_loop\", volume=0.6)]\n[charslot(slot=\"m\",name=\"avg_npc_864_1#1$1\",focus=\"m\")]\n[name=\"珀茜瓦尔\"]……我们又回来了。",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "focusBox": [
+      0,
+      0,
+      1024,
+      512
+    ],
+    "alphaBounds": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "focusMethod": "原图透明边界内的上半身；仅用于CSS视口裁切，不修改原图"
+  },
+  "阿勒黛": {
+    "path": "assets/npc-阿勒黛.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avg/characters/avg_npc_397_1%237%241.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_11-17_end.txt",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏剧情立绘，第三方公开镜像，权利归原权利人",
+    "identityEvidence": "[stopmusic(fadetime=2)]\n[delay(time=2)]\n[character(name=\"avg_npc_397_1#7$1\",fadetime=0.3)]\n[name=\"阿勒黛\"] ……亚历山德莉娜殿下。",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "focusBox": [
+      270,
+      4,
+      466,
+      459
+    ],
+    "alphaBounds": [
+      270,
+      4,
+      736,
+      1024
+    ],
+    "focusMethod": "原图透明边界内的上半身；仅用于CSS视口裁切，不修改原图"
+  },
+  "乌尔比安05.png": {
+    "path": "assets/bwiki-乌尔比安.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/thumb/2/2e/mtxau1h0mow8nkz5rc6wie3rixj8fii.png/100px-%E4%B9%8C%E5%B0%94%E6%AF%94%E5%AE%8905.png",
+    "source": "https://wiki.biligame.com/arknights/%E4%B9%8C%E5%B0%94%E6%AF%94%E5%AE%89",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像/敌人图标；BWIKI 提供展示，权利归原权利人",
+    "identityEvidence": "对应角色页面中图片 alt 与角色名完全匹配",
+    "dimensions": [
+      100,
+      100
+    ]
+  },
+  "佩佩05.png": {
+    "path": "assets/bwiki-佩佩.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/thumb/f/f2/6e34zk1h5rm8ulosbfpbu0bura07pbh.png/100px-%E4%BD%A9%E4%BD%A905.png",
+    "source": "https://wiki.biligame.com/arknights/%E4%BD%A9%E4%BD%A9",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像/敌人图标；BWIKI 提供展示，权利归原权利人",
+    "identityEvidence": "对应角色页面中图片 alt 与角色名完全匹配",
+    "dimensions": [
+      100,
+      100
+    ]
+  },
+  "Mon3tr05.png": {
+    "path": "assets/bwiki-Mon3tr.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/thumb/6/60/hsy28wsqoxz5gtj0t3jzkeijnqvd3oy.png/100px-Mon3tr05.png",
+    "source": "https://wiki.biligame.com/arknights/Mon3tr",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像/敌人图标；BWIKI 提供展示，权利归原权利人",
+    "identityEvidence": "对应角色页面中图片 alt 与角色名完全匹配",
+    "dimensions": [
+      100,
+      100
+    ]
+  },
+  "忍冬05.png": {
+    "path": "assets/bwiki-忍冬.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/thumb/6/66/7vnb1nsax74hvhazpf82lcpw0g6lcwm.png/100px-%E5%BF%8D%E5%86%AC05.png",
+    "source": "https://wiki.biligame.com/arknights/%E5%BF%8D%E5%86%AC",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像/敌人图标；BWIKI 提供展示，权利归原权利人",
+    "identityEvidence": "对应角色页面中图片 alt 与角色名完全匹配",
+    "dimensions": [
+      100,
+      100
+    ]
+  },
+  "海霓05.png": {
+    "path": "assets/bwiki-海霓.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/thumb/5/52/b6rn9yck289gt3efde1krpxqjvbt5g0.png/100px-%E6%B5%B7%E9%9C%9305.png",
+    "source": "https://wiki.biligame.com/arknights/%E6%B5%B7%E9%9C%93",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像/敌人图标；BWIKI 提供展示，权利归原权利人",
+    "identityEvidence": "对应角色页面中图片 alt 与角色名完全匹配",
+    "dimensions": [
+      100,
+      100
+    ]
+  },
+  "深巡05.png": {
+    "path": "assets/bwiki-深巡.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/thumb/b/b9/6shccpo1imbydaf20gteg4h5etncjww.png/100px-%E6%B7%B1%E5%B7%A105.png",
+    "source": "https://wiki.biligame.com/arknights/%E6%B7%B1%E5%B7%A1",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像/敌人图标；BWIKI 提供展示，权利归原权利人",
+    "identityEvidence": "对应角色页面中图片 alt 与角色名完全匹配",
+    "dimensions": [
+      100,
+      100
+    ]
+  },
+  "缇缇05.png": {
+    "path": "assets/bwiki-缇缇.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/thumb/5/53/t1z66o4bsce5s9q7knu0pl6h5yyh1ci.png/100px-%E7%BC%87%E7%BC%8705.png",
+    "source": "https://wiki.biligame.com/arknights/%E7%BC%87%E7%BC%87",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像/敌人图标；BWIKI 提供展示，权利归原权利人",
+    "identityEvidence": "对应角色页面中图片 alt 与角色名完全匹配",
+    "dimensions": [
+      100,
+      100
+    ]
+  },
+  "蕾缪安05.png": {
+    "path": "assets/bwiki-蕾缪安.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/thumb/7/72/bm2uy3u8c0tssavni9ricncru215gpd.png/100px-%E8%95%BE%E7%BC%AA%E5%AE%8905.png",
+    "source": "https://wiki.biligame.com/arknights/%E8%95%BE%E7%BC%AA%E5%AE%89",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像/敌人图标；BWIKI 提供展示，权利归原权利人",
+    "identityEvidence": "对应角色页面中图片 alt 与角色名完全匹配",
+    "dimensions": [
+      100,
+      100
+    ]
+  },
+  "塔露拉05.png": {
+    "path": "assets/bwiki-塔露拉.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/thumb/8/86/3gzc0hbmukgybgw0i2fwk2zs4fv7k8n.png/120px-%E5%A1%94%E9%9C%B2%E6%8B%89.png",
+    "source": "https://wiki.biligame.com/arknights/%E5%A1%94%E9%9C%B2%E6%8B%89",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像/敌人图标；BWIKI 提供展示，权利归原权利人",
+    "identityEvidence": "对应角色页面中图片 alt 与角色名完全匹配",
+    "dimensions": [
+      120,
+      120
+    ]
+  },
+  "霜星05.png": {
+    "path": "assets/bwiki-霜星.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/thumb/a/a5/nkt7xoe6xk4rg0nzsv6dcksimsnyduz.png/120px-%E9%9C%9C%E6%98%9F.png",
+    "source": "https://wiki.biligame.com/arknights/%E9%9C%9C%E6%98%9F",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像/敌人图标；BWIKI 提供展示，权利归原权利人",
+    "identityEvidence": "对应角色页面中图片 alt 与角色名完全匹配",
+    "dimensions": [
+      120,
+      120
+    ]
+  },
+  "梅菲斯特05.png": {
+    "path": "assets/bwiki-梅菲斯特.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/thumb/c/c9/6nbtrgz2iagfcjngy8r2ftby777p28d.png/120px-%E6%A2%85%E8%8F%B2%E6%96%AF%E7%89%B9.png",
+    "source": "https://wiki.biligame.com/arknights/%E6%A2%85%E8%8F%B2%E6%96%AF%E7%89%B9",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像/敌人图标；BWIKI 提供展示，权利归原权利人",
+    "identityEvidence": "对应角色页面中图片 alt 与角色名完全匹配",
+    "dimensions": [
+      120,
+      120
+    ]
+  },
+  "浮士德05.png": {
+    "path": "assets/bwiki-浮士德.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/thumb/9/98/eaedc0hzj75g2sr4j3mye3sepxssrrc.png/120px-%E6%B5%AE%E5%A3%AB%E5%BE%B7.png",
+    "source": "https://wiki.biligame.com/arknights/%E6%B5%AE%E5%A3%AB%E5%BE%B7",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像/敌人图标；BWIKI 提供展示，权利归原权利人",
+    "identityEvidence": "对应角色页面中图片 alt 与角色名完全匹配",
+    "dimensions": [
+      120,
+      120
+    ]
+  },
+  "碎骨05.png": {
+    "path": "assets/bwiki-碎骨.png",
+    "url": "https://patchwiki.biligame.com/images/arknights/thumb/1/19/jfc7aq6yxfhny4g1q5uplwnz8uwa598.png/120px-%E7%A2%8E%E9%AA%A8.png",
+    "source": "https://wiki.biligame.com/arknights/%E7%A2%8E%E9%AA%A8",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像/敌人图标；BWIKI 提供展示，权利归原权利人",
+    "identityEvidence": "对应角色页面中图片 alt 与角色名完全匹配",
+    "dimensions": [
+      120,
+      120
+    ]
+  },
+  "Guard": {
+    "path": "assets/npc-Guard.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avg/characters/avg_npc_059.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_st_09-04.txt",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏剧情立绘，第三方公开镜像，权利归原权利人",
+    "identityEvidence": "[PlaySound(key=\"$d_gen_walk_n\",volume=1)]\n[Character(name=\"avg_npc_059\",fadetime=1.5,block=true)]\n[delay(time=1.5)]\n[name=\"Guard\"]  是，煌姐，这里是罗德岛。",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "focusBox": [
+      299,
+      36,
+      437,
+      443
+    ],
+    "alphaBounds": [
+      299,
+      36,
+      736,
+      1021
+    ],
+    "focusMethod": "原图透明边界内的上半身；仅用于CSS视口裁切，不修改原图"
+  },
+  "贝尔德": {
+    "path": "assets/npc-贝尔德.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avg/characters/avg_npc_863_1%231%241.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_12-01_beg.txt",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏剧情立绘，第三方公开镜像，权利归原权利人",
+    "identityEvidence": "[delay(time=0.3)]\n[charslot(slot=\"m\",name=\"avg_npc_863_1#1$1\",duration=2)]\n[delay(time=2)]\n[name=\"贝尔德\"]我是贝尔德，你受伤了，需要包扎。",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "focusBox": [
+      0,
+      0,
+      1024,
+      512
+    ],
+    "alphaBounds": [
+      0,
+      0,
+      1024,
+      1024
+    ],
+    "focusMethod": "原图透明边界内的上半身；仅用于CSS视口裁切，不修改原图"
+  },
+  "汉密尔顿": {
+    "path": "assets/npc-汉密尔顿.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avg/characters/avg_npc_227_1%236.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_09-05_beg.txt",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏剧情立绘，第三方公开镜像，权利归原权利人",
+    "identityEvidence": "[Character(name=\"avg_npc_239\")]\n[name=\"诗人威廉姆斯\"]  ……上校。\n[Character(name=\"avg_npc_239\",name2=\"avg_npc_227_1#6\",focus=2)]\n[name=\"汉密尔顿\"]  你又*维多利亚粗口*是谁？",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "focusBox": [
+      296,
+      8,
+      444,
+      454
+    ],
+    "alphaBounds": [
+      296,
+      8,
+      740,
+      1018
+    ],
+    "focusMethod": "原图透明边界内的上半身；仅用于CSS视口裁切，不修改原图"
+  },
+  "戈尔丁": {
+    "path": "assets/npc-戈尔丁.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avg/characters/avg_npc_647_1%231%241.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_11-17_end.txt",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏剧情立绘，第三方公开镜像，权利归原权利人",
+    "identityEvidence": "[Blocker(a=0, r=0, g=0, b=0, fadetime=1, block=true)]\n[Delay(time=1)]\n[Character(name=\"avg_npc_647_1#1$1\",name2=\"avg_npc_657_1#1$1\",focus=1)]\n[name=\"戈尔丁\"]……结束了。",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "focusBox": [
+      183,
+      0,
+      658,
+      461
+    ],
+    "alphaBounds": [
+      183,
+      0,
+      841,
+      1024
+    ],
+    "focusMethod": "原图透明边界内的上半身；仅用于CSS视口裁切，不修改原图"
+  },
+  "可露希尔": {
+    "path": "assets/npc-可露希尔.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avg/characters/avg_npc_088.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_st_09-04.txt",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏剧情立绘，第三方公开镜像，权利归原权利人",
+    "identityEvidence": "[Character(name=\"avg_npc_088\",name2=\"char_007_closre_1#6\",focus=1)]\n[name=\"后勤干员\"]  呃。应该没有吧，应该。\n[Character(name=\"avg_npc_088\",name2=\"char_007_closre_1#6\",focus=2)]\n[name=\"可露希尔\"]  唉，已经被这鬼天气困在这里好几天啦……也不知道会耽误多久后续的航程……唔，这味道……",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "focusBox": [
+      281,
+      128,
+      352,
+      389
+    ],
+    "alphaBounds": [
+      281,
+      128,
+      633,
+      992
+    ],
+    "focusMethod": "原图透明边界内的上半身；仅用于CSS视口裁切，不修改原图"
+  },
+  "假日威龙陈05.png": {
+    "path": "assets/avatar-char_1013_chen2.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_1013_chen2.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_1013_chen2 的 name 字段为 假日威龙陈",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "圣约送葬人05.png": {
+    "path": "assets/avatar-char_1032_excu2.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_1032_excu2.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_1032_excu2 的 name 字段为 圣约送葬人",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "塑心05.png": {
+    "path": "assets/avatar-char_245_cello.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_245_cello.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_245_cello 的 name 字段为 塑心",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "孑05.png": {
+    "path": "assets/avatar-char_272_strong.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_272_strong.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_272_strong 的 name 字段为 孑",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "异客05.png": {
+    "path": "assets/avatar-char_472_pasngr.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_472_pasngr.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_472_pasngr 的 name 字段为 异客",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "截云05.png": {
+    "path": "assets/avatar-char_4078_bdhkgt.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_4078_bdhkgt.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_4078_bdhkgt 的 name 字段为 截云",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "格拉尼05.png": {
+    "path": "assets/avatar-char_220_grani.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_220_grani.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_220_grani 的 name 字段为 格拉尼",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "止颂05.png": {
+    "path": "assets/avatar-char_4011_lessng.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_4011_lessng.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_4011_lessng 的 name 字段为 止颂",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "澄闪05.png": {
+    "path": "assets/avatar-char_377_gdglow.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_377_gdglow.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_377_gdglow 的 name 字段为 澄闪",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "烈夏05.png": {
+    "path": "assets/avatar-char_194_leto.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_194_leto.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_194_leto 的 name 字段为 烈夏",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "燧石05.png": {
+    "path": "assets/avatar-char_415_flint.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_415_flint.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_415_flint 的 name 字段为 燧石",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "百炼嘉维尔05.png": {
+    "path": "assets/avatar-char_1026_gvial2.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_1026_gvial2.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_1026_gvial2 的 name 字段为 百炼嘉维尔",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "纯烬艾雅法拉05.png": {
+    "path": "assets/avatar-char_1016_agoat2.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_1016_agoat2.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_1016_agoat2 的 name 字段为 纯烬艾雅法拉",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "老鲤05.png": {
+    "path": "assets/avatar-char_322_lmlee.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_322_lmlee.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_322_lmlee 的 name 字段为 老鲤",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "锡兰05.png": {
+    "path": "assets/avatar-char_348_ceylon.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_348_ceylon.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_348_ceylon 的 name 字段为 锡兰",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "隐现05.png": {
+    "path": "assets/avatar-char_498_inside.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_498_inside.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_498_inside 的 name 字段为 隐现",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "雪雉05.png": {
+    "path": "assets/avatar-char_383_snsant.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_383_snsant.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_383_snsant 的 name 字段为 雪雉",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "黑05.png": {
+    "path": "assets/avatar-char_340_shwaz.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_340_shwaz.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开素材镜像；权利归原权利人",
+    "identityEvidence": "游戏角色表 char_340_shwaz 的 name 字段为 黑",
+    "dimensions": [
+      180,
+      180
+    ]
+  },
+  "普瑞赛斯": {
+    "path": "assets/npc-普瑞赛斯.png",
+    "url": "https://raw.githubusercontent.com/fexli/ArknightsResource/main/avgs/npcs/avg_npc_1718_1_1_1.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_17-17_beg.txt",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏剧情立绘，第三方公开镜像，权利归原权利人",
+    "identityEvidence": "[charslot(slot = \"r\", name = \"avg_npc_1718_1#1$1\", duration=0.7)]\n[Delay(time=1)]\n[charslot(slot = \"r\", name = \"avg_npc_1718_1#1$1\", focus=\"r\")]\n[name=\"普瑞赛斯\"]AMa-10的环境适应性测试成果很不错，也许很快我们就可以带这个小家伙去地面上走一走了。",
+    "dimensions": [
+      1085,
+      1085
+    ],
+    "focusBox": [
+      337,
+      0,
+      411,
+      488
+    ],
+    "alphaBounds": [
+      337,
+      0,
+      748,
+      1085
+    ],
+    "focusMethod": "原图透明边界内的上半身；仅用于CSS视口裁切，不修改原图"
+  },
+  "Raidian": {
+    "path": "assets/npc-Raidian.png",
+    "url": "https://raw.githubusercontent.com/fexli/ArknightsResource/main/avgs/npcs/avg_npc_1730_1_3_1.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_15-16_beg.txt",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏剧情立绘，第三方公开镜像，权利归原权利人",
+    "identityEvidence": "[animtextclean]\n[delay(time=1)]\n[charslot(slot = \"m\", name = \"avg_npc_1730_1#3$1\")]\n[name=\"Raidian\"]已经恢复了和博士的联系。",
+    "dimensions": [
+      1124,
+      1124
+    ],
+    "focusBox": [
+      228,
+      0,
+      561,
+      506
+    ],
+    "alphaBounds": [
+      228,
+      0,
+      789,
+      1124
+    ],
+    "focusMethod": "原图透明边界内的上半身；仅用于CSS视口裁切，不修改原图"
+  },
+  "九": {
+    "path": "assets/npc-九.png",
+    "url": "https://raw.githubusercontent.com/fexli/ArknightsResource/main/avgs/npcs/avg_npc_043_1_2.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_st_09-04.txt",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏剧情立绘，第三方公开镜像，权利归原权利人",
+    "identityEvidence": "[PlaySound(key=\"$d_gen_walk_n\",volume=1)]\n[Character(name=\"avg_npc_043_1#2\",fadetime=1,block=true)]\n[delay(time=1)]\n[name=\"九\"]  ……我原以为这会更困难。",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "focusBox": [
+      76,
+      44,
+      711,
+      431
+    ],
+    "alphaBounds": [
+      76,
+      44,
+      787,
+      1002
+    ],
+    "focusMethod": "原图透明边界内的上半身；仅用于CSS视口裁切，不修改原图"
+  },
+  "特蕾西娅": {
+    "path": "assets/npc-特蕾西娅.png",
+    "url": "https://raw.githubusercontent.com/fexli/ArknightsResource/main/avgs/npcs/avg_npc_1296_1_8_1.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_14-20_end.txt",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏剧情立绘，第三方公开镜像，权利归原权利人",
+    "identityEvidence": "满地根系上瞬间覆满了丝絮，如同一片被风催开的花圃，火焰在其中燃烧。\n而如花般的火焰之中，特蕾西娅就坐在那里，靠着根系，望着“天空”中那片正在恢复平静的金色海洋。\n[charslot(slot=\"m\",name=\"avg_npc_1296_1#8$1\",focus=\"m\")]\n[name=\"特蕾西娅\"]阿米娅，你的力量，比我想象的更加蓬勃。真是温暖的火呀……",
+    "dimensions": [
+      1152,
+      1152
+    ],
+    "focusBox": [
+      320,
+      0,
+      511,
+      518
+    ],
+    "alphaBounds": [
+      320,
+      0,
+      831,
+      1152
+    ],
+    "focusMethod": "原图透明边界内的上半身；仅用于CSS视口裁切，不修改原图"
+  },
+  "罗本": {
+    "path": "assets/npc-罗本.png",
+    "url": "https://raw.githubusercontent.com/fexli/ArknightsResource/main/avgs/npcs/avg_npc_414_1_1_1.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_10-15_end.txt",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏剧情立绘，第三方公开镜像，权利归原权利人",
+    "identityEvidence": "[name=\"号角\"]盾还有能量的，跟我站在一起！\n[name=\"号角\"]狙击手，保持火力输出，牵制敌人！\n[character(name=\"avg_npc_414_1#1$1\")]\n[name=\"罗本\"]是，号角！",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "focusBox": [
+      335,
+      2,
+      364,
+      459
+    ],
+    "alphaBounds": [
+      335,
+      2,
+      699,
+      1021
+    ],
+    "focusMethod": "原图透明边界内的上半身；仅用于CSS视口裁切，不修改原图"
+  },
+  "费斯特": {
+    "path": "assets/npc-费斯特.png",
+    "url": "https://raw.githubusercontent.com/fexli/ArknightsResource/main/avgs/npcs/avg_npc_402_1_1_1.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_10-08_beg.txt",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏剧情立绘，第三方公开镜像，权利归原权利人",
+    "identityEvidence": "[Character(name=\"avg_4040_rockr_1#9$1\",name2=\"avg_npc_402_1#3$1\",focus=1)]\n[name=\"洛洛\"]那你也只是一个工匠。\n[Character(name=\"avg_4040_rockr_1#9$1\",name2=\"avg_npc_402_1#1$1\",focus=2)]\n[name=\"费斯特\"]哈……确实。",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "focusBox": [
+      253,
+      2,
+      507,
+      459
+    ],
+    "alphaBounds": [
+      253,
+      2,
+      760,
+      1022
+    ],
+    "focusMethod": "原图透明边界内的上半身；仅用于CSS视口裁切，不修改原图"
+  },
+  "变形者集群": {
+    "path": "assets/npc-变形者集群.png",
+    "url": "https://raw.githubusercontent.com/fexli/ArknightsResource/main/avgs/npcs/avg_npc_426_1_1_1.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_12-18_end.txt",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏剧情立绘，第三方公开镜像，权利归原权利人",
+    "identityEvidence": "[charslot(slot=\"m\",name=\"avg_npc_650_1#1$1\",focus=\"m\")]\n[name=\"Logos\"]你在看什么？\n[charslot(slot=\"m\",name=\"avg_npc_426_1#1$1\",focus=\"m\")]\n[name=\"变形者集群\"]看你们的那位魔王，女妖。",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "focusBox": [
+      150,
+      0,
+      630,
+      460
+    ],
+    "alphaBounds": [
+      150,
+      0,
+      780,
+      1022
+    ],
+    "focusMethod": "原图透明边界内的上半身；仅用于CSS视口裁切，不修改原图"
+  },
+  "“最后的蒸汽骑士”": {
+    "path": "assets/npc-“最后的蒸汽骑士”.png",
+    "url": "https://raw.githubusercontent.com/fexli/ArknightsResource/main/avgs/npcs/avg_npc_651_1_1_1.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_11-17_end.txt",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏剧情立绘，第三方公开镜像，权利归原权利人",
+    "identityEvidence": "[PlaySound(key=\"$e_atk_stmkgt_h\",volume=0.7)]\n[character(name=\"avg_npc_651_1#1$1\",fadetime=1)]\n[Delay(time=1.5)]\n[name=\"“最后的蒸汽骑士”\"]（沉闷的喷气声）",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "focusBox": [
+      152,
+      0,
+      719,
+      461
+    ],
+    "alphaBounds": [
+      152,
+      0,
+      871,
+      1024
+    ],
+    "focusMethod": "原图透明边界内的上半身；仅用于CSS视口裁切，不修改原图"
+  },
+  "Outcast": {
+    "path": "assets/npc-Outcast.png",
+    "url": "https://raw.githubusercontent.com/fexli/ArknightsResource/main/avgs/npcs/avg_npc_245_1_1.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_09-04_beg.txt",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏剧情立绘，第三方公开镜像，权利归原权利人",
+    "identityEvidence": "[Character(name=\"avg_npc_089\",name2=\"avg_npc_245_1#1\",focus=1)]\n[name=\"干员碎纸机\"]……您在这里。\n[Character(name=\"avg_npc_089\",name2=\"avg_npc_245_1#6\",focus=2)]\n[name=\"Outcast\"]是啊。喝着热茶，翻翻报纸，做我这个年纪的人该做的事。",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "focusBox": [
+      135,
+      0,
+      701,
+      458
+    ],
+    "alphaBounds": [
+      135,
+      0,
+      836,
+      1017
+    ],
+    "focusMethod": "原图透明边界内的上半身；仅用于CSS视口裁切，不修改原图"
+  },
+  "魏彦吾": {
+    "path": "assets/npc-魏彦吾.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avg/characters/char_2005_weiyw_1.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_02-02_beg.txt",
+    "checked": "2026-09-14",
+    "rights": "游戏剧情立绘；第三方公开资源镜像，权利归原权利人",
+    "identityEvidence": "所引游戏脚本中对应角色名与 char_2005_weiyw_1 核对；默认表情",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "focusBox": [
+      160,
+      16,
+      664,
+      448
+    ],
+    "alphaBounds": [
+      160,
+      16,
+      824,
+      1012
+    ],
+    "focusMethod": "原图透明边界内的上半身；仅用于CSS视口裁切，不修改原图"
+  },
+  "Ace": {
+    "path": "assets/npc-Ace.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avg/characters/char_014_riope.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_00-04_beg.txt",
+    "checked": "2026-09-14",
+    "rights": "游戏剧情立绘；第三方公开资源镜像，权利归原权利人",
+    "identityEvidence": "所引游戏脚本中对应角色名与 char_014_riope 核对；默认表情",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "focusBox": [
+      259,
+      76,
+      477,
+      392
+    ],
+    "alphaBounds": [
+      259,
+      76,
+      736,
+      947
+    ],
+    "focusMethod": "原图透明边界内的上半身；仅用于CSS视口裁切，不修改原图"
+  },
+  "米莎": {
+    "path": "assets/npc-米莎.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avg/characters/char_012_misa_1.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_02-08_beg.txt",
+    "checked": "2026-09-14",
+    "rights": "游戏剧情立绘；第三方公开资源镜像，权利归原权利人",
+    "identityEvidence": "所引游戏脚本中对应角色名与 char_012_misa_1 核对；默认表情",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "focusBox": [
+      371,
+      124,
+      266,
+      358
+    ],
+    "alphaBounds": [
+      371,
+      124,
+      637,
+      920
+    ],
+    "focusMethod": "原图透明边界内的上半身；仅用于CSS视口裁切，不修改原图"
+  },
+  "皇帝的利刃": {
+    "path": "assets/npc-皇帝的利刃.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avg/characters/avg_npc_077.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_17-08_beg.txt",
+    "checked": "2026-09-14",
+    "rights": "游戏剧情立绘；第三方公开资源镜像，权利归原权利人",
+    "identityEvidence": "所引游戏脚本中对应角色名与 avg_npc_077 核对；默认表情",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "focusBox": [
+      340,
+      32,
+      539,
+      429
+    ],
+    "alphaBounds": [
+      340,
+      32,
+      879,
+      986
+    ],
+    "focusMethod": "原图透明边界内的上半身；仅用于CSS视口裁切，不修改原图"
+  },
+  "菈塔托丝·布朗陶": {
+    "path": "assets/npc-菈塔托丝·布朗陶.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avg/characters/avg_npc_253_1%231%241.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act14side/level_act14side_01_end.txt",
+    "checked": "2026-09-14",
+    "rights": "游戏剧情立绘；第三方公开资源镜像，权利归原权利人",
+    "identityEvidence": "所引游戏脚本中对应角色名与 avg_npc_253_1#1$1 核对；默认表情",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "focusBox": [
+      152,
+      0,
+      629,
+      458
+    ],
+    "alphaBounds": [
+      152,
+      0,
+      781,
+      1018
+    ],
+    "focusMethod": "原图透明边界内的上半身；仅用于CSS视口裁切，不修改原图"
+  },
+  "阿克托斯·佩尔罗契": {
+    "path": "assets/npc-阿克托斯·佩尔罗契.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avg/characters/avg_npc_254_1%231%241.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act14side/level_act14side_08_beg.txt",
+    "checked": "2026-09-14",
+    "rights": "游戏剧情立绘；第三方公开资源镜像，权利归原权利人",
+    "identityEvidence": "所引游戏脚本中对应角色名与 avg_npc_254_1#1$1 核对；默认表情",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "focusBox": [
+      294,
+      14,
+      510,
+      441
+    ],
+    "alphaBounds": [
+      294,
+      14,
+      804,
+      994
+    ],
+    "focusMethod": "原图透明边界内的上半身；仅用于CSS视口裁切，不修改原图"
+  },
+  "博士": {
+    "path": "assets/npc-博士.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avg/characters/avg_npc_048.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act14side/level_act14side_08_beg.txt",
+    "checked": "2026-09-14",
+    "rights": "游戏剧情立绘；第三方公开资源镜像，权利归原权利人",
+    "identityEvidence": "游戏标准博士服装立绘 avg_npc_048；所引《风雪过境》段落以博士？名义显示同一服装，故该图仅作人物服装外观，不据此判断剧情中扮演者身份。",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "focusBox": [
+      391,
+      41,
+      265,
+      434
+    ],
+    "alphaBounds": [
+      391,
+      41,
+      656,
+      1006
+    ],
+    "focusMethod": "原图透明边界内的上半身；仅用于CSS视口裁切，不修改原图"
+  },
+  "安赛尔05.png": {
+    "path": "assets/avatar-char_212_ansel.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/char_212_ansel.png",
+    "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json",
+    "checked": "2026-09-14",
+    "rights": "明日方舟游戏头像，第三方公开资源镜像，权利归原权利人",
+    "identityEvidence": "character_table char_212_ansel.name = 安赛尔",
+    "dimensions": [
+      180,
+      180
+    ]
+  }
+}
