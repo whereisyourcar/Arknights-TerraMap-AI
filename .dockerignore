@@ -1,0 +1,7 @@
+*
+!Dockerfile
+!package.json
+!server.mjs
+!visitor-store.mjs
+!dist
+!dist/**

@@ -1,0 +1,26 @@
+name: terramap-ai
+services:
+  web:
+    build:
+      context: ..
+    image: terramap-ai:latest
+    container_name: terramap-ai
+    ports:
+      - "30020:4185"
+    volumes:
+      - visitor-data:/app/var
+    restart: unless-stopped
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL
+    read_only: true
+    tmpfs:
+      - /tmp
+    logging:
+      driver: json-file
+      options:
+        max-size: "5m"
+        max-file: "2"
+volumes:
+  visitor-data:

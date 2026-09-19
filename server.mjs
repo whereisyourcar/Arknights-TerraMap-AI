@@ -27,4 +27,4 @@ return http.createServer(async(req,res)=>{
 });
 }
 export const server=createServer();
-if(process.argv[1]===fileURLToPath(import.meta.url)){const port=Number(process.env.PORT||4185);server.listen(port,'127.0.0.1',()=>console.log(`TerraMap: http://127.0.0.1:${port}`));}
+if(process.argv[1]===fileURLToPath(import.meta.url)){const port=Number(process.env.PORT||4185);server.listen(port,process.env.HOST||'127.0.0.1',()=>console.log(`TerraMap: http://127.0.0.1:${port}`));}
