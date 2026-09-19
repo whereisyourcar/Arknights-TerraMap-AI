@@ -4,11 +4,11 @@
 
 一个面向《明日方舟》同好的非官方网页项目，由 AI 辅助完成开发、美术与资料整理。欢迎边看剧情边翻地图，也欢迎带着游戏原文来挑错、补全！
 
-🌍 **公网入口（服务器部署待完成）**：[TerraMap · 泰拉行迹](http://149.28.232.82:30020/)
+🌍 **在线访问**：[TerraMap · 泰拉行迹](http://149.28.232.82:30020/)
 
 📚 [活动故事目录](http://149.28.232.82:30020/#events) · 🧭 [主线行迹](http://149.28.232.82:30020/#story)
 
-> 正在通过独立容器部署到30020端口；部署验证完成后更新此状态。
+> 已部署于独立容器与30020端口，访客计数持久保存。
 
 ## 在这里可以看到什么
 
@@ -43,7 +43,15 @@ npm run check
 
 ## 自行部署与访客计数
 
-Node 服务仅监听本机，推荐使用 Nginx 反向代理。`deploy/` 提供 systemd 服务与 `/terramap/` 路径代理模板；部署到其他路径时仍需保留尾部斜线。`PORT` 控制本地监听端口，`VISITOR_DATA_FILE` 指定统计文件路径。使用HTTPS时设置 `PUBLIC_ORIGIN=https://你的域名`，访客Cookie将带Secure属性。
+当前公网部署使用独立 Docker Compose 项目，映射 `30020:4185`，不占用同服务器 TGMap 的端口或容器：
+
+```bash
+docker compose -f deploy/compose.yaml up -d --build
+```
+
+打开 `http://服务器IP:30020/`；如果端口已被占用，请修改 `deploy/compose.yaml` 中映射的左侧端口。统计保存在独立的 `visitor-data` 数据卷，更新与重启会保留；不要使用 `down -v` 删除该数据卷。
+
+直接运行 Node 服务时默认仅监听本机，`HOST` 可调整监听地址，也可使用 Nginx 反向代理。`deploy/` 提供 systemd 服务与 `/terramap/` 路径代理模板；部署到其他路径时仍需保留尾部斜线。`PORT` 控制本地监听端口，`VISITOR_DATA_FILE` 指定统计文件路径。使用HTTPS时设置 `PUBLIC_ORIGIN=https://你的域名`，访客Cookie将带Secure属性。
 
 统计默认保存到 `var/visitors.json`，已从Git排除。服务器应使用独立持久目录（模板为`/var/lib/terramap`），更新代码时不要覆盖它。当前实现用于单进程服务；多实例部署需先改用共享数据库。
 
