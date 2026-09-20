@@ -1,4 +1,4 @@
-# TerraMap(AI制作版)
+# Arknights TerraMap（AI制作版）
 
 **把泰拉的地图、主线行迹和活动故事，放进同一本可交互的地理档案。**
 
@@ -30,8 +30,8 @@
 需要 Node.js 22 或更新的受支持版本。无第三方运行依赖。
 
 ```bash
-git clone https://github.com/whereisyourcar/TerraMap-AI.git
-cd TerraMap-AI
+git clone https://github.com/whereisyourcar/Arknights-TerraMap-AI.git
+cd Arknights-TerraMap-AI
 npm start
 ```
 

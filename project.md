@@ -74,7 +74,7 @@
 
 ## 公网发布与访客计数（2026-09-19）
 
-项目展示名为 TerraMap(AI制作版)，公开仓库：https://github.com/whereisyourcar/TerraMap-AI 。在线入口：http://149.28.232.82:30020/ 。
+项目展示名为 Arknights TerraMap（AI制作版），公开仓库：https://github.com/whereisyourcar/Arknights-TerraMap-AI 。在线入口：http://149.28.232.82:30020/ 。
 
 通过 Termius 在服务器上部署独立 terramap-ai 容器，使用30020端口与独立统计数据卷；保留原有TGMap容器、配置及端口。页面角落显示匿名浏览器访客数与访问次数，30分钟无访问后再次进入记一次访问；统计不是自然人去重结果。代码与部署配置同步本地和GitHub。
 
