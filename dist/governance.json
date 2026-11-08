@@ -249,23 +249,39 @@
     },
     {
       "id": "ursus",
-      "summary": "北方帝国实行皇帝统治，同时存在议会、贵族与集团军等权力机构。",
+      "summary": "【含《时间啊，向前！》结局剧透】乌萨斯曾由皇帝、贵族、议会与集团军共同构成帝国权力结构。圣骏堡革命推翻旧帝国后，米拉娜以“伊凡·图林”之名宣布新政府成立；感染者与普通人的平等、新法律及源石危机成为新的议题。旧帝国人物的职务仅适用于相应历史阶段，不再把费奥多尔列为现任皇帝。",
       "people": [
         {
+          "name": "米拉娜 / 伊凡·图林",
+          "portraitQuery": "米拉娜",
+          "role": "新政府成立的宣布者；整合运动代表",
+          "period": "《时间啊，向前！》结局",
+          "evidence": "米拉娜在柳德米拉面前接受“伊凡·图林”之名，随后向圣骏堡市民代表与各行各业领袖宣布新政府成立。这里的图林是承继名字的米拉娜。",
+          "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act55side/level_act55side_st04.txt"
+        },
+        {
+          "name": "塔露拉",
+          "portraitQuery": "塔露拉",
+          "role": "整合运动创始者、前领袖；革命后罗德岛干员",
+          "period": "圣骏堡革命 → 革命后",
+          "evidence": "整合运动在圣骏堡革命中起关键作用。革命结束后塔露拉主动离开组织，经陈推荐到罗德岛治疗。",
+          "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/handbook_info_table.json"
+        },
+        {
           "name": "费奥多尔·弗拉基米罗维奇",
-          "role": "乌萨斯现任皇帝",
-          "period": "主线切城事件以后",
-          "portraitQuery": "费奥多尔·弗拉基米罗维奇",
-          "evidence": "乌萨斯现任皇帝",
-          "source": "https://zh.moegirl.org.cn/乌萨斯"
+          "role": "乌萨斯末代皇帝；后以“冻河”加入罗德岛",
+          "period": "帝国时期 → 圣骏堡革命后",
+          "portraitQuery": "冻河",
+          "evidence": "革命后失去皇位；冻河干员档案记录其全名与在罗德岛接受治疗、成为干员的经历。",
+          "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/handbook_info_table.json"
         },
         {
           "name": "伊斯拉姆·维特",
-          "role": "帝国议会议长，曾任财政大臣",
-          "period": "主线切城事件时期",
+          "role": "原帝国议会议长、临时总理；革命后任新政府行政顾问",
+          "period": "帝国末期 → 《时间啊，向前！》尾声",
           "portraitQuery": "伊斯拉姆·维特",
-          "evidence": "帝国议会议长，曾任财政大臣",
-          "source": "https://zh.moegirl.org.cn/乌萨斯"
+          "evidence": "议会被解散后失去议长身份；圣骏堡陷落后不再任临时总理。结局交代其作为行政顾问留在圣骏堡的协议。",
+          "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act55side/level_act55side_st04.txt"
         },
         {
           "name": "弗拉基米尔·伊凡诺维奇",
@@ -298,13 +314,19 @@
         "古米",
         "早露",
         "苦艾",
-        "鸿雪"
+        "鸿雪",
+        "塔露拉",
+        "冻河",
+        "国度",
+        "怒潮凛冬",
+        "奥尔佳",
+        "镜匠"
       ],
       "cities": [
         {
           "name": "圣骏堡",
-          "locationNote": "帝国首都",
-          "source": "https://zh.moegirl.org.cn/乌萨斯"
+          "locationNote": "旧帝国首都；圣骏堡革命与新政府成立的中心",
+          "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act55side/level_act55side_st04.txt"
         },
         {
           "name": "切尔诺伯格",
@@ -317,7 +339,7 @@
           "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_main_17-15_beg.txt"
         }
       ],
-      "source": "https://zh.moegirl.org.cn/乌萨斯"
+      "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act55side/level_act55side_st04.txt"
     },
     {
       "id": "leithanien",
