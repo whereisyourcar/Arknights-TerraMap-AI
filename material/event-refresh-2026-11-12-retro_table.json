@@ -1,0 +1,705 @@
+{
+  "retroActList": {
+    "permanent_sub_1_Darknights_Memoir": {
+      "retroId": "permanent_sub_1_Darknights_Memoir",
+      "type": "BRANCHLINE",
+      "linkedActId": [
+        "act9d0",
+        "act17d5"
+      ],
+      "startTime": 1618430400,
+      "trailStartTime": 1653897600,
+      "index": 1,
+      "name": "生于黑夜",
+      "haveTrail": true,
+      "customActId": null,
+      "customActType": "DEFAULT",
+      "trapDomainId": null
+    },
+    "permanent_sub_2_A_Walk_In_The_Dust": {
+      "retroId": "permanent_sub_2_A_Walk_In_The_Dust",
+      "type": "BRANCHLINE",
+      "linkedActId": [
+        "act18d0",
+        "act10sre"
+      ],
+      "startTime": 1620244800,
+      "trailStartTime": 1681372800,
+      "index": 2,
+      "name": "遗尘漫步",
+      "haveTrail": true,
+      "customActId": null,
+      "customActType": "DEFAULT",
+      "trapDomainId": null
+    },
+    "permanent_sub_3_Under_Tides": {
+      "retroId": "permanent_sub_3_Under_Tides",
+      "type": "BRANCHLINE",
+      "linkedActId": [
+        "act18d3",
+        "act11sre"
+      ],
+      "startTime": 1621627200,
+      "trailStartTime": 1686816000,
+      "index": 3,
+      "name": "覆潮之下",
+      "haveTrail": true,
+      "customActId": null,
+      "customActType": "DEFAULT",
+      "trapDomainId": null
+    },
+    "permanent_sub_4_Stultifera_Navis": {
+      "retroId": "permanent_sub_4_Stultifera_Navis",
+      "type": "BRANCHLINE",
+      "linkedActId": [
+        "act17side",
+        "act17sre"
+      ],
+      "startTime": 1653768000,
+      "trailStartTime": 1713427200,
+      "index": 4,
+      "name": "愚人号",
+      "haveTrail": true,
+      "customActId": "act17side",
+      "customActType": "TYPE_ACT17SIDE",
+      "trapDomainId": null
+    },
+    "permanent_sub_5_Lone_Trail": {
+      "retroId": "permanent_sub_5_Lone_Trail",
+      "type": "BRANCHLINE",
+      "linkedActId": [
+        "act25side",
+        "act25sre"
+      ],
+      "startTime": 1685304000,
+      "trailStartTime": 1747900800,
+      "index": 5,
+      "name": "孤星",
+      "haveTrail": true,
+      "customActId": "act25side",
+      "customActType": "TYPE_ACT25SIDE",
+      "trapDomainId": null
+    },
+    "permanent_sub_6_Babel": {
+      "retroId": "permanent_sub_6_Babel",
+      "type": "BRANCHLINE",
+      "linkedActId": [
+        "act33side",
+        "act33sre"
+      ],
+      "startTime": 1715198400,
+      "trailStartTime": 1776715200,
+      "index": 6,
+      "name": "巴别塔",
+      "haveTrail": true,
+      "customActId": "act33side",
+      "customActType": "DEFAULT",
+      "trapDomainId": null
+    },
+    "permanent_sub_7_Ending_A_Grand_Overture": {
+      "retroId": "permanent_sub_7_Ending_A_Grand_Overture",
+      "type": "BRANCHLINE",
+      "linkedActId": [
+        "act37side",
+        "act37sre"
+      ],
+      "startTime": 1730232000,
+      "trailStartTime": 1790668800,
+      "index": 7,
+      "name": "追迹日落以西",
+      "haveTrail": true,
+      "customActId": "act37side",
+      "customActType": "DEFAULT",
+      "trapDomainId": null
+    },
+    "permanent_main_1_Dissociative_Recombination": {
+      "retroId": "permanent_main_1_Dissociative_Recombination",
+      "type": "BRANCHLINE",
+      "linkedActId": [
+        "act2mainss"
+      ],
+      "startTime": 1745179200,
+      "trailStartTime": -1,
+      "index": 8,
+      "name": "离解复合",
+      "haveTrail": false,
+      "customActId": "act2mainss",
+      "customActType": "TYPE_MAINSS",
+      "trapDomainId": null
+    },
+    "permanent_main_2_Abnormal_Spectrum": {
+      "retroId": "permanent_main_2_Abnormal_Spectrum",
+      "type": "BRANCHLINE",
+      "linkedActId": [
+        "act3mainss"
+      ],
+      "startTime": 1761163200,
+      "trailStartTime": -1,
+      "index": 9,
+      "name": "反常光谱",
+      "haveTrail": false,
+      "customActId": "act3mainss",
+      "customActType": "TYPE_MAINSS",
+      "trapDomainId": null
+    },
+    "permanent_main_3_One_Day_More": {
+      "retroId": "permanent_main_3_One_Day_More",
+      "type": "BRANCHLINE",
+      "linkedActId": [
+        "act4mainss"
+      ],
+      "startTime": 1778788800,
+      "trailStartTime": -1,
+      "index": 10,
+      "name": "相变临界",
+      "haveTrail": false,
+      "customActId": "act4mainss",
+      "customActType": "TYPE_MAINSS",
+      "trapDomainId": null
+    },
+    "permanent_sidestory_1_Grani_And_The_Treasure_Of_Knights": {
+      "retroId": "permanent_sidestory_1_Grani_And_The_Treasure_Of_Knights",
+      "type": "SIDESTORY",
+      "linkedActId": [
+        "1stact",
+        "act13d2"
+      ],
+      "startTime": 1618430400,
+      "trailStartTime": 1634284800,
+      "index": 1,
+      "name": "骑兵与猎人",
+      "haveTrail": true,
+      "customActId": null,
+      "customActType": "DEFAULT",
+      "trapDomainId": null
+    },
+    "permanent_sidestory_2_Heart_Of_Surging_Flame": {
+      "retroId": "permanent_sidestory_2_Heart_Of_Surging_Flame",
+      "type": "SIDESTORY",
+      "linkedActId": [
+        "act3d0",
+        "act11d7"
+      ],
+      "startTime": 1618430400,
+      "trailStartTime": 1629964800,
+      "index": 2,
+      "name": "火蓝之心",
+      "haveTrail": true,
+      "customActId": null,
+      "customActType": "DEFAULT",
+      "trapDomainId": null
+    },
+    "permanent_sidestory_3_Code_Of_Brawl": {
+      "retroId": "permanent_sidestory_3_Code_Of_Brawl",
+      "type": "SIDESTORY",
+      "linkedActId": [
+        "act5d0",
+        "act14d7"
+      ],
+      "startTime": 1618430400,
+      "trailStartTime": 1638864000,
+      "index": 3,
+      "name": "喧闹法则",
+      "haveTrail": true,
+      "customActId": null,
+      "customActType": "DEFAULT",
+      "trapDomainId": null
+    },
+    "permanent_sidestory_4_Twilight_Of_Wolumonde": {
+      "retroId": "permanent_sidestory_4_Twilight_Of_Wolumonde",
+      "type": "SIDESTORY",
+      "linkedActId": [
+        "act11d0",
+        "act5sre"
+      ],
+      "startTime": 1625083200,
+      "trailStartTime": 1657612800,
+      "index": 4,
+      "name": "沃伦姆德的薄暮",
+      "haveTrail": true,
+      "customActId": null,
+      "customActType": "DEFAULT",
+      "trapDomainId": null
+    },
+    "permanent_sidestory_5_The_Great_Chief_Returns": {
+      "retroId": "permanent_sidestory_5_The_Great_Chief_Returns",
+      "type": "SIDESTORY",
+      "linkedActId": [
+        "act12d0",
+        "act6sre"
+      ],
+      "startTime": 1627934400,
+      "trailStartTime": 1661414400,
+      "index": 5,
+      "name": "密林悍将归来",
+      "haveTrail": true,
+      "customActId": null,
+      "customActType": "DEFAULT",
+      "trapDomainId": null
+    },
+    "permanent_sidestory_6_Maria_Nearl": {
+      "retroId": "permanent_sidestory_6_Maria_Nearl",
+      "type": "SIDESTORY",
+      "linkedActId": [
+        "act13d5",
+        "act7sre"
+      ],
+      "startTime": 1634241600,
+      "trailStartTime": 1666080000,
+      "index": 6,
+      "name": "玛莉娅·临光",
+      "haveTrail": true,
+      "customActId": null,
+      "customActType": "DEFAULT",
+      "trapDomainId": null
+    },
+    "permanent_sidestory_7_Mansfield_Break": {
+      "retroId": "permanent_sidestory_7_Mansfield_Break",
+      "type": "SIDESTORY",
+      "linkedActId": [
+        "act15d0",
+        "act8sre"
+      ],
+      "startTime": 1640030400,
+      "trailStartTime": 1672560000,
+      "index": 7,
+      "name": "孤岛风云",
+      "haveTrail": true,
+      "customActId": null,
+      "customActType": "DEFAULT",
+      "trapDomainId": null
+    },
+    "permanent_sidestory_8_Who_is_Real": {
+      "retroId": "permanent_sidestory_8_Who_is_Real",
+      "type": "SIDESTORY",
+      "linkedActId": [
+        "act16d5",
+        "act9sre"
+      ],
+      "startTime": 1642968000,
+      "trailStartTime": 1674547200,
+      "index": 8,
+      "name": "画中人",
+      "haveTrail": true,
+      "customActId": null,
+      "customActType": "DEFAULT",
+      "trapDomainId": null
+    },
+    "permanent_sidestory_9_Dossoles_Holiday": {
+      "retroId": "permanent_sidestory_9_Dossoles_Holiday",
+      "type": "SIDESTORY",
+      "linkedActId": [
+        "act12side",
+        "act12sre"
+      ],
+      "startTime": 1659988800,
+      "trailStartTime": 1691481600,
+      "index": 9,
+      "name": "多索雷斯假日",
+      "haveTrail": true,
+      "customActId": null,
+      "customActType": "TYPE_ACT12SIDE",
+      "trapDomainId": null
+    },
+    "permanent_sidestory_10_Near_Light": {
+      "retroId": "permanent_sidestory_10_Near_Light",
+      "type": "SIDESTORY",
+      "linkedActId": [
+        "act13side",
+        "act13sre"
+      ],
+      "startTime": 1665000000,
+      "trailStartTime": 1695110400,
+      "index": 10,
+      "name": "长夜临光",
+      "haveTrail": true,
+      "customActId": null,
+      "customActType": "DEFAULT",
+      "trapDomainId": null
+    },
+    "permanent_sidestory_11_Break_The_Ice": {
+      "retroId": "permanent_sidestory_11_Break_The_Ice",
+      "type": "SIDESTORY",
+      "linkedActId": [
+        "act14side",
+        "act14sre"
+      ],
+      "startTime": 1671048000,
+      "trailStartTime": 1701158400,
+      "index": 11,
+      "name": "风雪过境",
+      "haveTrail": true,
+      "customActId": null,
+      "customActType": "DEFAULT",
+      "trapDomainId": null
+    },
+    "permanent_sidestory_12_Invitation_To_Wine": {
+      "retroId": "permanent_sidestory_12_Invitation_To_Wine",
+      "type": "SIDESTORY",
+      "linkedActId": [
+        "act15side",
+        "act15sre"
+      ],
+      "startTime": 1673726400,
+      "trailStartTime": 1705392000,
+      "index": 12,
+      "name": "将进酒",
+      "haveTrail": true,
+      "customActId": null,
+      "customActType": "DEFAULT",
+      "trapDomainId": null
+    },
+    "permanent_sidestory_13_Guiding_Ahead": {
+      "retroId": "permanent_sidestory_13_Guiding_Ahead",
+      "type": "SIDESTORY",
+      "linkedActId": [
+        "act16side",
+        "act16sre"
+      ],
+      "startTime": 1678132800,
+      "trailStartTime": 1709193600,
+      "index": 13,
+      "name": "吾导先路",
+      "haveTrail": true,
+      "customActId": null,
+      "customActType": "DEFAULT",
+      "trapDomainId": null
+    },
+    "permanent_sidestory_14_Lingering_Echoes": {
+      "retroId": "permanent_sidestory_14_Lingering_Echoes",
+      "type": "SIDESTORY",
+      "linkedActId": [
+        "act18side",
+        "act18sre"
+      ],
+      "startTime": 1688414400,
+      "trailStartTime": 1718870400,
+      "index": 14,
+      "name": "尘影余音",
+      "haveTrail": true,
+      "customActId": null,
+      "customActType": "DEFAULT",
+      "trapDomainId": null
+    },
+    "permanent_sidestory_15_Dorothy's_Vision": {
+      "retroId": "permanent_sidestory_15_Dorothy's_Vision",
+      "type": "SIDESTORY",
+      "linkedActId": [
+        "act19side",
+        "act19sre"
+      ],
+      "startTime": 1690833600,
+      "trailStartTime": 1721116800,
+      "index": 15,
+      "name": "绿野幻梦",
+      "haveTrail": true,
+      "customActId": null,
+      "customActType": "DEFAULT",
+      "trapDomainId": null
+    },
+    "permanent_sidestory_16_Summer_Carnival_City": {
+      "retroId": "permanent_sidestory_16_Summer_Carnival_City",
+      "type": "SIDESTORY",
+      "linkedActId": [
+        "act20side",
+        "act20sre"
+      ],
+      "startTime": 1694635200,
+      "trailStartTime": 1723708800,
+      "index": 16,
+      "name": "理想城：长夏狂欢季",
+      "haveTrail": true,
+      "customActId": null,
+      "customActType": "TYPE_ACT20SIDE",
+      "trapDomainId": null
+    },
+    "permanent_sidestory_17_Il_Siracusano": {
+      "retroId": "permanent_sidestory_17_Il_Siracusano",
+      "type": "SIDESTORY",
+      "linkedActId": [
+        "act21side",
+        "act21sre"
+      ],
+      "startTime": 1699128000,
+      "trailStartTime": 1729670400,
+      "index": 17,
+      "name": "叙拉古人",
+      "haveTrail": true,
+      "customActId": null,
+      "customActType": "TYPE_ACT21SIDE",
+      "trapDomainId": null
+    },
+    "permanent_sidestory_18_What_the_Firelight_Casts": {
+      "retroId": "permanent_sidestory_18_What_the_Firelight_Casts",
+      "type": "SIDESTORY",
+      "linkedActId": [
+        "act22side",
+        "act22sre"
+      ],
+      "startTime": 1704398400,
+      "trailStartTime": 1734854400,
+      "index": 18,
+      "name": "照我以火",
+      "haveTrail": true,
+      "customActId": null,
+      "customActType": "DEFAULT",
+      "trapDomainId": null
+    },
+    "permanent_sidestory_19_Where_Vernal_Winds_Will_Never_Blow": {
+      "retroId": "permanent_sidestory_19_Where_Vernal_Winds_Will_Never_Blow",
+      "type": "SIDESTORY",
+      "linkedActId": [
+        "act23side",
+        "act23sre"
+      ],
+      "startTime": 1706731200,
+      "trailStartTime": 1735804800,
+      "index": 19,
+      "name": "登临意",
+      "haveTrail": true,
+      "customActId": null,
+      "customActType": "DEFAULT",
+      "trapDomainId": null
+    },
+    "permanent_sidestory_20_Hortus_de_Escapismo": {
+      "retroId": "permanent_sidestory_20_Hortus_de_Escapismo",
+      "type": "SIDESTORY",
+      "linkedActId": [
+        "act26side",
+        "act26sre"
+      ],
+      "startTime": 1720468800,
+      "trailStartTime": 1750881600,
+      "index": 20,
+      "name": "空想花庭",
+      "haveTrail": true,
+      "customActId": null,
+      "customActType": "DEFAULT",
+      "trapDomainId": null
+    },
+    "permanent_sidestory_21_so_Long_Adele": {
+      "retroId": "permanent_sidestory_21_so_Long_Adele",
+      "type": "SIDESTORY",
+      "linkedActId": [
+        "act27side",
+        "act27sre"
+      ],
+      "startTime": 1725480000,
+      "trailStartTime": 1755158400,
+      "index": 21,
+      "name": "火山旅梦",
+      "haveTrail": true,
+      "customActId": null,
+      "customActType": "TYPE_ACT27SIDE",
+      "trapDomainId": null
+    },
+    "permanent_sidestory_22_Come_Catastrophes_or_Wakes_of_Vultures": {
+      "retroId": "permanent_sidestory_22_Come_Catastrophes_or_Wakes_of_Vultures",
+      "type": "SIDESTORY",
+      "linkedActId": [
+        "act28side",
+        "act28sre"
+      ],
+      "startTime": 1727899200,
+      "trailStartTime": 1758787200,
+      "index": 22,
+      "name": "不义之财",
+      "haveTrail": true,
+      "customActId": null,
+      "customActType": "DEFAULT",
+      "trapDomainId": null
+    },
+    "permanent_sidestory_23_Zwillingsturme_im_Herbst": {
+      "retroId": "permanent_sidestory_23_Zwillingsturme_im_Herbst",
+      "type": "SIDESTORY",
+      "linkedActId": [
+        "act29side",
+        "act29sre"
+      ],
+      "startTime": 1733688000,
+      "trailStartTime": 1763409600,
+      "index": 23,
+      "name": "崔林特尔梅之金",
+      "haveTrail": true,
+      "customActId": null,
+      "customActType": "TYPE_ACT29SIDE",
+      "trapDomainId": null
+    },
+    "permanent_sidestory_24_The_Rides_To_Lake_Silberneherze": {
+      "retroId": "permanent_sidestory_24_The_Rides_To_Lake_Silberneherze",
+      "type": "SIDESTORY",
+      "linkedActId": [
+        "act30side",
+        "act30sre"
+      ],
+      "startTime": 1735761600,
+      "trailStartTime": 1766433600,
+      "index": 24,
+      "name": "银心湖列车",
+      "haveTrail": true,
+      "customActId": null,
+      "customActType": "DEFAULT",
+      "trapDomainId": null
+    },
+    "permanent_sidestory_25_Here_A_People_Sows": {
+      "retroId": "permanent_sidestory_25_Here_A_People_Sows",
+      "type": "SIDESTORY",
+      "linkedActId": [
+        "act31side",
+        "act31sre"
+      ],
+      "startTime": 1741550400,
+      "trailStartTime": 1769025600,
+      "index": 25,
+      "name": "怀黍离",
+      "haveTrail": true,
+      "customActId": null,
+      "customActType": "DEFAULT",
+      "trapDomainId": null
+    },
+    "permanent_sidestory_26_Path_Of_Life": {
+      "retroId": "permanent_sidestory_26_Path_Of_Life",
+      "type": "SIDESTORY",
+      "linkedActId": [
+        "act34side",
+        "act34sre"
+      ],
+      "startTime": 1751486400,
+      "trailStartTime": 1782417600,
+      "index": 26,
+      "name": "生路",
+      "haveTrail": true,
+      "customActId": null,
+      "customActType": "DEFAULT",
+      "trapDomainId": null
+    },
+    "permanent_sidestory_27_Adventure_That_Cannot_Waits_For_The_Sun": {
+      "retroId": "permanent_sidestory_27_Adventure_That_Cannot_Waits_For_The_Sun",
+      "type": "SIDESTORY",
+      "linkedActId": [
+        "act35side",
+        "act35sre"
+      ],
+      "startTime": 1757275200,
+      "trailStartTime": 1786737600,
+      "index": 27,
+      "name": "太阳甩在身后",
+      "haveTrail": true,
+      "customActId": null,
+      "customActType": "DEFAULT",
+      "trapDomainId": null
+    },
+    "permanent_sidestory_28_i_portatori_dei_velluti": {
+      "retroId": "permanent_sidestory_28_i_portatori_dei_velluti",
+      "type": "SIDESTORY",
+      "linkedActId": [
+        "act38side",
+        "act38sre"
+      ],
+      "startTime": 1765224000,
+      "trailStartTime": 1794816000,
+      "index": 28,
+      "name": "揭幕者们",
+      "haveTrail": true,
+      "customActId": null,
+      "customActType": "TYPE_ACT38SIDE",
+      "trapDomainId": null
+    },
+    "permanent_sidestory_29_Exodus_From_The_Pale_Sea": {
+      "retroId": "permanent_sidestory_29_Exodus_From_The_Pale_Sea",
+      "type": "SIDESTORY",
+      "linkedActId": [
+        "act39side",
+        "act39sre"
+      ],
+      "startTime": 1767297600,
+      "trailStartTime": -1,
+      "index": 29,
+      "name": "出苍白海",
+      "haveTrail": false,
+      "customActId": null,
+      "customActType": "DEFAULT",
+      "trapDomainId": null
+    },
+    "permanent_sidestory_30_Such_is_the_Joy_of_Our_Reunion": {
+      "retroId": "permanent_sidestory_30_Such_is_the_Joy_of_Our_Reunion",
+      "type": "SIDESTORY",
+      "linkedActId": [
+        "act40side",
+        "act40sre"
+      ],
+      "startTime": 1770667200,
+      "trailStartTime": -1,
+      "index": 30,
+      "name": "相见欢",
+      "haveTrail": false,
+      "customActId": null,
+      "customActType": "DEFAULT",
+      "trapDomainId": null
+    },
+    "permanent_sidestory_31_When_Elegies_are_Ashes": {
+      "retroId": "permanent_sidestory_31_When_Elegies_are_Ashes",
+      "type": "SIDESTORY",
+      "linkedActId": [
+        "act41side",
+        "act41sre"
+      ],
+      "startTime": 1775764800,
+      "trailStartTime": -1,
+      "index": 31,
+      "name": "挽歌燃烧殆尽",
+      "haveTrail": false,
+      "customActId": null,
+      "customActType": "DEFAULT",
+      "trapDomainId": null
+    },
+    "permanent_sidestory_32_The_Masses_Travels": {
+      "retroId": "permanent_sidestory_32_The_Masses_Travels",
+      "type": "SIDESTORY",
+      "linkedActId": [
+        "act42side",
+        "act42sre"
+      ],
+      "startTime": 1780603200,
+      "trailStartTime": -1,
+      "index": 32,
+      "name": "众生行记",
+      "haveTrail": false,
+      "customActId": null,
+      "customActType": "DEFAULT",
+      "trapDomainId": null
+    },
+    "permanent_sidestory_33_Act_or_Die": {
+      "retroId": "permanent_sidestory_33_Act_or_Die",
+      "type": "SIDESTORY",
+      "linkedActId": [
+        "act43side",
+        "act43sre"
+      ],
+      "startTime": 1785700800,
+      "trailStartTime": -1,
+      "index": 33,
+      "name": "红丝绒",
+      "haveTrail": false,
+      "customActId": null,
+      "customActType": "DEFAULT",
+      "trapDomainId": null
+    },
+    "permanent_sidestory_34_Ato": {
+      "retroId": "permanent_sidestory_34_Ato",
+      "type": "SIDESTORY",
+      "linkedActId": [
+        "act44side",
+        "act44sre"
+      ],
+      "startTime": 1788552000,
+      "trailStartTime": -1,
+      "index": 34,
+      "name": "墟",
+      "haveTrail": false,
+      "customActId": null,
+      "customActType": "DEFAULT",
+      "trapDomainId": null
+    }
+  }
+}

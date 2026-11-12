@@ -3,11 +3,15 @@ import {readFile} from 'node:fs/promises';
 import {fileURLToPath} from 'node:url';
 import path from 'node:path';
 import {createVisitorStore} from './visitor-store.mjs';
+import {createGuestbookStore} from './guestbook-store.mjs';
+import {createGuestbookHandler} from './guestbook-http.mjs';
 const root=fileURLToPath(new URL('./dist/',import.meta.url));
 const types={'.html':'text/html; charset=utf-8','.js':'text/javascript; charset=utf-8','.json':'application/json; charset=utf-8','.css':'text/css; charset=utf-8','.png':'image/png','.svg':'image/svg+xml','.webp':'image/webp'};
-export function createServer({visitorFile=process.env.VISITOR_DATA_FILE||fileURLToPath(new URL('./var/visitors.json',import.meta.url))}={}){
+export function createServer({visitorFile=process.env.VISITOR_DATA_FILE||fileURLToPath(new URL('./var/visitors.json',import.meta.url)),guestbookFile=process.env.GUESTBOOK_DATA_FILE||fileURLToPath(new URL('./var/guestbook.json',import.meta.url)),publicOrigin=process.env.PUBLIC_ORIGIN,guestbookRateLimit}={}){
 const visitors=createVisitorStore(visitorFile);
+const guestbook=createGuestbookHandler({store:createGuestbookStore(guestbookFile),publicOrigin,rateLimit:guestbookRateLimit});
 return http.createServer(async(req,res)=>{
+ if(req.url?.split('?')[0]==='/api/guestbook'){await guestbook(req,res);return;}
  if(req.url?.split('?')[0]==='/api/visits'){
   res.setHeader('Content-Type','application/json; charset=utf-8');res.setHeader('Cache-Control','no-store');res.setHeader('X-Content-Type-Options','nosniff');
   if(!['GET','POST'].includes(req.method)){res.writeHead(405).end();return;}

@@ -1,0 +1,31 @@
+{
+  "checked": "2026-11-12",
+  "sourceCount": 4669,
+  "method": "Editorial English/Japanese translations, official names and story titles aligned by stable game IDs; OpenCC s2twp for Traditional Chinese.",
+  "sources": [
+    "manual-bios-1.json",
+    "manual-bios-2.json",
+    "manual-bios-3.json",
+    "manual-bios-4.json",
+    "manual-bios-5.json",
+    "manual-bios-6.json",
+    "manual-content-1.json",
+    "manual-content-2.json",
+    "manual-content-3.json",
+    "manual-content.json",
+    "manual-events-enrichment-a.json",
+    "manual-events-enrichment-b.json",
+    "manual-events-enrichment-new.json",
+    "manual-events-ui.json",
+    "manual-identity.json",
+    "manual-templates.json",
+    "manual-ui.json",
+    "manual-terms.json",
+    "manual-title-terms.json",
+    "manual-corrections.json"
+  ],
+  "runtime": "Checked-in static dictionaries. No external translation requests. Visitor nicknames and messages retain their original language.",
+  "provisionalNames": "provisional-names.json",
+  "limitations": "Translations are produced for this fan project, not endorsed by the game publisher. CN content without released EN/JP localization uses provisional site translations.",
+  "complete": true
+}

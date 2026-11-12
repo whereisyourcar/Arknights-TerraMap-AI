@@ -1,6 +1,6 @@
 {
-  "checked": "2026-09-19",
-  "cutoff": 1789830000,
+  "checked": "2026-11-12",
+  "cutoff": 1794499199,
   "sourceUrls": [
     "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json",
     "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
@@ -11,8 +11,11 @@
       "name": "骑兵与猎人",
       "entryType": "ACTIVITY",
       "startTime": 1559181600,
+      "endTime": -1,
       "startShowTime": 1560974400,
       "endShowTime": -1,
+      "remakeStartTime": 1601539200,
+      "remakeEndTime": 1602705599,
       "storyCount": 16
     },
     {
@@ -20,8 +23,11 @@
       "name": "火蓝之心",
       "entryType": "ACTIVITY",
       "startTime": 1566892800,
+      "endTime": -1,
       "startShowTime": 1568664000,
       "endShowTime": -1,
+      "remakeStartTime": 1597132800,
+      "remakeEndTime": 1598299199,
       "storyCount": 26
     },
     {
@@ -29,8 +35,11 @@
       "name": "喧闹法则",
       "entryType": "ACTIVITY",
       "startTime": 1574150400,
+      "endTime": -1,
       "startShowTime": 1575921600,
       "endShowTime": -1,
+      "remakeStartTime": 1606809600,
+      "remakeEndTime": 1607975999,
       "storyCount": 27
     },
     {
@@ -38,8 +47,11 @@
       "name": "生于黑夜",
       "entryType": "ACTIVITY",
       "startTime": 1587441600,
+      "endTime": -1,
       "startShowTime": 1590091200,
       "endShowTime": -1,
+      "remakeStartTime": 1617091200,
+      "remakeEndTime": 1618257599,
       "storyCount": 13
     },
     {
@@ -47,8 +59,11 @@
       "name": "沃伦姆德的薄暮",
       "entryType": "ACTIVITY",
       "startTime": 1594267200,
+      "endTime": -1,
       "startShowTime": 1596052800,
       "endShowTime": -1,
+      "remakeStartTime": 1623916800,
+      "remakeEndTime": 1625083199,
       "storyCount": 20
     },
     {
@@ -56,8 +71,11 @@
       "name": "密林悍将归来",
       "entryType": "ACTIVITY",
       "startTime": 1598328000,
+      "endTime": -1,
       "startShowTime": 1600113600,
       "endShowTime": -1,
+      "remakeStartTime": 1626768000,
+      "remakeEndTime": 1627934399,
       "storyCount": 21
     },
     {
@@ -65,8 +83,11 @@
       "name": "玛莉娅·临光",
       "entryType": "ACTIVITY",
       "startTime": 1602748800,
+      "endTime": -1,
       "startShowTime": 1604520000,
       "endShowTime": -1,
+      "remakeStartTime": 1633075200,
+      "remakeEndTime": 1634241599,
       "storyCount": 19
     },
     {
@@ -74,8 +95,11 @@
       "name": "孤岛风云",
       "entryType": "ACTIVITY",
       "startTime": 1608177600,
+      "endTime": -1,
       "startShowTime": 1609963200,
       "endShowTime": -1,
+      "remakeStartTime": 1638864000,
+      "remakeEndTime": 1640030399,
       "storyCount": 18
     },
     {
@@ -83,8 +107,11 @@
       "name": "画中人",
       "entryType": "ACTIVITY",
       "startTime": 1612512000,
+      "endTime": -1,
       "startShowTime": 1614283200,
       "endShowTime": -1,
+      "remakeStartTime": 1641801600,
+      "remakeEndTime": 1642967999,
       "storyCount": 17
     },
     {
@@ -92,8 +119,11 @@
       "name": "源石尘行动",
       "entryType": "ACTIVITY",
       "startTime": 1612324800,
+      "endTime": -1,
       "startShowTime": 1617048000,
       "endShowTime": -1,
+      "remakeStartTime": 1711008000,
+      "remakeEndTime": 1712174399,
       "storyCount": 17
     },
     {
@@ -101,8 +131,11 @@
       "name": "遗尘漫步",
       "entryType": "ACTIVITY",
       "startTime": 1618459200,
+      "endTime": -1,
       "startShowTime": 1620244800,
       "endShowTime": -1,
+      "remakeStartTime": 1648540800,
+      "remakeEndTime": 1649707199,
       "storyCount": 14
     },
     {
@@ -110,8 +143,11 @@
       "name": "覆潮之下",
       "entryType": "ACTIVITY",
       "startTime": 1619852400,
+      "endTime": -1,
       "startShowTime": 1621627200,
       "endShowTime": -1,
+      "remakeStartTime": 1653897600,
+      "remakeEndTime": 1655063999,
       "storyCount": 18
     },
     {
@@ -119,8 +155,11 @@
       "name": "多索雷斯假日",
       "entryType": "ACTIVITY",
       "startTime": 1627963200,
+      "endTime": -1,
       "startShowTime": 1630353600,
       "endShowTime": -1,
+      "remakeStartTime": 1658822400,
+      "remakeEndTime": 1659988799,
       "storyCount": 20
     },
     {
@@ -128,8 +167,11 @@
       "name": "长夜临光",
       "entryType": "ACTIVITY",
       "startTime": 1635739200,
+      "endTime": -1,
       "startShowTime": 1638129600,
       "endShowTime": -1,
+      "remakeStartTime": 1663833600,
+      "remakeEndTime": 1664999999,
       "storyCount": 24
     },
     {
@@ -137,8 +179,11 @@
       "name": "风雪过境",
       "entryType": "ACTIVITY",
       "startTime": 1640059200,
+      "endTime": -1,
       "startShowTime": 1641844800,
       "endShowTime": -1,
+      "remakeStartTime": 1669881600,
+      "remakeEndTime": 1671047999,
       "storyCount": 20
     },
     {
@@ -146,8 +191,11 @@
       "name": "将进酒",
       "entryType": "ACTIVITY",
       "startTime": 1643083200,
+      "endTime": -1,
       "startShowTime": 1644868800,
       "endShowTime": -1,
+      "remakeStartTime": 1672560000,
+      "remakeEndTime": 1673726399,
       "storyCount": 19
     },
     {
@@ -155,8 +203,11 @@
       "name": "吾导先路",
       "entryType": "ACTIVITY",
       "startTime": 1647316800,
+      "endTime": -1,
       "startShowTime": 1649102400,
       "endShowTime": -1,
+      "remakeStartTime": 1676966400,
+      "remakeEndTime": 1678132799,
       "storyCount": 18
     },
     {
@@ -164,8 +215,11 @@
       "name": "愚人号",
       "entryType": "ACTIVITY",
       "startTime": 1651388400,
+      "endTime": -1,
       "startShowTime": 1653768000,
       "endShowTime": -1,
+      "remakeStartTime": 1681977600,
+      "remakeEndTime": 1683143999,
       "storyCount": 24
     },
     {
@@ -173,8 +227,11 @@
       "name": "尘影余音",
       "entryType": "ACTIVITY",
       "startTime": 1654747200,
+      "endTime": -1,
       "startShowTime": 1655928000,
       "endShowTime": -1,
+      "remakeStartTime": 1687248000,
+      "remakeEndTime": 1688414399,
       "storyCount": 19
     },
     {
@@ -182,8 +239,11 @@
       "name": "绿野幻梦",
       "entryType": "ACTIVITY",
       "startTime": 1656993600,
+      "endTime": -1,
       "startShowTime": 1658779200,
       "endShowTime": -1,
+      "remakeStartTime": 1689667200,
+      "remakeEndTime": 1690833599,
       "storyCount": 20
     },
     {
@@ -191,8 +251,11 @@
       "name": "理想城：长夏狂欢季",
       "entryType": "ACTIVITY",
       "startTime": 1660190400,
+      "endTime": -1,
       "startShowTime": 1662580800,
       "endShowTime": -1,
+      "remakeStartTime": 1693468800,
+      "remakeEndTime": 1694635199,
       "storyCount": 18
     },
     {
@@ -200,8 +263,11 @@
       "name": "叙拉古人",
       "entryType": "ACTIVITY",
       "startTime": 1667275200,
+      "endTime": -1,
       "startShowTime": 1669665600,
       "endShowTime": -1,
+      "remakeStartTime": 1697961600,
+      "remakeEndTime": 1699127999,
       "storyCount": 24
     },
     {
@@ -209,8 +275,11 @@
       "name": "照我以火",
       "entryType": "ACTIVITY",
       "startTime": 1671076800,
+      "endTime": -1,
       "startShowTime": 1672862400,
       "endShowTime": -1,
+      "remakeStartTime": 1703232000,
+      "remakeEndTime": 1704398399,
       "storyCount": 18
     },
     {
@@ -218,8 +287,11 @@
       "name": "登临意",
       "entryType": "ACTIVITY",
       "startTime": 1673928000,
+      "endTime": -1,
       "startShowTime": 1675713600,
       "endShowTime": -1,
+      "remakeStartTime": 1705564800,
+      "remakeEndTime": 1706731199,
       "storyCount": 19
     },
     {
@@ -227,8 +299,11 @@
       "name": "落叶逐火",
       "entryType": "ACTIVITY",
       "startTime": 1678161600,
+      "endTime": -1,
       "startShowTime": 4086014399,
       "endShowTime": -1,
+      "remakeStartTime": 1781510400,
+      "remakeEndTime": 1782676799,
       "storyCount": 19
     },
     {
@@ -236,8 +311,11 @@
       "name": "孤星",
       "entryType": "ACTIVITY",
       "startTime": 1682913600,
+      "endTime": -1,
       "startShowTime": 1685304000,
       "endShowTime": -1,
+      "remakeStartTime": 1716537600,
+      "remakeEndTime": 1717703999,
       "storyCount": 24
     },
     {
@@ -245,8 +323,11 @@
       "name": "空想花庭",
       "entryType": "ACTIVITY",
       "startTime": 1686196800,
+      "endTime": -1,
       "startShowTime": 1687982400,
       "endShowTime": -1,
+      "remakeStartTime": 1719302400,
+      "remakeEndTime": 1720468799,
       "storyCount": 19
     },
     {
@@ -254,8 +335,11 @@
       "name": "火山旅梦",
       "entryType": "ACTIVITY",
       "startTime": 1690862400,
+      "endTime": -1,
       "startShowTime": 1693252800,
       "endShowTime": -1,
+      "remakeStartTime": 1724313600,
+      "remakeEndTime": 1725479999,
       "storyCount": 19
     },
     {
@@ -263,8 +347,11 @@
       "name": "不义之财",
       "entryType": "ACTIVITY",
       "startTime": 1693886400,
+      "endTime": -1,
       "startShowTime": 1695672000,
       "endShowTime": -1,
+      "remakeStartTime": 1726732800,
+      "remakeEndTime": 1727899199,
       "storyCount": 19
     },
     {
@@ -272,8 +359,11 @@
       "name": "崔林特尔梅之金",
       "entryType": "ACTIVITY",
       "startTime": 1698811200,
+      "endTime": -1,
       "startShowTime": 1701201600,
       "endShowTime": -1,
+      "remakeStartTime": 1732521600,
+      "remakeEndTime": 1733687999,
       "storyCount": 23
     },
     {
@@ -281,8 +371,11 @@
       "name": "银心湖列车",
       "entryType": "ACTIVITY",
       "startTime": 1701748800,
+      "endTime": -1,
       "startShowTime": 1703534400,
       "endShowTime": -1,
+      "remakeStartTime": 1734595200,
+      "remakeEndTime": 1735761599,
       "storyCount": 19
     },
     {
@@ -290,8 +383,11 @@
       "name": "怀黍离",
       "entryType": "ACTIVITY",
       "startTime": 1706760000,
+      "endTime": -1,
       "startShowTime": 1709150400,
       "endShowTime": -1,
+      "remakeStartTime": 1740384000,
+      "remakeEndTime": 1741550399,
       "storyCount": 19
     },
     {
@@ -299,8 +395,11 @@
       "name": "水晶箭行动",
       "entryType": "ACTIVITY",
       "startTime": 1709784000,
+      "endTime": -1,
       "startShowTime": 1711569600,
       "endShowTime": -1,
+      "remakeStartTime": -1,
+      "remakeEndTime": -1,
       "storyCount": 19
     },
     {
@@ -308,8 +407,11 @@
       "name": "巴别塔",
       "entryType": "ACTIVITY",
       "startTime": 1712808000,
+      "endTime": -1,
       "startShowTime": 1715198400,
       "endShowTime": -1,
+      "remakeStartTime": 1745222400,
+      "remakeEndTime": 1746388799,
       "storyCount": 23
     },
     {
@@ -317,8 +419,11 @@
       "name": "生路",
       "entryType": "ACTIVITY",
       "startTime": 1717560000,
+      "endTime": -1,
       "startShowTime": 1719345600,
       "endShowTime": -1,
+      "remakeStartTime": 1750320000,
+      "remakeEndTime": 1751486399,
       "storyCount": 19
     },
     {
@@ -326,8 +431,11 @@
       "name": "太阳甩在身后",
       "entryType": "ACTIVITY",
       "startTime": 1722484800,
+      "endTime": -1,
       "startShowTime": 1724875200,
       "endShowTime": -1,
+      "remakeStartTime": 1756065600,
+      "remakeEndTime": 1757275199,
       "storyCount": 19
     },
     {
@@ -335,8 +443,11 @@
       "name": "泰拉饭",
       "entryType": "ACTIVITY",
       "startTime": 1725249600,
+      "endTime": -1,
       "startShowTime": 4093703999,
       "endShowTime": -1,
+      "remakeStartTime": -1,
+      "remakeEndTime": -1,
       "storyCount": 16
     },
     {
@@ -344,8 +455,11 @@
       "name": "追迹日落以西",
       "entryType": "ACTIVITY",
       "startTime": 1728446400,
+      "endTime": -1,
       "startShowTime": 1730232000,
       "endShowTime": -1,
+      "remakeStartTime": 1758268800,
+      "remakeEndTime": 1759435199,
       "storyCount": 18
     },
     {
@@ -353,8 +467,11 @@
       "name": "揭幕者们",
       "entryType": "ACTIVITY",
       "startTime": 1730433600,
+      "endTime": -1,
       "startShowTime": 1732824000,
       "endShowTime": -1,
+      "remakeStartTime": 1764057600,
+      "remakeEndTime": 1765223999,
       "storyCount": 24
     },
     {
@@ -362,8 +479,11 @@
       "name": "出苍白海",
       "entryType": "ACTIVITY",
       "startTime": 1733371200,
+      "endTime": -1,
       "startShowTime": 1735156800,
       "endShowTime": -1,
+      "remakeStartTime": 1766088000,
+      "remakeEndTime": 1767297599,
       "storyCount": 19
     },
     {
@@ -371,8 +491,11 @@
       "name": "相见欢",
       "entryType": "ACTIVITY",
       "startTime": 1737518400,
+      "endTime": -1,
       "startShowTime": 1739908800,
       "endShowTime": -1,
+      "remakeStartTime": 1769457600,
+      "remakeEndTime": 1770667199,
       "storyCount": 19
     },
     {
@@ -380,8 +503,11 @@
       "name": "挽歌燃烧殆尽",
       "entryType": "ACTIVITY",
       "startTime": 1741320000,
+      "endTime": -1,
       "startShowTime": 1743105600,
       "endShowTime": -1,
+      "remakeStartTime": 1774598400,
+      "remakeEndTime": 1775764799,
       "storyCount": 19
     },
     {
@@ -389,8 +515,11 @@
       "name": "众生行记",
       "entryType": "ACTIVITY",
       "startTime": 1746072000,
+      "endTime": -1,
       "startShowTime": 1748462400,
       "endShowTime": -1,
+      "remakeStartTime": 1779436800,
+      "remakeEndTime": 1780603199,
       "storyCount": 24
     },
     {
@@ -398,8 +527,11 @@
       "name": "红丝绒",
       "entryType": "ACTIVITY",
       "startTime": 1749096000,
+      "endTime": -1,
       "startShowTime": 1750881600,
       "endShowTime": -1,
+      "remakeStartTime": 1784491200,
+      "remakeEndTime": 1785700799,
       "storyCount": 19
     },
     {
@@ -407,8 +539,11 @@
       "name": "墟",
       "entryType": "ACTIVITY",
       "startTime": 1754107200,
+      "endTime": -1,
       "startShowTime": 1756497600,
       "endShowTime": -1,
+      "remakeStartTime": 1787342400,
+      "remakeEndTime": 1788551999,
       "storyCount": 19
     },
     {
@@ -416,8 +551,11 @@
       "name": "无忧梦呓",
       "entryType": "ACTIVITY",
       "startTime": 1756958400,
+      "endTime": -1,
       "startShowTime": 1758744000,
       "endShowTime": -1,
+      "remakeStartTime": -1,
+      "remakeEndTime": -1,
       "storyCount": 17
     },
     {
@@ -425,8 +563,11 @@
       "name": "雪山降临1101",
       "entryType": "ACTIVITY",
       "startTime": 1761951600,
+      "endTime": -1,
       "startShowTime": 1764360000,
       "endShowTime": -1,
+      "remakeStartTime": -1,
+      "remakeEndTime": -1,
       "storyCount": 24
     },
     {
@@ -434,8 +575,11 @@
       "name": "未许之地",
       "entryType": "ACTIVITY",
       "startTime": 1764889200,
+      "endTime": -1,
       "startShowTime": 1766692800,
       "endShowTime": -1,
+      "remakeStartTime": -1,
+      "remakeEndTime": -1,
       "storyCount": 19
     },
     {
@@ -443,8 +587,11 @@
       "name": "雅赛努斯复仇记",
       "entryType": "ACTIVITY",
       "startTime": 1767913200,
+      "endTime": -1,
       "startShowTime": 1769716800,
       "endShowTime": -1,
+      "remakeStartTime": -1,
+      "remakeEndTime": -1,
       "storyCount": 19
     },
     {
@@ -452,8 +599,11 @@
       "name": "辞岁行",
       "entryType": "ACTIVITY",
       "startTime": 1770678000,
+      "endTime": -1,
       "startShowTime": 1773086400,
       "endShowTime": -1,
+      "remakeStartTime": -1,
+      "remakeEndTime": -1,
       "storyCount": 24
     },
     {
@@ -461,8 +611,11 @@
       "name": "泡影苍霆",
       "entryType": "ACTIVITY",
       "startTime": 1780268400,
+      "endTime": -1,
       "startShowTime": 4078583999,
       "endShowTime": -1,
+      "remakeStartTime": -1,
+      "remakeEndTime": -1,
       "storyCount": 18
     },
     {
@@ -470,8 +623,11 @@
       "name": "人们，我们",
       "entryType": "ACTIVITY",
       "startTime": 1775516400,
+      "endTime": -1,
       "startShowTime": 1777320000,
       "endShowTime": -1,
+      "remakeStartTime": -1,
+      "remakeEndTime": -1,
       "storyCount": 18
     },
     {
@@ -479,8 +635,11 @@
       "name": "直到大地变成一颗酸橙",
       "entryType": "ACTIVITY",
       "startTime": 1785538800,
+      "endTime": -1,
       "startShowTime": 1787947200,
       "endShowTime": -1,
+      "remakeStartTime": -1,
+      "remakeEndTime": -1,
       "storyCount": 19
     },
     {
@@ -488,17 +647,47 @@
       "name": "月行水上",
       "entryType": "ACTIVITY",
       "startTime": 1788476400,
+      "endTime": -1,
       "startShowTime": 1790280000,
       "endShowTime": -1,
+      "remakeStartTime": -1,
+      "remakeEndTime": -1,
       "storyCount": 13
+    },
+    {
+      "id": "act52side",
+      "name": "昨日海",
+      "entryType": "ACTIVITY",
+      "startTime": 1791500400,
+      "endTime": -1,
+      "startShowTime": 1793304000,
+      "endShowTime": -1,
+      "remakeStartTime": -1,
+      "remakeEndTime": -1,
+      "storyCount": 19
+    },
+    {
+      "id": "act55side",
+      "name": "时间啊，向前！",
+      "entryType": "ACTIVITY",
+      "startTime": 1793487600,
+      "endTime": -1,
+      "startShowTime": 1795896000,
+      "endShowTime": -1,
+      "remakeStartTime": -1,
+      "remakeEndTime": -1,
+      "storyCount": 24
     },
     {
       "id": "act4d0",
       "name": "战地秘闻",
       "entryType": "MINI_ACTIVITY",
       "startTime": 1571126400,
+      "endTime": -1,
       "startShowTime": 1571947200,
       "endShowTime": -1,
+      "remakeStartTime": -1,
+      "remakeEndTime": -1,
       "storyCount": 7
     },
     {
@@ -506,8 +695,11 @@
       "name": "洪炉示岁",
       "entryType": "MINI_ACTIVITY",
       "startTime": 1578513600,
+      "endTime": -1,
       "startShowTime": 1579723200,
       "endShowTime": -1,
+      "remakeStartTime": -1,
+      "remakeEndTime": -1,
       "storyCount": 3
     },
     {
@@ -515,8 +707,11 @@
       "name": "午间逸话",
       "entryType": "MINI_ACTIVITY",
       "startTime": 1582617600,
+      "endTime": -1,
       "startShowTime": 1583784000,
       "endShowTime": -1,
+      "remakeStartTime": -1,
+      "remakeEndTime": -1,
       "storyCount": 6
     },
     {
@@ -524,8 +719,11 @@
       "name": "乌萨斯的孩子们",
       "entryType": "MINI_ACTIVITY",
       "startTime": 1592467200,
+      "endTime": -1,
       "startShowTime": 1593288000,
       "endShowTime": -1,
+      "remakeStartTime": -1,
+      "remakeEndTime": -1,
       "storyCount": 7
     },
     {
@@ -533,8 +731,11 @@
       "name": "踏寻往昔之风",
       "entryType": "MINI_ACTIVITY",
       "startTime": 1600920000,
+      "endTime": -1,
       "startShowTime": 1601755200,
       "endShowTime": -1,
+      "remakeStartTime": -1,
+      "remakeEndTime": -1,
       "storyCount": 7
     },
     {
@@ -542,8 +743,11 @@
       "name": "此地之外",
       "entryType": "MINI_ACTIVITY",
       "startTime": 1609833600,
+      "endTime": -1,
       "startShowTime": 1610654400,
       "endShowTime": -1,
+      "remakeStartTime": -1,
+      "remakeEndTime": -1,
       "storyCount": 7
     },
     {
@@ -551,8 +755,11 @@
       "name": "灯火序曲",
       "entryType": "MINI_ACTIVITY",
       "startTime": 1622520000,
+      "endTime": -1,
       "startShowTime": 1623355200,
       "endShowTime": -1,
+      "remakeStartTime": -1,
+      "remakeEndTime": -1,
       "storyCount": 6
     },
     {
@@ -560,8 +767,11 @@
       "name": "如我所见",
       "entryType": "MINI_ACTIVITY",
       "startTime": 1626163200,
+      "endTime": -1,
       "startShowTime": 1626984000,
       "endShowTime": -1,
+      "remakeStartTime": -1,
+      "remakeEndTime": -1,
       "storyCount": 6
     },
     {
@@ -569,8 +779,11 @@
       "name": "红松林",
       "entryType": "MINI_ACTIVITY",
       "startTime": 1634284800,
+      "endTime": -1,
       "startShowTime": 1635105600,
       "endShowTime": -1,
+      "remakeStartTime": -1,
+      "remakeEndTime": -1,
       "storyCount": 7
     },
     {
@@ -578,8 +791,11 @@
       "name": "阴云火花",
       "entryType": "MINI_ACTIVITY",
       "startTime": 1644912000,
+      "endTime": -1,
       "startShowTime": 1645732800,
       "endShowTime": -1,
+      "remakeStartTime": -1,
+      "remakeEndTime": -1,
       "storyCount": 6
     },
     {
@@ -587,8 +803,11 @@
       "name": "未尽篇章",
       "entryType": "MINI_ACTIVITY",
       "startTime": 1658217600,
+      "endTime": -1,
       "startShowTime": 1659038400,
       "endShowTime": -1,
+      "remakeStartTime": -1,
+      "remakeEndTime": -1,
       "storyCount": 6
     },
     {
@@ -596,8 +815,11 @@
       "name": "日暮寻路",
       "entryType": "MINI_ACTIVITY",
       "startTime": 1662609600,
+      "endTime": -1,
       "startShowTime": 1663444800,
       "endShowTime": -1,
+      "remakeStartTime": -1,
+      "remakeEndTime": -1,
       "storyCount": 7
     },
     {
@@ -605,8 +827,11 @@
       "name": "好久不见",
       "entryType": "MINI_ACTIVITY",
       "startTime": 1663228800,
+      "endTime": -1,
       "startShowTime": 4085927999,
       "endShowTime": -1,
+      "remakeStartTime": -1,
+      "remakeEndTime": -1,
       "storyCount": 6
     },
     {
@@ -614,8 +839,11 @@
       "name": "春分",
       "entryType": "MINI_ACTIVITY",
       "startTime": 1676361600,
+      "endTime": -1,
       "startShowTime": 1677182400,
       "endShowTime": -1,
+      "remakeStartTime": -1,
+      "remakeEndTime": -1,
       "storyCount": 6
     },
     {
@@ -623,8 +851,11 @@
       "name": "眠于树影之中",
       "entryType": "MINI_ACTIVITY",
       "startTime": 1688616000,
+      "endTime": -1,
       "startShowTime": 1689451200,
       "endShowTime": -1,
+      "remakeStartTime": -1,
+      "remakeEndTime": -1,
       "storyCount": 7
     },
     {
@@ -632,8 +863,11 @@
       "name": "去咧嘴谷",
       "entryType": "MINI_ACTIVITY",
       "startTime": 1704787200,
+      "endTime": -1,
       "startShowTime": 1705608000,
       "endShowTime": -1,
+      "remakeStartTime": -1,
+      "remakeEndTime": -1,
       "storyCount": 6
     },
     {
@@ -641,8 +875,11 @@
       "name": "熔炉“还魂”记",
       "entryType": "MINI_ACTIVITY",
       "startTime": 1720497600,
+      "endTime": -1,
       "startShowTime": 1721332800,
       "endShowTime": -1,
+      "remakeStartTime": -1,
+      "remakeEndTime": -1,
       "storyCount": 6
     },
     {
@@ -650,8 +887,11 @@
       "name": "我们明日见",
       "entryType": "MINI_ACTIVITY",
       "startTime": 1739520000,
+      "endTime": -1,
       "startShowTime": 1740340800,
       "endShowTime": -1,
+      "remakeStartTime": -1,
+      "remakeEndTime": -1,
       "storyCount": 6
     },
     {
@@ -659,8 +899,11 @@
       "name": "镜中集",
       "entryType": "MINI_ACTIVITY",
       "startTime": 1751947200,
+      "endTime": -1,
       "startShowTime": 1752782400,
       "endShowTime": -1,
+      "remakeStartTime": -1,
+      "remakeEndTime": -1,
       "storyCount": 7
     },
     {
@@ -668,8 +911,11 @@
       "name": "十字路口",
       "entryType": "MINI_ACTIVITY",
       "startTime": 1773097200,
+      "endTime": -1,
       "startShowTime": 1773950400,
       "endShowTime": -1,
+      "remakeStartTime": -1,
+      "remakeEndTime": -1,
       "storyCount": 6
     },
     {
@@ -677,8 +923,11 @@
       "name": "丛林症结",
       "entryType": "MINI_ACTIVITY",
       "startTime": 1783638000,
+      "endTime": -1,
       "startShowTime": 1784491200,
       "endShowTime": -1,
+      "remakeStartTime": -1,
+      "remakeEndTime": -1,
       "storyCount": 7
     }
   ],
@@ -1280,10 +1529,10 @@
         "act38sre"
       ],
       "startTime": 1765224000,
-      "trailStartTime": -1,
+      "trailStartTime": 1794816000,
       "index": 28,
       "name": "揭幕者们",
-      "haveTrail": false,
+      "haveTrail": true,
       "customActId": null,
       "customActType": "TYPE_ACT38SIDE",
       "trapDomainId": null
@@ -1384,5 +1633,14 @@
       "customActType": "DEFAULT",
       "trapDomainId": null
     }
+  },
+  "provenance": {
+    "reviewRevision": "bffe31bf66739842f99b457327066c695e2af389",
+    "reviewRevisionDate": "2026-11-01T00:22:42Z",
+    "sourceSHA256": {
+      "story_review_table.json": "d7c79fad60eb97dee5b06bfc359ecc9eb6516ce4d7c8253891480d9c37746824",
+      "retro_table.json": "9400d1acee34abc369abc6f8ab5a438c76e0220fce9ee7e92db5b712ea5476d3"
+    },
+    "localExtractsOnly": true
   }
 }

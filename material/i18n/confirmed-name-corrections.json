@@ -1,0 +1,55 @@
+{
+  "replacements": {
+    "en": {
+      "Amfelise": "Amphelise",
+      "Amfellise": "Amphelise",
+      "Jasenius": "Athenius",
+      "Kamu River": "Camus River",
+      "St. Gryphonsburg": "St. Gryphenburg",
+      "Saint Gryphenburg": "St. Gryphenburg",
+      "B-Wood": "Lankawu",
+      "Rankwood": "Lankawu"
+    },
+    "ja": {
+      "新ヴォルシーニ": "ヌオバ・ウォルシーニ",
+      "新ボルシーニ": "ヌオバ・ウォルシーニ",
+      "新ウォルシーニ": "ヌオバ・ウォルシーニ",
+      "ヴォルシーニ": "ウォルシーニ",
+      "ボルシーニ": "ウォルシーニ",
+      "ヤセヌス": "アテヌス",
+      "カム川": "カミュ川",
+      "クロック・ダイアモンドフェイス": "クロッケ・ダイアモンドフェース",
+      "ペイルロッシュ": "パルロシュ",
+      "ミラーナ": "ミラナ",
+      "トゥリン": "トゥーリン",
+      "時間よ、進め！": "時よ、前へ！",
+      "東国": "極東",
+      "Bウッド": "ランカウ",
+      "ランクウッド": "ランカウ",
+      "ウェイ・イェンウー": "ウェイ・イェンウ",
+      "整合運動": "レユニオン",
+      "カランドの聖女": "カランドの巫女",
+      "タラ人": "ターラー人",
+      "タラ王国": "ターラー王国",
+      "タラ地域": "ターラー地域",
+      "聖駿堡": "サンクトグリフォンブルク",
+      "時間よ、前へ！": "時よ、前へ！"
+    }
+  },
+  "evidence": {
+    "Amphelise": "EN/JA handbook: Delphine archive",
+    "Athenius": "EN/JA handbook: char_485_pallas, char_4043_erato",
+    "Camus River": "EN/JA story 13-6: level_main_13-05_beg",
+    "クロッケ・ダイアモンドフェース": "JA handbook: Pozëmka personal history",
+    "パルロシュ": "JA localization spelling reviewed against game text",
+    "newUrsusNames": "Editorial provisional renderings shared across all shards; not claimed official",
+    "Higashi": "Shared game-name glossary: 極東",
+    "Volsinii": "JA handbook, Vigil personal history: シラクーザの特別行政都市ヌオバ・ウォルシーニ; longer new-city forms replaced before city-name substrings.",
+    "WeiYenwu": "JA handbook char_1033_swire2, Archive File 3 and Promotion Record: ウェイ・イェンウ (no final long-vowel mark).",
+    "Reunion": "JA game localization and shared manual-terms: 整合运动 → レユニオン; reviewed 11 literal-translation remnants.",
+    "KarlanSaintess": "JA handbook char_174_slbell personal history: カランドの巫女.",
+    "Tara": "JA handbook char_479_sleach: ターラー語 / ターラー地区; only full phrases are replaced, never the unsafe substring タラ in サンタラ or デタラメ.",
+    "StGryphenburgJA": "Current approved shared glossary uses サンクトグリフォンブルク; normalize the same city from 聖駿堡 without changing its identity.",
+    "TimeForwardJA": "Shared editorial title is 時よ、前へ！; older literal title variants are normalized, not claimed to be an official localization."
+  }
+}

@@ -3,5 +3,7 @@
 !package.json
 !server.mjs
 !visitor-store.mjs
+!guestbook-store.mjs
+!guestbook-http.mjs
 !dist
 !dist/**

@@ -1,0 +1,1000 @@
+{
+  "checked": "2026-11-12",
+  "note": "The listed localized names are provisional site labels because no matching released localization was confirmed. They are not claims of official localization.",
+  "entries": [
+    {
+      "id": "char_4220_kormr",
+      "source": "虎狼丸",
+      "locale": "en",
+      "translation": "Koromaru",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4220_kormr",
+      "source": "虎狼丸",
+      "locale": "ja",
+      "translation": "コロマル",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4227_gallus",
+      "source": "GALLUS²",
+      "locale": "en",
+      "translation": "GALLUS²",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4227_gallus",
+      "source": "GALLUS²",
+      "locale": "ja",
+      "translation": "GALLUS²",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4215_buddy",
+      "source": "罗德岛隐秘队",
+      "locale": "en",
+      "translation": "Rhodes Island Recon",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4215_buddy",
+      "source": "罗德岛隐秘队",
+      "locale": "ja",
+      "translation": "ロドス隠密隊",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4051_akkord",
+      "source": "协律",
+      "locale": "en",
+      "translation": "Akkord",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4051_akkord",
+      "source": "协律",
+      "locale": "ja",
+      "translation": "アッコルド",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4208_wintim",
+      "source": "冬时",
+      "locale": "en",
+      "translation": "Snegurochka",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4208_wintim",
+      "source": "冬时",
+      "locale": "ja",
+      "translation": "スネグーラチカ",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4170_hdbell",
+      "source": "行铃",
+      "locale": "en",
+      "translation": "Herdbells",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4170_hdbell",
+      "source": "行铃",
+      "locale": "ja",
+      "translation": "ハードベルズ",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4199_makiri",
+      "source": "松桐",
+      "locale": "en",
+      "translation": "Matsukiri",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4199_makiri",
+      "source": "松桐",
+      "locale": "ja",
+      "translation": "マツキリ",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4237_jcinta",
+      "source": "嘉辛塔",
+      "locale": "en",
+      "translation": "Jacinta",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4237_jcinta",
+      "source": "嘉辛塔",
+      "locale": "ja",
+      "translation": "ハシンタ",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4245_alga",
+      "source": "奥尔佳",
+      "locale": "en",
+      "translation": "Olga",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4245_alga",
+      "source": "奥尔佳",
+      "locale": "ja",
+      "translation": "オリガ",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4166_varkis",
+      "source": "摆渡人",
+      "locale": "en",
+      "translation": "Varkáris",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4166_varkis",
+      "source": "摆渡人",
+      "locale": "ja",
+      "translation": "ヴァルカリス",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4185_amoris",
+      "source": "祐天寺若麦",
+      "locale": "en",
+      "translation": "Yūtenji Nyamu",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4185_amoris",
+      "source": "祐天寺若麦",
+      "locale": "ja",
+      "translation": "祐天寺にゃむ",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_394_hadiya",
+      "source": "哈蒂娅",
+      "locale": "en",
+      "translation": "Hadiya",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_394_hadiya",
+      "source": "哈蒂娅",
+      "locale": "ja",
+      "translation": "ハディヤ",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_1049_catap2",
+      "source": "雷狼龙S空爆",
+      "locale": "en",
+      "translation": "Zinogre S Catapult",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_1049_catap2",
+      "source": "雷狼龙S空爆",
+      "locale": "ja",
+      "translation": "ジンオウSカタパルト",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4203_kichi",
+      "source": "吉星",
+      "locale": "en",
+      "translation": "Kichisei",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4203_kichi",
+      "source": "吉星",
+      "locale": "ja",
+      "translation": "キチセイ",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4213_skybx",
+      "source": "天空盒",
+      "locale": "en",
+      "translation": "Skybox",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4213_skybx",
+      "source": "天空盒",
+      "locale": "ja",
+      "translation": "スカイボックス",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4218_aigis",
+      "source": "埃癸斯",
+      "locale": "en",
+      "translation": "Aigis",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4218_aigis",
+      "source": "埃癸斯",
+      "locale": "ja",
+      "translation": "アイギス",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4031_liesel",
+      "source": "复奏",
+      "locale": "en",
+      "translation": "Ripresa",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4031_liesel",
+      "source": "复奏",
+      "locale": "ja",
+      "translation": "リプレーザ",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4236_tmslot",
+      "source": "时隙",
+      "locale": "en",
+      "translation": "Timeslot",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4236_tmslot",
+      "source": "时隙",
+      "locale": "ja",
+      "translation": "タイムスロット",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4196_reckpr",
+      "source": "录武官",
+      "locale": "en",
+      "translation": "Record Keeper",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4196_reckpr",
+      "source": "录武官",
+      "locale": "ja",
+      "translation": "レコードキーパー",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4224_turdus",
+      "source": "乌啾",
+      "locale": "en",
+      "translation": "Ukusik",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4224_turdus",
+      "source": "乌啾",
+      "locale": "ja",
+      "translation": "ウクシク",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4222_taraxa",
+      "source": "风絮",
+      "locale": "en",
+      "translation": "Taraxacum",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4222_taraxa",
+      "source": "风絮",
+      "locale": "ja",
+      "translation": "タラクサクム",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4207_branch",
+      "source": "折桠",
+      "locale": "en",
+      "translation": "Vetochki",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4207_branch",
+      "source": "折桠",
+      "locale": "ja",
+      "translation": "ヴェトチキ",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4225_tanya",
+      "source": "裂响",
+      "locale": "en",
+      "translation": "Crackborne",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4225_tanya",
+      "source": "裂响",
+      "locale": "ja",
+      "translation": "クラックボーン",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4169_caledo",
+      "source": "镜匠",
+      "locale": "en",
+      "translation": "Caleido",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4169_caledo",
+      "source": "镜匠",
+      "locale": "ja",
+      "translation": "カレイド",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4221_ju",
+      "source": "矩",
+      "locale": "en",
+      "translation": "Ju",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4221_ju",
+      "source": "矩",
+      "locale": "ja",
+      "translation": "ジュウ",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4211_snhunt",
+      "source": "雪猎",
+      "locale": "en",
+      "translation": "Snow Hunter",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4211_snhunt",
+      "source": "雪猎",
+      "locale": "ja",
+      "translation": "スノーハンター",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_393_toledo",
+      "source": "德·托莱多",
+      "locale": "en",
+      "translation": "de Toledo",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_393_toledo",
+      "source": "德·托莱多",
+      "locale": "ja",
+      "translation": "デ・トレド",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4184_dolris",
+      "source": "三角初华",
+      "locale": "en",
+      "translation": "Misumi Uika",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4184_dolris",
+      "source": "三角初华",
+      "locale": "ja",
+      "translation": "三角初華",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_1022_flwr2",
+      "source": "撷英调香师",
+      "locale": "en",
+      "translation": "Perfumer the Distilled",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_1022_flwr2",
+      "source": "撷英调香师",
+      "locale": "ja",
+      "translation": "撷英のパフューマー",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4223_botany",
+      "source": "伯塔尼",
+      "locale": "en",
+      "translation": "Botani",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4223_botany",
+      "source": "伯塔尼",
+      "locale": "ja",
+      "translation": "ボタニ",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4219_yukari",
+      "source": "岳羽由加莉",
+      "locale": "en",
+      "translation": "Yukari Takeba",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4219_yukari",
+      "source": "岳羽由加莉",
+      "locale": "ja",
+      "translation": "岳羽ゆかり",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4234_pedro",
+      "source": "佩德洛",
+      "locale": "en",
+      "translation": "Pedro",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4234_pedro",
+      "source": "佩德洛",
+      "locale": "ja",
+      "translation": "ペドロ",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4244_tocka",
+      "source": "冻河",
+      "locale": "en",
+      "translation": "Toska",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4244_tocka",
+      "source": "冻河",
+      "locale": "ja",
+      "translation": "トスカ",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4186_tmoris",
+      "source": "八幡海铃",
+      "locale": "en",
+      "translation": "Yahata Umiri",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4186_tmoris",
+      "source": "八幡海铃",
+      "locale": "ja",
+      "translation": "八幡海鈴",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4183_mortis",
+      "source": "若叶睦",
+      "locale": "en",
+      "translation": "Wakaba Mutsumi",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4183_mortis",
+      "source": "若叶睦",
+      "locale": "ja",
+      "translation": "若葉睦",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4232_hbound",
+      "source": "旅骨",
+      "locale": "en",
+      "translation": "Homebound",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4232_hbound",
+      "source": "旅骨",
+      "locale": "ja",
+      "translation": "ホームバウンド",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_1048_orchd2",
+      "source": "焰狐龙梓兰",
+      "locale": "en",
+      "translation": "Violet Mizutsune Orchid",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_1048_orchd2",
+      "source": "焰狐龙梓兰",
+      "locale": "ja",
+      "translation": "焔狐竜のオーキッド",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4228_closur",
+      "source": "可露希尔",
+      "locale": "en",
+      "translation": "Closure",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4228_closur",
+      "source": "可露希尔",
+      "locale": "ja",
+      "translation": "クロージャ",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_1045_svash2",
+      "source": "凛御银灰",
+      "locale": "en",
+      "translation": "SilverAsh the Reignfrost",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_1045_svash2",
+      "source": "凛御银灰",
+      "locale": "ja",
+      "translation": "凛御のシルバーアッシュ",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4229_aphris",
+      "source": "谬因",
+      "locale": "en",
+      "translation": "Aphrissa",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4229_aphris",
+      "source": "谬因",
+      "locale": "ja",
+      "translation": "アフリッサ",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_1046_sbell2",
+      "source": "圣聆初雪",
+      "locale": "en",
+      "translation": "Pramanix the Prerita",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_1046_sbell2",
+      "source": "圣聆初雪",
+      "locale": "ja",
+      "translation": "聖聆のプラマニクス",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4226_veen",
+      "source": "维伊",
+      "locale": "en",
+      "translation": "Viy",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4226_veen",
+      "source": "维伊",
+      "locale": "ja",
+      "translation": "ヴィイ",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4204_mantra",
+      "source": "真言",
+      "locale": "en",
+      "translation": "Mantra",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4204_mantra",
+      "source": "真言",
+      "locale": "ja",
+      "translation": "マントラ",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_1047_halo2",
+      "source": "溯光星源",
+      "locale": "en",
+      "translation": "Astgenne the Lightchaser",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_1047_halo2",
+      "source": "溯光星源",
+      "locale": "ja",
+      "translation": "溯光のアステジーニ",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4195_radian",
+      "source": "电弧",
+      "locale": "en",
+      "translation": "Raidian",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4195_radian",
+      "source": "电弧",
+      "locale": "ja",
+      "translation": "レイディアン",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4202_haruka",
+      "source": "遥",
+      "locale": "en",
+      "translation": "Haruka",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4202_haruka",
+      "source": "遥",
+      "locale": "ja",
+      "translation": "ハルカ",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4212_nasti",
+      "source": "娜斯提",
+      "locale": "en",
+      "translation": "Nasti",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4212_nasti",
+      "source": "娜斯提",
+      "locale": "ja",
+      "translation": "ナスティ",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4246_dminon",
+      "source": "国度",
+      "locale": "en",
+      "translation": "Territory",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4246_dminon",
+      "source": "国度",
+      "locale": "ja",
+      "translation": "テリトリア",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4217_makoto",
+      "source": "结城理",
+      "locale": "en",
+      "translation": "Makoto Yuki",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4217_makoto",
+      "source": "结城理",
+      "locale": "ja",
+      "translation": "結城理",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_2027_wang",
+      "source": "望",
+      "locale": "en",
+      "translation": "Wang",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_2027_wang",
+      "source": "望",
+      "locale": "ja",
+      "translation": "ワン",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_1015_aglna2",
+      "source": "予愿安洁莉娜",
+      "locale": "en",
+      "translation": "Angelina the Mellow Wish",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_1015_aglna2",
+      "source": "予愿安洁莉娜",
+      "locale": "ja",
+      "translation": "予願のアンジェリーナ",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4056_titi",
+      "source": "缇缇",
+      "locale": "en",
+      "translation": "Titi",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4056_titi",
+      "source": "缇缇",
+      "locale": "ja",
+      "translation": "ティティ",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_1052_kalts2",
+      "source": "凯尔希·思衡托",
+      "locale": "en",
+      "translation": "Kal'tsit·Esperanta",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_1052_kalts2",
+      "source": "凯尔希·思衡托",
+      "locale": "ja",
+      "translation": "ケルシー・エスペランタ",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4230_mcnist",
+      "source": "机械师",
+      "locale": "en",
+      "translation": "Mechanist",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4230_mcnist",
+      "source": "机械师",
+      "locale": "ja",
+      "translation": "メカニスト",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4235_thumpy",
+      "source": "珊比",
+      "locale": "en",
+      "translation": "Thumpy",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4235_thumpy",
+      "source": "珊比",
+      "locale": "ja",
+      "translation": "サンピー",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_1044_hsgma2",
+      "source": "斩业星熊",
+      "locale": "en",
+      "translation": "Hoshiguma the Breacher",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_1044_hsgma2",
+      "source": "斩业星熊",
+      "locale": "ja",
+      "translation": "斬業のホシグマ",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4037_demetr",
+      "source": "贝洛内",
+      "locale": "en",
+      "translation": "Bellone",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4037_demetr",
+      "source": "贝洛内",
+      "locale": "ja",
+      "translation": "ベッローネ",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4182_oblvns",
+      "source": "丰川祥子",
+      "locale": "en",
+      "translation": "Togawa Sakiko",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4182_oblvns",
+      "source": "丰川祥子",
+      "locale": "ja",
+      "translation": "豊川祥子",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_1051_headb2",
+      "source": "怒潮凛冬",
+      "locale": "en",
+      "translation": "Zima the Raging Tide",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_1051_headb2",
+      "source": "怒潮凛冬",
+      "locale": "ja",
+      "translation": "怒潮のズィマー",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_1050_chen3",
+      "source": "赤刃明霄陈",
+      "locale": "en",
+      "translation": "Ch'en the Dawnstreak",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_1050_chen3",
+      "source": "赤刃明霄陈",
+      "locale": "ja",
+      "translation": "赤刃明霄のチェン",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_1043_leizi2",
+      "source": "司霆惊蛰",
+      "locale": "en",
+      "translation": "Leizi the Thunderbringer",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_1043_leizi2",
+      "source": "司霆惊蛰",
+      "locale": "ja",
+      "translation": "司霆のレイズ",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4247_oxi",
+      "source": "塔露拉",
+      "locale": "en",
+      "translation": "Talulah",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4247_oxi",
+      "source": "塔露拉",
+      "locale": "ja",
+      "translation": "タルラ",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4231_clemnt",
+      "source": "克莱门莎",
+      "locale": "en",
+      "translation": "Clementia",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4231_clemnt",
+      "source": "克莱门莎",
+      "locale": "ja",
+      "translation": "クレメンティア",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4214_cairn",
+      "source": "响石",
+      "locale": "en",
+      "translation": "Cairn",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "id": "char_4214_cairn",
+      "source": "响石",
+      "locale": "ja",
+      "translation": "ケアン",
+      "basis": "CN appellation / established character name / editorial transcription; not an announced localized operator title"
+    },
+    {
+      "source": "米拉娜",
+      "locale": "en",
+      "translation": "Milana",
+      "basis": "Provisional site transcription or translation; released official localization not confirmed."
+    },
+    {
+      "source": "图林",
+      "locale": "en",
+      "translation": "Tulin",
+      "basis": "Provisional site transcription or translation; released official localization not confirmed."
+    },
+    {
+      "source": "阿洛伊泽",
+      "locale": "en",
+      "translation": "Aloyze",
+      "basis": "Provisional site transcription or translation; released official localization not confirmed."
+    },
+    {
+      "source": "斯乔帕",
+      "locale": "en",
+      "translation": "Styopa",
+      "basis": "Provisional site transcription or translation; released official localization not confirmed."
+    },
+    {
+      "source": "别乔克",
+      "locale": "en",
+      "translation": "Byochok",
+      "basis": "Provisional site transcription or translation; released official localization not confirmed."
+    },
+    {
+      "source": "阿勒黛",
+      "locale": "en",
+      "translation": "Aledae",
+      "basis": "Provisional site transcription or translation; released official localization not confirmed."
+    },
+    {
+      "source": "萨卢斯",
+      "locale": "en",
+      "translation": "Salus",
+      "basis": "Provisional site transcription or translation; released official localization not confirmed."
+    },
+    {
+      "source": "米拉娜",
+      "locale": "ja",
+      "translation": "ミラナ",
+      "basis": "Provisional site transcription or translation; released official localization not confirmed."
+    },
+    {
+      "source": "图林",
+      "locale": "ja",
+      "translation": "トゥーリン",
+      "basis": "Provisional site transcription or translation; released official localization not confirmed."
+    },
+    {
+      "source": "阿洛伊泽",
+      "locale": "ja",
+      "translation": "アロイゼ",
+      "basis": "Provisional site transcription or translation; released official localization not confirmed."
+    },
+    {
+      "source": "斯乔帕",
+      "locale": "ja",
+      "translation": "スチョーパ",
+      "basis": "Provisional site transcription or translation; released official localization not confirmed."
+    },
+    {
+      "source": "别乔克",
+      "locale": "ja",
+      "translation": "ビョチョク",
+      "basis": "Provisional site transcription or translation; released official localization not confirmed."
+    },
+    {
+      "source": "阿勒黛",
+      "locale": "ja",
+      "translation": "アレダイ",
+      "basis": "Provisional site transcription or translation; released official localization not confirmed."
+    },
+    {
+      "source": "萨卢斯",
+      "locale": "ja",
+      "translation": "サルース",
+      "basis": "Provisional site transcription or translation; released official localization not confirmed."
+    },
+    {
+      "id": "act52side",
+      "source": "昨日海",
+      "locale": "en",
+      "translation": "Yesterday's Sea",
+      "basis": "Editorial event-title translation from CN; no released EN/JP localization confirmed as of 2026-11-12"
+    },
+    {
+      "id": "act52side",
+      "source": "昨日海",
+      "locale": "ja",
+      "translation": "昨日の海",
+      "basis": "Editorial event-title translation from CN; no released EN/JP localization confirmed as of 2026-11-12"
+    }
+  ]
+}

@@ -1,0 +1,979 @@
+{
+  "gameArchiveTerms": [
+    {
+      "source": "未知",
+      "locale": "en",
+      "translation": "Unknown",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "未公开",
+      "locale": "en",
+      "translation": "Undisclosed",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "札拉克",
+      "locale": "en",
+      "translation": "Zalak",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "东国",
+      "locale": "en",
+      "translation": "Higashi",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "鬼",
+      "locale": "en",
+      "translation": "Oni",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "萨弗拉",
+      "locale": "en",
+      "translation": "Savra",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "杜林",
+      "locale": "en",
+      "translation": "Durin",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "不明",
+      "locale": "en",
+      "translation": "Unknown",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "卡西米尔",
+      "locale": "en",
+      "translation": "Kazimierz",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "库兰塔",
+      "locale": "en",
+      "translation": "Kuranta",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "瓦伊凡",
+      "locale": "en",
+      "translation": "Vouivre",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "拉特兰",
+      "locale": "en",
+      "translation": "Laterano",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "黎博利",
+      "locale": "en",
+      "translation": "Liberi",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "维多利亚",
+      "locale": "en",
+      "translation": "Victoria",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "菲林",
+      "locale": "en",
+      "translation": "Feline",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "雷姆必拓",
+      "locale": "en",
+      "translation": "Rim Billiton",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "卡特斯",
+      "locale": "en",
+      "translation": "Cautus",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "莱塔尼亚",
+      "locale": "en",
+      "translation": "Leithanien",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "佩洛",
+      "locale": "en",
+      "translation": "Perro",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "玻利瓦尔",
+      "locale": "en",
+      "translation": "Bolívar",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "萨尔贡",
+      "locale": "en",
+      "translation": "Sargon",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "瑞柏巴",
+      "locale": "en",
+      "translation": "Reproba",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "萨科塔",
+      "locale": "en",
+      "translation": "Sankta",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "萨卡兹",
+      "locale": "en",
+      "translation": "Sarkaz",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "谢拉格",
+      "locale": "en",
+      "translation": "Kjerag",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "沃尔珀",
+      "locale": "en",
+      "translation": "Vulpo",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "哥伦比亚",
+      "locale": "en",
+      "translation": "Columbia",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "萨米",
+      "locale": "en",
+      "translation": "Sami",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "埃拉菲亚",
+      "locale": "en",
+      "translation": "Elafia",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "伊比利亚",
+      "locale": "en",
+      "translation": "Iberia",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "斐迪亚",
+      "locale": "en",
+      "translation": "Phidia",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "阿戈尔",
+      "locale": "en",
+      "translation": "Ægir",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "阿纳缇",
+      "locale": "en",
+      "translation": "Anaty",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "依特拉",
+      "locale": "en",
+      "translation": "Itra",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "卡兹戴尔",
+      "locale": "en",
+      "translation": "Kazdel",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "米诺斯",
+      "locale": "en",
+      "translation": "Minos",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "未知（疑似黎博利）",
+      "locale": "en",
+      "translation": "Unknown (Suspected Liberi)",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "阿达克利斯",
+      "locale": "en",
+      "translation": "Archosauria",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "鲁珀",
+      "locale": "en",
+      "translation": "Lupo",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "丰蹄",
+      "locale": "en",
+      "translation": "Forte",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "炎",
+      "locale": "en",
+      "translation": "Yan",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "龙门",
+      "locale": "en",
+      "translation": "Lungmen",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "乌萨斯",
+      "locale": "en",
+      "translation": "Ursus",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "叙拉古",
+      "locale": "en",
+      "translation": "Siracusa",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "匹特拉姆",
+      "locale": "en",
+      "translation": "Petram",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "塞拉托",
+      "locale": "en",
+      "translation": "Cerato",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "卡普里尼",
+      "locale": "en",
+      "translation": "Caprinae",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "汐斯塔",
+      "locale": "en",
+      "translation": "Siesta",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "德拉克",
+      "locale": "en",
+      "translation": "Draco",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "东方大陆（自称）",
+      "locale": "en",
+      "translation": "Eastern Continent (Self-declared)",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "半身人（自称）",
+      "locale": "en",
+      "translation": "Half-foot (Self-declared)",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "北方大陆（自称）",
+      "locale": "en",
+      "translation": "Northern Continent (Self-declared)",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "长身人（自称）",
+      "locale": "en",
+      "translation": "Tall-man (Self-declared)",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "安努拉",
+      "locale": "en",
+      "translation": "Anura",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "阿纳萨",
+      "locale": "en",
+      "translation": "Anasa",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "卡特斯/奇美拉",
+      "locale": "en",
+      "translation": "Cautus/Chimera",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "麒麟",
+      "locale": "en",
+      "translation": "Kylin",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "皮洛萨",
+      "locale": "en",
+      "translation": "Pilosa",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "汐斯塔（独立城邦）",
+      "locale": "en",
+      "translation": "Siesta (Independent City)",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "伊兹甘达（自称）",
+      "locale": "en",
+      "translation": "Izganda (Self-declared)",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "矮人（自称）",
+      "locale": "en",
+      "translation": "Dwarf (Self-declared)",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "阿戈尔地区",
+      "locale": "en",
+      "translation": "Ægir Region",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "因经纪公司要求不公开",
+      "locale": "en",
+      "translation": "Unknown as requested by management agency",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "曼提柯",
+      "locale": "en",
+      "translation": "Manticore",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "龙",
+      "locale": "en",
+      "translation": "Lung",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "阿斯兰",
+      "locale": "en",
+      "translation": "Aslan",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "精灵",
+      "locale": "en",
+      "translation": "Elf",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "罗德岛",
+      "locale": "en",
+      "translation": "Rhodes Island",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "未知",
+      "locale": "ja",
+      "translation": "不明",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "未公开",
+      "locale": "ja",
+      "translation": "非公開",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "札拉克",
+      "locale": "ja",
+      "translation": "ザラック",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "东国",
+      "locale": "ja",
+      "translation": "極東",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "鬼",
+      "locale": "ja",
+      "translation": "鬼",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "萨弗拉",
+      "locale": "ja",
+      "translation": "サヴラ",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "杜林",
+      "locale": "ja",
+      "translation": "ドゥリン",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "不明",
+      "locale": "ja",
+      "translation": "不明",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "卡西米尔",
+      "locale": "ja",
+      "translation": "カジミエーシュ",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "库兰塔",
+      "locale": "ja",
+      "translation": "クランタ",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "瓦伊凡",
+      "locale": "ja",
+      "translation": "ヴイーヴル",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "拉特兰",
+      "locale": "ja",
+      "translation": "ラテラーノ",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "黎博利",
+      "locale": "ja",
+      "translation": "リーベリ",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "维多利亚",
+      "locale": "ja",
+      "translation": "ヴィクトリア",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "菲林",
+      "locale": "ja",
+      "translation": "フェリーン",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "雷姆必拓",
+      "locale": "ja",
+      "translation": "レム・ビリトン",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "卡特斯",
+      "locale": "ja",
+      "translation": "コータス",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "莱塔尼亚",
+      "locale": "ja",
+      "translation": "リターニア",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "佩洛",
+      "locale": "ja",
+      "translation": "ペッロー",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "玻利瓦尔",
+      "locale": "ja",
+      "translation": "ボリバル",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "萨尔贡",
+      "locale": "ja",
+      "translation": "サルゴン",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "瑞柏巴",
+      "locale": "ja",
+      "translation": "レプロバ",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "萨科塔",
+      "locale": "ja",
+      "translation": "サンクタ",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "萨卡兹",
+      "locale": "ja",
+      "translation": "サルカズ",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "谢拉格",
+      "locale": "ja",
+      "translation": "イェラグ",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "沃尔珀",
+      "locale": "ja",
+      "translation": "ヴァルポ",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "哥伦比亚",
+      "locale": "ja",
+      "translation": "クルビア",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "萨米",
+      "locale": "ja",
+      "translation": "サーミ",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "埃拉菲亚",
+      "locale": "ja",
+      "translation": "エラフィア",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "伊比利亚",
+      "locale": "ja",
+      "translation": "イベリア",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "斐迪亚",
+      "locale": "ja",
+      "translation": "フィディア",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "阿戈尔",
+      "locale": "ja",
+      "translation": "エーギル",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "阿纳缇",
+      "locale": "ja",
+      "translation": "アナティ",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "依特拉",
+      "locale": "ja",
+      "translation": "イトラ",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "卡兹戴尔",
+      "locale": "ja",
+      "translation": "カズデル",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "米诺斯",
+      "locale": "ja",
+      "translation": "ミノス",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "未知（疑似黎博利）",
+      "locale": "ja",
+      "translation": "不明（疑似リーベリ）",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "阿达克利斯",
+      "locale": "ja",
+      "translation": "アダクリス",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "鲁珀",
+      "locale": "ja",
+      "translation": "ループス",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "丰蹄",
+      "locale": "ja",
+      "translation": "フォルテ",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "炎",
+      "locale": "ja",
+      "translation": "炎国",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "龙门",
+      "locale": "ja",
+      "translation": "龍門",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "乌萨斯",
+      "locale": "ja",
+      "translation": "ウルサス",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "叙拉古",
+      "locale": "ja",
+      "translation": "シラクーザ",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "匹特拉姆",
+      "locale": "ja",
+      "translation": "ペートラム",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "塞拉托",
+      "locale": "ja",
+      "translation": "セラト",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "卡普里尼",
+      "locale": "ja",
+      "translation": "キャプリニー",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "汐斯塔",
+      "locale": "ja",
+      "translation": "シエスタ",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "德拉克",
+      "locale": "ja",
+      "translation": "ドラコ",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "东方大陆（自称）",
+      "locale": "ja",
+      "translation": "東方大陸（自称）",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "半身人（自称）",
+      "locale": "ja",
+      "translation": "ハーフフット（自称）",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "北方大陆（自称）",
+      "locale": "ja",
+      "translation": "北方大陸（自称）",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "长身人（自称）",
+      "locale": "ja",
+      "translation": "トールマン（自称）",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "安努拉",
+      "locale": "ja",
+      "translation": "アヌーラ",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "阿纳萨",
+      "locale": "ja",
+      "translation": "アナサ",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "卡特斯/奇美拉",
+      "locale": "ja",
+      "translation": "コータス/キメラ",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "麒麟",
+      "locale": "ja",
+      "translation": "麒麟",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "皮洛萨",
+      "locale": "ja",
+      "translation": "ピロサ",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "汐斯塔（独立城邦）",
+      "locale": "ja",
+      "translation": "シエスタ（独立都市）",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "伊兹甘达（自称）",
+      "locale": "ja",
+      "translation": "イズガンダ（自称）",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "矮人（自称）",
+      "locale": "ja",
+      "translation": "ドワーフ（自称）",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "阿戈尔地区",
+      "locale": "ja",
+      "translation": "エーギル",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "因经纪公司要求不公开",
+      "locale": "ja",
+      "translation": "所属事務所の要求により非公開",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "曼提柯",
+      "locale": "ja",
+      "translation": "マンティコア",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "龙",
+      "locale": "ja",
+      "translation": "龍",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "阿斯兰",
+      "locale": "ja",
+      "translation": "アスラン",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "精灵",
+      "locale": "ja",
+      "translation": "エルフ",
+      "basis": "matching operator ID in localized game basic archive"
+    },
+    {
+      "source": "罗德岛",
+      "locale": "ja",
+      "translation": "ロドス・アイランド",
+      "basis": "matching operator ID in localized game basic archive"
+    }
+  ],
+  "editorialGeographicTerms": [
+    "未录入",
+    "档案未记载",
+    "佩洛兽亲（据称）",
+    "泰拉东部某处灌木林",
+    "泰拉",
+    "泰拉大陆",
+    "罗德岛",
+    "整合运动",
+    "深池",
+    "巴别塔",
+    "阿撒兹勒",
+    "深海猎人",
+    "莱茵生命",
+    "企鹅物流",
+    "黑钢国际",
+    "喀兰贸易",
+    "喀兰宗教",
+    "希瓦艾什家族 / 喀兰贸易",
+    "布朗陶家族",
+    "佩尔罗契家族",
+    "谢拉格议会",
+    "卡兹戴尔军事委员会",
+    "伦蒂尼姆市民自救军",
+    "伦蒂尼姆议会",
+    "镇岳军",
+    "西西里家族",
+    "贝洛内家族",
+    "萨卢佐家族",
+    "图里卡姆",
+    "喀兰圣山",
+    "喀兰峰",
+    "卡兰圣山",
+    "银心湖",
+    "伦蒂尼姆",
+    "小丘郡",
+    "卡拉顿",
+    "博森德尔",
+    "纳斯尔纱",
+    "圣骏堡",
+    "切尔诺伯格",
+    "崔林特尔梅",
+    "维杜尼亚",
+    "维谢海姆",
+    "乌提卡",
+    "卡瓦莱利亚基",
+    "大骑士领",
+    "滴水村",
+    "茨沃涅克",
+    "多索雷斯",
+    "大辛德拉卡托",
+    "拉乌尼达",
+    "百灶",
+    "玉门",
+    "尚蜀",
+    "勾吴城",
+    "锁川",
+    "御机",
+    "新安芸市",
+    "露华村",
+    "拉特兰城",
+    "安布罗修修道院",
+    "雷亚-伊比利亚",
+    "佩尔多尼",
+    "格兰法洛",
+    "盐风城",
+    "雅隆",
+    "弥利亚留姆",
+    "赫库兰尼姆",
+    "际崖城",
+    "铁腕城",
+    "钢铁萝卜城",
+    "咧嘴谷",
+    "亡寒部族",
+    "黄金城",
+    "黄金之城",
+    "阿卡胡拉",
+    "蒙特卢佩",
+    "沃尔西尼",
+    "新沃尔西尼",
+    "雅赛努斯",
+    "特里蒙",
+    "特雷蒙",
+    "泽尔格勒",
+    "沁礁黑市",
+    "博士",
+    "恩希欧迪斯·希瓦艾什",
+    "恩雅·希瓦艾什",
+    "诺希斯·埃德怀斯",
+    "菈塔托丝·布朗陶",
+    "阿克托斯·佩尔罗契",
+    "耶拉冈德",
+    "伊万杰利斯塔十一世",
+    "特雷西斯",
+    "特蕾西娅",
+    "爱布拉娜",
+    "克洛维希娅",
+    "维娜·维多利亚",
+    "威灵顿公爵",
+    "高多汀公爵",
+    "温德米尔公爵",
+    "开斯特公爵",
+    "卡文迪许公爵",
+    "诺曼底公爵",
+    "斯塔福德公爵",
+    "法夫公爵",
+    "亚伯科恩公爵",
+    "阿什沃思公爵",
+    "鲍里斯侯爵",
+    "阿利斯泰尔二世",
+    "伊奥莱塔·罗素",
+    "魏彦吾",
+    "左宣辽",
+    "西西里夫人",
+    "贝纳尔多·贝洛内",
+    "阿尔贝托·萨卢佐",
+    "卡门·伊·伊比利亚",
+    "卡门",
+    "达里奥",
+    "科西切",
+    "伊斯拉姆·维特",
+    "费奥多尔·弗拉基米罗维奇",
+    "弗拉基米尔·伊凡诺维奇",
+    "米拉娜 / 伊凡·图林",
+    "希尔德加德·赫琳玛特",
+    "莉泽洛特·伊维格娜德",
+    "赫尔昏佐伦",
+    "格特鲁德·斯特罗洛",
+    "薇尔丽芙",
+    "赫拉提娅",
+    "坎黛拉·桑切斯",
+    "泷居应",
+    "芬奇·画布",
+    "克罗绮·砖石",
+    "卡奇·叙光",
+    "耶奇·地心",
+    "黛柯绮·银币",
+    "布莱克",
+    "杰克逊",
+    "西尔弗",
+    "马克·麦克斯",
+    "万王之王（沙阿）",
+    "帕夏与王酋",
+    "辛嘉斯王朝",
+    "商业联合会",
+    "监正会",
+    "国民院",
+    "真正玻利瓦尔人",
+    "联合政府最高议会",
+    "北朝光严一派",
+    "南朝光元一派",
+    "十二英雄",
+    "各部族雪祀",
+    "城邦祭司与公民",
+    "城邦联合议事会",
+    "自治州与矿镇总工会",
+    "雷姆必拓矿业联合"
+  ],
+  "note": "Common terminology is manually curated. Geographic spellings without aligned localized game evidence are editorial renderings, not claims of official localization."
+}

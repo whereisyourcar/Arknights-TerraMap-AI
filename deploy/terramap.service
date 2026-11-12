@@ -10,6 +10,7 @@ WorkingDirectory=/opt/terramap
 Environment=NODE_ENV=production
 Environment=PORT=4185
 Environment=VISITOR_DATA_FILE=/var/lib/terramap/visitors.json
+Environment=GUESTBOOK_DATA_FILE=/var/lib/terramap/guestbook.json
 ExecStart=/usr/bin/node /opt/terramap/server.mjs
 Restart=on-failure
 RestartSec=3

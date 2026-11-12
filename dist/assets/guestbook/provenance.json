@@ -1,0 +1,8 @@
+{
+  "created": "2026-11-11",
+  "method": "Original vector shapes authored for this site; no game image pixels, sprite sheets, or third-party fan art were copied.",
+  "characters": ["阿米娅", "凯尔希", "陈", "德克萨斯", "能天使", "斯卡蒂", "银灰", "史尔特尔", "艾雅法拉", "W"],
+  "selection": "A curated set of familiar characters, not an official popularity ranking.",
+  "rights": "Unofficial fan illustrations. The underlying characters and associated rights belong to their respective owners. Original drawing does not imply a license from the game rights holder or a guarantee of no infringement.",
+  "generator": "scripts/build-guestbook-avatars.py"
+}

@@ -1,0 +1,62 @@
+{
+  "act54side": {
+    "synopsis": [
+      "结城理等人以转学生身份进入圣马尔索综合学校，通过社团活动和校外志愿工作结识学生与殡仪堂执事。",
+      "寻找失散伙伴的旅程，与当地人关于葬礼、记忆和告别的生活交织在一起。"
+    ],
+    "characters": [
+      "结城理",
+      "埃癸斯",
+      "岳羽由加莉",
+      "虎狼丸"
+    ],
+    "sources": [
+      {
+        "title": "官方 · 活动开放公告",
+        "url": "https://ak.hypergryph.com/news/9681"
+      },
+      {
+        "title": "游戏原文 · 开场与舞台",
+        "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act54side/level_act54side_st01.txt"
+      },
+      {
+        "title": "游戏原文 · 主要人物与行动",
+        "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act54side/level_act54side_01_beg.txt"
+      },
+      {
+        "title": "游戏档案 · 干员履历",
+        "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/handbook_info_table.json"
+      }
+    ]
+  },
+  "act52side": {
+    "synopsis": [
+      "港都打捞工程的水文测绘负责人旅骨是一名阿戈尔岛民，他在技术合作之外，也必须面对伊比利亚社会对岛民的成见。",
+      "岛民、审判庭与普通工人的不同诉求，使重建城市也成为重新理解彼此的过程。"
+    ],
+    "characters": [
+      "克莱门莎",
+      "旅骨",
+      "德·托莱多",
+      "卡门·伊·伊比利亚"
+    ],
+    "sources": [
+      {
+        "title": "官方 · 活动开放公告",
+        "url": "https://ak.hypergryph.com/news/5101"
+      },
+      {
+        "title": "游戏原文 · 开场与舞台",
+        "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act52side/level_act52side_st01.txt"
+      },
+      {
+        "title": "游戏原文 · 主要人物与行动",
+        "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act52side/level_act52side_01_beg.txt"
+      },
+      {
+        "title": "游戏档案 · 干员履历",
+        "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/handbook_info_table.json"
+      }
+    ]
+  }
+}

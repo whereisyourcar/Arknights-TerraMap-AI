@@ -2846,21 +2846,21 @@
     "focusMethod": "原图透明边界内的上半身；仅用于CSS视口裁切，不修改原图"
   },
   "九": {
-    "path": "assets/npc-九.png",
-    "url": "https://raw.githubusercontent.com/fexli/ArknightsResource/main/avgs/npcs/avg_npc_043_1_2.png",
+    "path": "assets/npc-nine-visible.png",
+    "url": "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avg/characters/avg_npc_043_1.png",
     "source": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/obt/main/level_st_09-04.txt",
-    "checked": "2026-09-14",
+    "checked": "2026-11-12",
     "rights": "明日方舟游戏剧情立绘，第三方公开镜像，权利归原权利人",
-    "identityEvidence": "[PlaySound(key=\"$d_gen_walk_n\",volume=1)]\n[Character(name=\"avg_npc_043_1#2\",fadetime=1,block=true)]\n[delay(time=1)]\n[name=\"九\"]  ……我原以为这会更困难。",
+    "identityEvidence": "[PlaySound(key=\"$d_gen_walk_n\",volume=1)]\n[Character(name=\"avg_npc_043_1#2\",fadetime=1,block=true)]\n[delay(time=1)]\n[name=\"九\"]  ……我原以为这会更困难。；同组 avg_npc_043_1.png 为该人物公开露脸的原始立绘，替换此前黑影姿态。",
     "dimensions": [
       1024,
       1024
     ],
     "focusBox": [
-      76,
-      44,
-      711,
-      431
+      460,
+      30,
+      320,
+      320
     ],
     "alphaBounds": [
       76,
@@ -2868,7 +2868,7 @@
       787,
       1002
     ],
-    "focusMethod": "原图透明边界内的上半身；仅用于CSS视口裁切，不修改原图"
+    "focusMethod": "已逐图核对同一043立绘组的公开露脸版本；头像取头肩视口，保留原文件像素。"
   },
   "特蕾西娅": {
     "path": "assets/npc-特蕾西娅.png",
@@ -7009,13 +7009,14 @@
       380
     ],
     "focusBox": [
+      130,
       0,
-      0,
-      322,
-      380
+      100,
+      120
     ],
     "identityEvidence": "“伊凡·图林” → Avg_avg_npc_2225_1-1$1.png",
-    "rights": "明日方舟原始剧情素材；PRTS仅作为图像托管与文件名索引"
+    "rights": "明日方舟原始剧情素材；PRTS仅作为图像托管与文件名索引",
+    "focusMethod": "按已查看原始立绘的头部与肩部设定SVG视口；不修改原始图像。"
   },
   "斯韦特兰纳": {
     "path": "assets/npc-斯韦特兰纳.png",
@@ -7057,13 +7058,14 @@
       380
     ],
     "focusBox": [
+      130,
       0,
-      0,
-      322,
-      380
+      100,
+      120
     ],
     "identityEvidence": "act55side_st04：米拉娜发言前的charslot为avg_npc_2225，与图林相同立绘。",
-    "rights": "明日方舟原始剧情素材；PRTS仅作为图像托管与文件名索引"
+    "rights": "明日方舟原始剧情素材；PRTS仅作为图像托管与文件名索引",
+    "focusMethod": "按已查看原始立绘的头部与肩部设定SVG视口；不修改原始图像。"
   },
   "塔露拉": {
     "path": "assets/operator-char_4247_oxi.png",

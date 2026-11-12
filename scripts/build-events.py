@@ -4,7 +4,10 @@ root=pathlib.Path(__file__).resolve().parent.parent
 read=lambda p:json.loads(pathlib.Path(p).read_text())
 snapshot=read(root/'material/event-source-snapshot.json')
 reviews={v['id']:v for v in snapshot['reviews']};retros=snapshot['retroActList'];index=read(root/'material/event-line-index.json')
-cutoff=int(datetime.datetime(2026,9,19,23,0,tzinfo=datetime.timezone(datetime.timedelta(hours=8))).timestamp())
+# A refresh is an explicit, reproducible source audit, never merely today's clock.
+cutoff=snapshot['cutoff'];checked=snapshot['checked']
+refresh=read(root/'material/event-refresh-2026-11-12-audit.json')
+announcements={v['eventId']:v for v in refresh['announcements']}
 base='https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/'
 sources=[{'title':'官方 · 曲谱系统内容前瞻','url':'https://www.bilibili.com/opus/1052289926969688064'},{'title':'BWIKI · 曲谱索引','url':index['source']},{'title':'游戏回顾表（公开镜像）','url':base+'story_review_table.json'},{'title':'游戏常驻表（公开镜像）','url':base+'retro_table.json'}]
 # Editorial destinations are separate from the game's story-line membership.
@@ -23,7 +26,7 @@ notes={
 overrides={'骑兵与猎人':('victoria',['abyssal','aegir']),'火蓝之心':('siesta',[]),'火山旅梦':('siesta',[]),'密林悍将归来':('sargon',[]),'多索雷斯假日':('bolivar',['yan']),'理想城：长夏狂欢季':('durin',['sargon']),'太阳甩在身后':('sargon',[]),'墟':('higashi',[]),'直到大地变成一颗酸橙':('rim',[]),'喧闹法则':('penguin',['yan']),'不义之财':('blacksteel',['columbia']),'红丝绒':('victoria',[]),'雅赛努斯复仇记':('minos',[]),'阴云火花':('victoria',[]),'眠于树影之中':('sami',[]),'去咧嘴谷':('rim',[]),'熔炉“还魂”记':('kazdel',[]),'源石尘行动':('sargon',['rhodes']),'水晶箭行动':('bolivar',[]),'无忧梦呓':('victoria',[])}
 related={'生于黑夜':['kazdel'],'巴别塔':['kazdel'],'遗尘漫步':['sargon','ursus','victoria'],'叙拉古人':['penguin'],'覆潮之下':['iberia','abyssal'],'愚人号':['iberia','abyssal'],'吾导先路':[]}
 
-# Independent source audit, 2026-09-19. Story region is not inferred solely from its series.
+# Original geographic audit, 2026-09-19; availability refreshed separately. Story region is not inferred solely from its series.
 audited={'遗尘漫步': {'summary': '沿着凯尔希跨越萨尔贡、乌萨斯和维多利亚的往事，回望不同时代的冲突与抉择。', 'urls': ['https://wiki.biligame.com/arknights/遗尘漫步']}, '追迹日落以西': {'related': ['victoria'], 'summary': '战后的伦蒂尼姆迎来新的抉择，维娜与格拉斯哥帮重新面对故乡及其未来。', 'script': 'activities/act37side/level_act37side_st01'}, '红丝绒': {'primary': 'columbia', 'related': ['victoria'], 'summary': '蓝卡坞的电影拍摄与猩红剧团的旧事交织，卢西恩走向舞台背后的复仇与真相。', 'script': 'activities/act43side/level_act43side_st01', 'urls': ['https://wiki.biligame.com/arknights/蒂比']}, '雅赛努斯复仇记': {'related': ['sargon'], 'summary': '萨尔贡使节抵达米诺斯城邦雅赛努斯，文物归还与一出戏剧触动战争留下的记忆。', 'script': 'activities/act48side/level_act48side_st01'}, '眠于树影之中': {'related': ['ursus', 'columbia', 'rhine'], 'summary': '麦哲伦从北方科考线走入萨米，在提丰与当地人的引领下接近森林和冰原的秘密。', 'script': 'activities/act15mini/level_act15mini_st02', 'urls': ['https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act15mini/level_act15mini_st01.txt']}, '覆潮之下': {'primary': 'iberia', 'related': ['aegir', 'abyssal'], 'urls': ['https://wiki.biligame.com/arknights/覆潮之下']}, '愚人号': {'primary': 'iberia', 'related': ['aegir', 'abyssal'], 'urls': ['https://wiki.biligame.com/arknights/愚人号']}, '出苍白海': {'primary': 'iberia', 'related': ['aegir'], 'summary': '伊比利亚盐漠中的居民与海盗踏上旅程，重新面对黄金时代的遗产与被禁忌的大海。', 'script': 'activities/act39side/level_act39side_st01', 'urls': ['https://wiki.biligame.com/arknights/出苍白海']}, '熔炉“还魂”记': {'summary': '卡兹戴尔的魂灵熔炉发生异动，妮芙与伙伴寻找意外离开熔炉的先祖魂灵。', 'script': 'activities/act17mini/level_act17mini_st01'}, '人们，我们': {'summary': '圣骏堡的学生与帝国秩序发生冲突，人们在共同的处境中寻找彼此的声音。', 'script': 'activities/act51side/level_act51side_st01'}, '丛林症结': {'summary': '从种植园里的相遇开始，吉莉安与洛伦茨被卷入玻利瓦尔的权力与生存困局。', 'script': 'activities/act21mini/level_act21mini_st01'}, '墟': {'summary': '东的地方社会与旧日遗迹成为新的舞台，人物在传承与变局之间作出选择。', 'script': 'activities/act44side/level_act44side_st01'}, '水晶箭行动': {'script': 'activities/act32side/level_act32side_st01'}, '源石尘行动': {'script': 'activities/act17d0/level_act17d0_01_beg'}, '无忧梦呓': {'script': 'activities/act45side/level_act45side_st01'}, '直到大地变成一颗酸橙': {'script': 'activities/act53side/level_act53side_st01'}}
 for title,fix in audited.items():
  if 'summary' in fix:notes[title]=fix['summary']
@@ -31,8 +34,17 @@ for title,fix in audited.items():
   overrides[title]=(fix['primary'],fix.get('related',[]))
  elif 'related' in fix:related[title]=list(dict.fromkeys(related.get(title,[])+fix['related']))
 
+# The source index has not established an official score for these new stories.
+# Keep their editorial destinations distinct from official musical-line membership.
+notes.update({
+ '月行水上':'结城理与同伴意外来到拉特兰，在校园生活和志愿实践中认识这座圣城。',
+ '昨日海':'伊比利亚与阿戈尔共同打捞沉没的港都，克莱门莎与当地居民面对黄金时代遗留的裂痕。',
+ '时间啊，向前！':'圣骏堡政变后，乌萨斯的皇权、军队与民众发生激烈冲突。'
+})
+overrides.update({'月行水上':('laterano',[]),'昨日海':('iberia',['aegir'])})
+linegroups['SUP_ACTIVITY']=('cross',[])
 lines=[dict(id=l['id'],title=l['title'],events=l['events'],official=True) for l in index['lines']]
-lines += [{'id':'SUP','title':'补充故事集','events':['丛林症结'],'official':False},{'id':'COLLAB','title':'可回顾的联动故事','events':['源石尘行动','水晶箭行动','无忧梦呓'],'official':False}]
+lines += [{'id':'SUP','title':'补充故事集','events':['丛林症结'],'official':False},{'id':'COLLAB','title':'可回顾的联动故事','events':['源石尘行动','水晶箭行动','无忧梦呓','月行水上'],'official':False},{'id':'SUP_ACTIVITY','title':'补充活动目录','events':['昨日海'],'official':False}]
 byname={v['name']:v for v in reviews.values() if v['entryType'] in ['ACTIVITY','MINI_ACTIVITY']}
 events=[]
 for l in lines:
@@ -47,10 +59,25 @@ for event in events:
  if fix.get('script'):urls.append('https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/'+fix['script']+'.txt')
  known={s['url'] for s in event['sources']}
  event['sources'] += [dict(title='地理与主题复核来源',url=u) for u in urls if u not in known]
+for event in events:
+ notice=announcements.get(event['id'])
+ if notice:event['sources'].append(dict(title='官方 · 活动开放公告',url=notice['url']))
+ event['reviewAvailable']=True
+ event['availability']='review'
+
+# Official activity windows take precedence over review-table preload times.
+activeEvents=[]
+for eid,notice in announcements.items():
+ r=reviews[eid]
+ if not (notice['start']<=cutoff<=notice['end'] and r['startShowTime']>cutoff):continue
+ assert eid=='act55side', 'New current activity needs an editorial/source audit'
+ activeEvents.append(dict(id=eid,title=r['name'],primary='ursus',related=['reunion'],line='CURRENT',lineTitle='当前活动',order=0,summary=notes[r['name']],synopsis=['故事从费奥多尔逃离圣骏堡后的遭遇切入，展现中央军队溃败、内卫介入与皇权失势的局面。','塔露拉与重组的整合运动在围困与营救中，寻找感染者和普通人共同的未来。'],characters=['塔露拉','九','冻河','米拉娜'],start=notice['start'],end=notice['end'],exchangeEnd=notice['exchangeEnd'],reviewStart=r['startShowTime'],firstStart=notice['start'],storyCount=r['storyCount'],stageAvailable=False,reviewAvailable=False,availability='active',retroId=None,collaboration=False,basis='当前限时活动；尚未开放情报处理室回顾。地区与组织标签按剧情内容整理，未据此推定官方乐章归属。',sources=[dict(title='官方 · 活动开放公告',url=notice['url']),sources[2],dict(title='游戏原文 · 活动序章',url='https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act55side/level_act55side_st01.txt'),dict(title='游戏原文 · 主要人物与行动',url='https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act55side/level_act55side_01_beg.txt')]))
+
 allowed={v['id'] for v in byname.values() if 0<v['startShowTime']<=cutoff}
 assert allowed=={e['id'] for e in events},allowed-{e['id'] for e in events}
-data=dict(checked='2026-09-19',server='CN',scope='覆盖游戏回顾表中截至核对日已到剧情回顾开放时间的活动与故事集，共70项。13条乐章以BWIKI曲谱文本交叉索引；补充1项故事集和3项已开放回顾的联动。主线在“主线行迹”查看，集成战略、生息演算及干员密录不在本页范围。回顾仍受账号剧情解锁条件限制，联动旧剧情尤其不保证未参加账号可补解锁。',sources=sources,categories=categories,lines=[{k:v for k,v in l.items() if k!='events'} for l in lines],events=events,excluded=[dict(id=v['id'],title=v['name'],reviewStart=v['startShowTime'],reason='尚未到回顾开放时间／联动未常驻') for v in byname.values() if v['startShowTime']>cutoff])
+scope=f'截至核对日，国服情报处理室已到回顾开放时间的活动与故事集共{len(events)}项。13条乐章保留此前核验的曲谱索引；未核定官方乐章的新活动列入补充目录。当前限时活动单列，不计入已开放回顾数量。主线在“主线行迹”查看，集成战略、生息演算及干员密录不在本页范围。回顾仍受账号剧情解锁条件限制，联动旧剧情尤其不保证未参加账号可补解锁。'
+active_ids={e['id'] for e in activeEvents}
+data=dict(checked=checked,server='CN',scope=scope,sources=sources,categories=categories,lines=[{k:v for k,v in l.items() if k!='events'} for l in lines],events=events,activeEvents=activeEvents,excluded=[dict(id=v['id'],title=v['name'],reviewStart=v['startShowTime'],reviewScheduled=v['startShowTime']<4000000000,reason='回顾表仍为远期占位时间，当前未确认常驻开放。' if v['startShowTime']>=4000000000 else '尚未到剧情回顾开放时间。') for v in byname.values() if v['startShowTime']>cutoff and v['id'] not in active_ids])
 (root/'dist/events.json').write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n')
-snapshot=dict(checked=data['checked'],cutoff=cutoff,sourceUrls=[base+'story_review_table.json',base+'retro_table.json'],reviews=[{k:v[k] for k in ['id','name','entryType','startTime','startShowTime','endShowTime','storyCount']} for v in byname.values()],retroActList=retros)
-(root/'material/event-source-snapshot.json').write_text(json.dumps(snapshot,ensure_ascii=False,indent=2)+'\n')
-print(len(events),'events',sum(e['stageAvailable'] for e in events),'permanent stages')
+# The source snapshot is an input and retains its provenance metadata unchanged.
+print(len(events),'events',sum(e['stageAvailable'] for e in events),'permanent stages',len(activeEvents),'current activities')

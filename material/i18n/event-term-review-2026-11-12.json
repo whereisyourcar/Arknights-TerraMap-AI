@@ -1,0 +1,35 @@
+{
+  "reviewed": "2026-11-12",
+  "method": "Exact string confirmed in Japanese game handbook data; public mirror is not an official publisher site. Character IDs identify the corresponding in-game archive.",
+  "localSource": "material/i18n/ja-handbook.json",
+  "localSourceSha256": "7d344e106a854f781947fc94a84cc75b3a928ffefea86ebbc2bd4c40dd62126e",
+  "terms": [
+    {
+      "zhCN": "咧嘴谷",
+      "ja": "ニヤニヤ谷",
+      "characterId": "char_4081_warmy",
+      "characterNameZhCN": "温米",
+      "characterNameJa": "ウォーミー",
+      "archiveTitle": "昇進記録",
+      "jsonPointer": "/handbookDict/char_4081_warmy/storyTextAudio/8/stories/0/storyText",
+      "excerpt": "幸い、ニヤニヤ谷に向かう旅を経て、ウォーミーの心理状況は多少好転したようだ。",
+      "sourceUrl": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData_YoStar/main/ja_JP/gamedata/excel/handbook_info_table.json"
+    },
+    {
+      "zhCN": "猩红剧团",
+      "ja": "クリムゾン劇団",
+      "characterId": "char_1042_phatm2",
+      "characterNameZhCN": "酒神",
+      "characterNameJa": "トラゴーディア",
+      "archiveTitle": "第四資料",
+      "jsonPointer": "/handbookDict/char_1042_phatm2/storyTextAudio/7/stories/0/storyText",
+      "excerpt": "それでもファントムは、限られた情報からクリムゾン劇団のルーツや劇団長の正体を推測した。",
+      "sourceUrl": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData_YoStar/main/ja_JP/gamedata/excel/handbook_info_table.json"
+    }
+  ],
+  "oldNameScan": {
+    "scope": "dist/locales/*.json",
+    "searched": "グリンニング谷",
+    "matchesAfterRootRebuild": 0
+  }
+}

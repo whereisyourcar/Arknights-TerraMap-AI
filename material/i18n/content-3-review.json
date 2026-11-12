@@ -1,0 +1,32 @@
+{
+  "contentFile": "dist/locales/manual-content-3.json",
+  "entriesReviewed": 537,
+  "longEntriesReviewed": 140,
+  "biosSampleEntries": 32,
+  "biosSampleFiles": [
+    1,
+    2,
+    4,
+    5
+  ],
+  "patchesAdded": {
+    "en": 7,
+    "ja": 5
+  },
+  "findings": [
+    "Embedded See You Soon official title corrected in a long city description.",
+    "Zeruertza replaced literal Cliff City in two role labels.",
+    "Zhenyue Army name restored in its general title.",
+    "Japanese Stultifera Navis title corrected to 狂人号.",
+    "Last knight label no longer implies the unrelated proper name The Last Knight.",
+    "Persona Aigis name corrected using official Atlus/SEGA pages.",
+    "Reportedly in Koromaru biography no longer changed to self-proclaimed."
+  ],
+  "officialEvidence": [
+    "dist/locales/manual-title-terms.json",
+    "JA handbook: Vigil personal history",
+    "https://persona.atlus.com/p3r/index.html?lang=enbuy",
+    "https://asia.sega.com/p3r/en/"
+  ],
+  "limitations": "A bounded semantic and terminology review; no new source facts or unconfirmed NPC localization were invented."
+}

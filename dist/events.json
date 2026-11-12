@@ -1,7 +1,7 @@
 {
-  "checked": "2026-09-19",
+  "checked": "2026-11-12",
   "server": "CN",
-  "scope": "覆盖游戏回顾表中截至核对日已到剧情回顾开放时间的活动与故事集，共70项。13条乐章以BWIKI曲谱文本交叉索引；补充1项故事集和3项已开放回顾的联动。主线在“主线行迹”查看，集成战略、生息演算及干员密录不在本页范围。回顾仍受账号剧情解锁条件限制，联动旧剧情尤其不保证未参加账号可补解锁。",
+  "scope": "截至核对日，国服情报处理室已到回顾开放时间的活动与故事集共72项。13条乐章保留此前核验的曲谱索引；未核定官方乐章的新活动列入补充目录。当前限时活动单列，不计入已开放回顾数量。主线在“主线行迹”查看，集成战略、生息演算及干员密录不在本页范围。回顾仍受账号剧情解锁条件限制，联动旧剧情尤其不保证未参加账号可补解锁。",
   "sources": [
     {
       "title": "官方 · 曲谱系统内容前瞻",
@@ -314,6 +314,11 @@
       "id": "COLLAB",
       "title": "可回顾的联动故事",
       "official": false
+    },
+    {
+      "id": "SUP_ACTIVITY",
+      "title": "补充活动目录",
+      "official": false
     }
   ],
   "events": [
@@ -338,7 +343,7 @@
       "collaboration": false,
       "sources": [
         {
-          "title": "BWIKI · 活动资料",
+          "title": "BWIKI · 生于黑夜",
           "url": "https://wiki.biligame.com/arknights/生于黑夜"
         },
         {
@@ -348,7 +353,31 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情 · 埋藏（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act9d0/level_act9d0_01_beg.txt"
+        },
+        {
+          "title": "游戏剧情 · 埋藏（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act9d0/level_act9d0_01_end.txt"
+        },
+        {
+          "title": "游戏剧情 · 旗帜（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act9d0/level_act9d0_03_end.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "在卡兹戴尔内战中，一名无名萨卡兹拾起死去佣兵的装备与代号，加入赫德雷和伊内丝的队伍。",
+        "佣兵的雇佣关系让W接触到特蕾西娅与巴别塔，也使三人在战争中的求生道路逐渐分岔。"
+      ],
+      "characters": [
+        "W",
+        "赫德雷",
+        "伊内丝",
+        "特蕾西娅"
       ]
     },
     {
@@ -374,7 +403,7 @@
       "collaboration": false,
       "sources": [
         {
-          "title": "BWIKI · 活动资料",
+          "title": "BWIKI · 遗尘漫步",
           "url": "https://wiki.biligame.com/arknights/遗尘漫步"
         },
         {
@@ -384,7 +413,34 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情 · 赤角小镇之围（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act18d0/level_act18d0_01_beg.txt"
+        },
+        {
+          "title": "游戏剧情 · 赤角小镇之围（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act18d0/level_act18d0_01_end.txt"
+        },
+        {
+          "title": "游戏剧情 · 绿洲惊雷（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act18d0/level_act18d0_02_beg.txt"
+        },
+        {
+          "title": "游戏剧情 · 松心百合（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act18d0/level_act18d0_st01.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "一项遭到争夺的源石研究把年轻的艾利奥特带入萨尔贡荒漠，凯尔希必须在追兵与当地势力之间保护他。",
+        "故事在不同时代切换，将乌萨斯贵族家庭的变故、维多利亚的生活与多年后的重逢连接到她漫长的行医和干预之路。"
+      ],
+      "characters": [
+        "凯尔希",
+        "异客",
+        "暴雨"
       ]
     },
     {
@@ -407,7 +463,7 @@
       "collaboration": false,
       "sources": [
         {
-          "title": "BWIKI · 活动资料",
+          "title": "BWIKI · 如我所见",
           "url": "https://wiki.biligame.com/arknights/如我所见"
         },
         {
@@ -417,7 +473,35 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情 · 我不曾怀揣希望（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act8mini/level_act8mini_st01.txt"
+        },
+        {
+          "title": "游戏剧情 · 我不会全部遗忘（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act8mini/level_act8mini_st02.txt"
+        },
+        {
+          "title": "游戏剧情 · 我所思不止于此（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act8mini/level_act8mini_st04.txt"
+        },
+        {
+          "title": "游戏剧情 · 我无惧前路何往（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act8mini/level_act8mini_st05.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "六篇短故事把博士失忆后的任务与巴别塔时期的记忆交错呈现，包括医疗检查、战场决策和舰上的日常交谈。",
+        "凯尔希、阿米娅与特蕾西娅对博士的不同认识，让读者比较同一位指挥者在两个时期如何看待同伴和牺牲。"
+      ],
+      "characters": [
+        "博士",
+        "凯尔希",
+        "阿米娅",
+        "特蕾西娅"
       ]
     },
     {
@@ -441,7 +525,7 @@
       "collaboration": false,
       "sources": [
         {
-          "title": "BWIKI · 活动资料",
+          "title": "BWIKI · 巴别塔",
           "url": "https://wiki.biligame.com/arknights/巴别塔"
         },
         {
@@ -451,7 +535,35 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情 · 宏伟愿景（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act33side/level_act33side_01_beg.txt"
+        },
+        {
+          "title": "游戏剧情 · 宏伟愿景（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act33side/level_act33side_01_end.txt"
+        },
+        {
+          "title": "游戏剧情 · 无声破裂（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act33side/level_act33side_03_end.txt"
+        },
+        {
+          "title": "游戏剧情 · 在疲惫中苏醒（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act33side/level_act33side_st02.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "特蕾西娅与特雷西斯对萨卡兹未来的分歧不断扩大，巴别塔在救助感染者与卡兹戴尔内战之间寻找立足之地。",
+        "凯尔希唤醒博士后，这位失落已久的访客与幼年的阿米娅相遇，逐渐参与巴别塔的医疗工作和战争决策。"
+      ],
+      "characters": [
+        "特蕾西娅",
+        "特雷西斯",
+        "凯尔希",
+        "博士"
       ]
     },
     {
@@ -475,7 +587,7 @@
       "collaboration": false,
       "sources": [
         {
-          "title": "BWIKI · 活动资料",
+          "title": "BWIKI · 追迹日落以西",
           "url": "https://wiki.biligame.com/arknights/追迹日落以西"
         },
         {
@@ -487,9 +599,33 @@
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
         },
         {
-          "title": "地理与主题复核来源",
+          "title": "游戏剧情 · 历史的航向（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act37side/level_act37side_st01.txt"
+        },
+        {
+          "title": "游戏剧情 · 仇怨残余（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act37side/level_act37side_01_beg.txt"
+        },
+        {
+          "title": "游戏剧情 · 仇怨残余（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act37side/level_act37side_01_end.txt"
+        },
+        {
+          "title": "游戏剧情 · 议会公决（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act37side/level_act37side_03_beg.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "伦蒂尼姆战争之后，维娜和格拉斯哥帮返回残破的家园，却发现城市重建仍受议会、贵族与军队之间的争执牵制。",
+        "王室继承人的身份把维娜推向政治谈判，而戴菲恩与普通居民的处境使“由谁治理、为谁重建”成为具体的问题。"
+      ],
+      "characters": [
+        "维娜·维多利亚",
+        "戴菲恩",
+        "摩根",
+        "因陀罗"
       ]
     },
     {
@@ -512,7 +648,7 @@
       "collaboration": false,
       "sources": [
         {
-          "title": "BWIKI · 活动资料",
+          "title": "BWIKI · 我们明日见",
           "url": "https://wiki.biligame.com/arknights/我们明日见"
         },
         {
@@ -522,7 +658,35 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情 · 寻灯续昼（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act18mini/level_act18mini_st01.txt"
+        },
+        {
+          "title": "游戏剧情 · 到乌萨斯去（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act18mini/level_act18mini_st02.txt"
+        },
+        {
+          "title": "游戏剧情 · 河畔航船（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act18mini/level_act18mini_st04.txt"
+        },
+        {
+          "title": "游戏剧情 · 腐败终息（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act18mini/level_act18mini_st05.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "伦蒂尼姆战事收束后，苇草带领的流民、准备返回乌萨斯的整合运动以及撤离维多利亚的萨卡兹分别筹划下一段路。",
+        "六篇故事聚焦战后救助、撤离与旧友重新联络，让主线中的军事胜负延伸到幸存者如何安置、如何回家的问题。"
+      ],
+      "characters": [
+        "焰影苇草",
+        "塔露拉",
+        "隐德来希",
+        "赫德雷"
       ]
     },
     {
@@ -543,7 +707,7 @@
       "collaboration": false,
       "sources": [
         {
-          "title": "BWIKI · 活动资料",
+          "title": "BWIKI · 乌萨斯的孩子们",
           "url": "https://wiki.biligame.com/arknights/乌萨斯的孩子们"
         },
         {
@@ -553,7 +717,35 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情 · 习惯（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act10d5/level_act10d5_st01.txt"
+        },
+        {
+          "title": "游戏剧情 · 被选择的（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act10d5/level_act10d5_st02.txt"
+        },
+        {
+          "title": "游戏剧情 · 在梦中相遇（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act10d5/level_act10d5_st03.txt"
+        },
+        {
+          "title": "游戏剧情 · 一切照常（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act10d5/level_act10d5_st06.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "曾被困在彼得海姆中学的学生来到罗德岛后，吃饭、做梦和交朋友这些日常小事仍会唤起切尔诺伯格的经历。",
+        "短篇分别呈现凛冬、真理、古米等人的创伤与互助，也交代她们如何组成乌萨斯学生自治团并适应舰上生活。"
+      ],
+      "characters": [
+        "凛冬",
+        "真理",
+        "古米",
+        "早露"
       ]
     },
     {
@@ -574,7 +766,7 @@
       "collaboration": false,
       "sources": [
         {
-          "title": "BWIKI · 活动资料",
+          "title": "BWIKI · 人们，我们",
           "url": "https://wiki.biligame.com/arknights/人们，我们"
         },
         {
@@ -586,9 +778,33 @@
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
         },
         {
-          "title": "地理与主题复核来源",
+          "title": "游戏剧情 · 群氓（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act51side/level_act51side_st01.txt"
+        },
+        {
+          "title": "游戏剧情 · “卡托加区欢迎你”（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act51side/level_act51side_01_beg.txt"
+        },
+        {
+          "title": "游戏剧情 · 枷锁之中（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act51side/level_act51side_02_beg.txt"
+        },
+        {
+          "title": "游戏剧情 · 阳光照耀圣骏堡（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act51side/level_act51side_03_beg.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "凛冬等人在圣骏堡与当地学生、工人相遇，卡托加区的贫困和警察暴力使她们无法继续置身事外。",
+        "围绕“卡托加事件”的听证会与街头行动交错展开，贵族政治、学生组织和普通人的诉求被放到同一场争论中。"
+      ],
+      "characters": [
+        "凛冬",
+        "真理",
+        "早露",
+        "苦艾"
       ]
     },
     {
@@ -609,7 +825,7 @@
       "collaboration": false,
       "sources": [
         {
-          "title": "BWIKI · 活动资料",
+          "title": "BWIKI · 吾导先路",
           "url": "https://wiki.biligame.com/arknights/吾导先路"
         },
         {
@@ -619,7 +835,35 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情 · 风云际会（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act16side/level_act16side_st01.txt"
+        },
+        {
+          "title": "游戏剧情 · 灯下黑（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act16side/level_act16side_01_beg.txt"
+        },
+        {
+          "title": "游戏剧情 · 灯下黑（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act16side/level_act16side_01_end.txt"
+        },
+        {
+          "title": "游戏剧情 · 混血儿（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act16side/level_act16side_03_beg.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "拉特兰筹备万国峰会时，公证所执行者艾泽尔接手照顾塞茜莉亚的任务，而她的身世触碰了这座圣城的身份边界。",
+        "安多恩的归来使菲亚梅塔、莫斯提马和蕾缪安重面对旧日事件，个人恩怨与“乐园能否接纳所有人”的主张同时展开。"
+      ],
+      "characters": [
+        "菲亚梅塔",
+        "莫斯提马",
+        "见行者",
+        "蕾缪安"
       ]
     },
     {
@@ -640,7 +884,7 @@
       "collaboration": false,
       "sources": [
         {
-          "title": "BWIKI · 活动资料",
+          "title": "BWIKI · 空想花庭",
           "url": "https://wiki.biligame.com/arknights/空想花庭"
         },
         {
@@ -650,7 +894,35 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情 · 奉上冠冕（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act26side/level_act26side_st01.txt"
+        },
+        {
+          "title": "游戏剧情 · 我有一个荣美家乡（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act26side/level_act26side_01_beg.txt"
+        },
+        {
+          "title": "游戏剧情 · 我有一个荣美家乡（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act26side/level_act26side_01_end.txt"
+        },
+        {
+          "title": "游戏剧情 · 生命运河（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act26side/level_act26side_02_beg.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "费德里科与同僚前往失联的安布罗修修道院，准备把这座移动修道院的居民带回拉特兰。",
+        "院内的萨科塔、黎博利与萨卡兹原本共同生活，但匮乏、猜疑和阿尔图罗的到来使这份脆弱的共处受到考验。"
+      ],
+      "characters": [
+        "圣约送葬人",
+        "隐现",
+        "空构",
+        "塑心"
       ]
     },
     {
@@ -671,7 +943,7 @@
       "collaboration": false,
       "sources": [
         {
-          "title": "BWIKI · 活动资料",
+          "title": "BWIKI · 众生行记",
           "url": "https://wiki.biligame.com/arknights/众生行记"
         },
         {
@@ -681,7 +953,31 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情 · “堕天”（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act42side/level_act42side_st01.txt"
+        },
+        {
+          "title": "游戏剧情 · 圣秩（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act42side/level_act42side_01_beg.txt"
+        },
+        {
+          "title": "游戏剧情 · 圣秩（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act42side/level_act42side_01_end.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "第二届万国峰会期间，拉特兰迎来卡兹戴尔使团与各地修道院，而遍及多地的光环异变打破了萨科塔习以为常的秩序。",
+        "能天使返回故乡，蕾缪安追查异常爆炸与圣堂动向，姐妹的行动将家庭重逢和教皇厅对未来灾异的准备联系起来。"
+      ],
+      "characters": [
+        "能天使",
+        "蕾缪安",
+        "圣约送葬人",
+        "塑心"
       ]
     },
     {
@@ -704,7 +1000,7 @@
       "collaboration": false,
       "sources": [
         {
-          "title": "BWIKI · 活动资料",
+          "title": "BWIKI · 风雪过境",
           "url": "https://wiki.biligame.com/arknights/风雪过境"
         },
         {
@@ -714,7 +1010,35 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情 · 不欢而聚（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act14side/level_act14side_01_beg.txt"
+        },
+        {
+          "title": "游戏剧情 · 不欢而聚（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act14side/level_act14side_01_end.txt"
+        },
+        {
+          "title": "游戏剧情 · 入乡随俗（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act14side/level_act14side_st01.txt"
+        },
+        {
+          "title": "游戏剧情 · 息事宁人（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act14side/level_act14side_02_beg.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "博士以客人的身份前往谢拉格参加祭典，却很快卷入希瓦艾什、布朗陶和佩尔罗契三大家族之间的政治冲突。",
+        "银灰推动的开放计划与蔓珠院维持的旧有秩序发生碰撞，身为圣女的初雪也必须为自己的职责作出判断。"
+      ],
+      "characters": [
+        "博士",
+        "银灰",
+        "初雪",
+        "灵知"
       ]
     },
     {
@@ -737,7 +1061,7 @@
       "collaboration": false,
       "sources": [
         {
-          "title": "BWIKI · 活动资料",
+          "title": "BWIKI · 银心湖列车",
           "url": "https://wiki.biligame.com/arknights/银心湖列车"
         },
         {
@@ -747,7 +1071,35 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情 · 候车大厅（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act30side/level_act30side_st01.txt"
+        },
+        {
+          "title": "游戏剧情 · 注意事项（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act30side/level_act30side_01_beg.txt"
+        },
+        {
+          "title": "游戏剧情 · 注意事项（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act30side/level_act30side_01_end.txt"
+        },
+        {
+          "title": "游戏剧情 · 同车异图（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act30side/level_act30side_02_beg.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "通往银心湖的铁路把外国访客带进谢拉格，烈夏、锏与维多利亚军官哈洛德在同一趟旅途中相遇。",
+        "列车上的意外和暗中行动不断打乱行程，让这次观光同时成为谢拉格对外开放后的安全与外交考验。"
+      ],
+      "characters": [
+        "锏",
+        "烈夏",
+        "哈洛德",
+        "初雪"
       ]
     },
     {
@@ -770,7 +1122,7 @@
       "collaboration": false,
       "sources": [
         {
-          "title": "BWIKI · 活动资料",
+          "title": "BWIKI · 雪山降临1101",
           "url": "https://wiki.biligame.com/arknights/雪山降临1101"
         },
         {
@@ -780,7 +1132,35 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情 · 崩落（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act46side/level_act46side_st01.txt"
+        },
+        {
+          "title": "游戏剧情 · 呼号声中（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act46side/level_act46side_01_beg.txt"
+        },
+        {
+          "title": "游戏剧情 · 呼号声中（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act46side/level_act46side_01_end.txt"
+        },
+        {
+          "title": "游戏剧情 · 甜蜜的邻人（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act46side/level_act46side_02_beg.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "谢拉格首次遭遇天灾，突发雪崩迫使救援队搜寻幸存者，也动摇了民众对圣山永远庇护国家的信念。",
+        "初雪、银灰和诺希斯分别面对宗教质疑、外交压力与成因调查，莱茵生命在当地的科研合作也被卷入争议。"
+      ],
+      "characters": [
+        "圣聆初雪",
+        "银灰",
+        "灵知",
+        "缪尔赛思"
       ]
     },
     {
@@ -803,7 +1183,7 @@
       "collaboration": false,
       "sources": [
         {
-          "title": "BWIKI · 活动资料",
+          "title": "BWIKI · 叙拉古人",
           "url": "https://wiki.biligame.com/arknights/叙拉古人"
         },
         {
@@ -813,7 +1193,35 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情 · 沉疴（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act21side/level_act21side_st01.txt"
+        },
+        {
+          "title": "游戏剧情 · 雨落无声（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act21side/level_act21side_01_beg.txt"
+        },
+        {
+          "title": "游戏剧情 · 雨落无声（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act21side/level_act21side_01_end.txt"
+        },
+        {
+          "title": "游戏剧情 · 荣誉之人（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act21side/level_act21side_02_beg.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "德克萨斯应约返回叙拉古的沃尔西尼，旧家族的债务、拉普兰德的追逐和企鹅物流的工作在这里交汇。",
+        "伺夜与法官斥罪尝试为新城市建立不同的规则，但家族首领和狼之主仍掌握着足以左右普通人生活的力量。"
+      ],
+      "characters": [
+        "缄默德克萨斯",
+        "拉普兰德",
+        "伺夜",
+        "斥罪"
       ]
     },
     {
@@ -834,7 +1242,7 @@
       "collaboration": false,
       "sources": [
         {
-          "title": "BWIKI · 活动资料",
+          "title": "BWIKI · 揭幕者们",
           "url": "https://wiki.biligame.com/arknights/揭幕者们"
         },
         {
@@ -844,7 +1252,39 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情 · 《新都市管理法案》（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act38side/level_act38side_st01.txt"
+        },
+        {
+          "title": "游戏剧情 · 失途（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act38side/level_act38side_01_beg.txt"
+        },
+        {
+          "title": "游戏剧情 · 失途（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act38side/level_act38side_01_end.txt"
+        },
+        {
+          "title": "游戏剧情 · 恶客盈门（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act38side/level_act38side_03_beg.txt"
+        },
+        {
+          "title": "游戏剧情 · 恶客盈门（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act38side/level_act38side_03_end.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "新沃尔西尼要求家族按照城市法律经营，但码头交易、警务和复仇纠纷不断暴露新制度与旧规矩的冲突。",
+        "斥罪推动法案之际，拉普兰德、德克萨斯与铃兰的母亲英格丽各自介入，旧日暗杀者也要面对城市转型带来的选择。"
+      ],
+      "characters": [
+        "荒芜拉普兰德",
+        "缄默德克萨斯",
+        "斥罪",
+        "忍冬"
       ]
     },
     {
@@ -865,7 +1305,7 @@
       "collaboration": false,
       "sources": [
         {
-          "title": "BWIKI · 活动资料",
+          "title": "BWIKI · 十字路口",
           "url": "https://wiki.biligame.com/arknights/十字路口"
         },
         {
@@ -875,7 +1315,34 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情 · 红酒谋杀案（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act20mini/level_act20mini_st01.txt"
+        },
+        {
+          "title": "游戏剧情 · 见证（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act20mini/level_act20mini_st03.txt"
+        },
+        {
+          "title": "游戏剧情 · 撞车（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act20mini/level_act20mini_st04.txt"
+        },
+        {
+          "title": "游戏剧情 · 新秩序（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act20mini/level_act20mini_st06.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "新沃尔西尼的红酒生意、货运和乐团演出成为六篇短故事的交点，卡西米尔资本进入后，新的竞争压力逐渐显现。",
+        "伺夜与斥罪面对的不只是家族纷争，还有司机的违约金、小商人的生计以及市民仍会求助旧家族的现实。"
+      ],
+      "characters": [
+        "伺夜",
+        "斥罪",
+        "贝洛内"
       ]
     },
     {
@@ -896,7 +1363,7 @@
       "collaboration": false,
       "sources": [
         {
-          "title": "BWIKI · 活动资料",
+          "title": "BWIKI · 玛莉娅·临光",
           "url": "https://wiki.biligame.com/arknights/玛莉娅·临光"
         },
         {
@@ -906,7 +1373,35 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情 · 亮相（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act13d5/level_act13d5_st01.txt"
+        },
+        {
+          "title": "游戏剧情 · 艾伦精选（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act13d5/level_act13d5_01_beg.txt"
+        },
+        {
+          "title": "游戏剧情 · 艾伦精选（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act13d5/level_act13d5_01_end.txt"
+        },
+        {
+          "title": "游戏剧情 · 呼啸守卫（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act13d5/level_act13d5_02_beg.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "为了维护临光家的骑士名誉，擅长机械的玛莉娅踏进卡西米尔竞技赛场，接受佐菲娅与老骑士们的指导。",
+        "胜负之外，赞助合同、媒体包装和商业联合会的安排也决定着参赛者的处境，迫使她理解竞技骑士的另一面。"
+      ],
+      "characters": [
+        "瑕光",
+        "鞭刃",
+        "玛恩纳",
+        "临光"
       ]
     },
     {
@@ -927,7 +1422,7 @@
       "collaboration": false,
       "sources": [
         {
-          "title": "BWIKI · 活动资料",
+          "title": "BWIKI · 红松林",
           "url": "https://wiki.biligame.com/arknights/红松林"
         },
         {
@@ -937,7 +1432,35 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情 · 红松（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act9mini/level_act9mini_st01.txt"
+        },
+        {
+          "title": "游戏剧情 · 落灰（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act9mini/level_act9mini_st02.txt"
+        },
+        {
+          "title": "游戏剧情 · 我也要大干一场（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act9mini/level_act9mini_st03.txt"
+        },
+        {
+          "title": "游戏剧情 · 只影孤身（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act9mini/level_act9mini_st04.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "焰尾与灰毫等感染者骑士在卡西米尔结成红松骑士团，试图让受排斥的同伴获得能活下去的庇护。",
+        "野鬃和远牙的经历呈现竞技场以外的追杀、偏见与结伴求生，为理解《长夜临光》中的感染者行动提供前情。"
+      ],
+      "characters": [
+        "焰尾",
+        "灰毫",
+        "野鬃",
+        "远牙"
       ]
     },
     {
@@ -958,7 +1481,7 @@
       "collaboration": false,
       "sources": [
         {
-          "title": "BWIKI · 活动资料",
+          "title": "BWIKI · 长夜临光",
           "url": "https://wiki.biligame.com/arknights/长夜临光"
         },
         {
@@ -968,7 +1491,35 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情 · 欣欣向荣（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act13side/level_act13side_st01.txt"
+        },
+        {
+          "title": "游戏剧情 · 金盏花（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act13side/level_act13side_01_beg.txt"
+        },
+        {
+          "title": "游戏剧情 · 金盏花（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act13side/level_act13side_01_end.txt"
+        },
+        {
+          "title": "游戏剧情 · 垂死的刺（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act13side/level_act13side_02_beg.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "玛嘉烈重返骑士竞技场时，罗德岛也来到卡西米尔，感染者骑士与商业联合会、无胄盟之间的紧张关系不断升级。",
+        "临光家的团聚、红松骑士团的营救和白金的处境与大赛并行，使骑士的荣誉落到保护谁、听命于谁的具体选择上。"
+      ],
+      "characters": [
+        "耀骑士临光",
+        "瑕光",
+        "焰尾",
+        "白金"
       ]
     },
     {
@@ -989,7 +1540,7 @@
       "collaboration": false,
       "sources": [
         {
-          "title": "BWIKI · 活动资料",
+          "title": "BWIKI · 日暮寻路",
           "url": "https://wiki.biligame.com/arknights/日暮寻路"
         },
         {
@@ -999,7 +1550,35 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情 · 荒舍（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act12mini/level_act12mini_st01.txt"
+        },
+        {
+          "title": "游戏剧情 · 只见星辰（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act12mini/level_act12mini_st02.txt"
+        },
+        {
+          "title": "游戏剧情 · 我曾凝望（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act12mini/level_act12mini_st03.txt"
+        },
+        {
+          "title": "游戏剧情 · 不得安宁（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act12mini/level_act12mini_st04.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "离开公司与大骑士领的玛恩纳沿途遇见难民、乡村居民与律师黛丝特，重新面对自己昔日帮助过的人。",
+        "感染者帮扶计划背后的剥削与贵族间的交易逐渐浮现，让这场旅途从个人出走转向如何继续帮助他人的问题。"
+      ],
+      "characters": [
+        "玛恩纳",
+        "但书",
+        "焰尾",
+        "灰毫"
       ]
     },
     {
@@ -1020,7 +1599,7 @@
       "collaboration": false,
       "sources": [
         {
-          "title": "BWIKI · 活动资料",
+          "title": "BWIKI · 洪炉示岁",
           "url": "https://wiki.biligame.com/arknights/洪炉示岁"
         },
         {
@@ -1030,7 +1609,31 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情 · 洪炉示岁·迎春（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act6d5/level_act6d5_st01.txt"
+        },
+        {
+          "title": "游戏剧情 · 洪炉示岁·贺岁（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act6d5/level_act6d5_st02.txt"
+        },
+        {
+          "title": "游戏剧情 · 洪炉示岁·拜年（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act6d5/level_act6d5_st03.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "春节前后，年拉着炎熔等人参与一部在龙门展开的热闹电影，近卫局、怪医和机械发明都被写进夸张的情节。",
+        "电影与观影后的交谈相互映照，既展示罗德岛成员的新年生活，也用年的创作和话语埋下岁系列的线索。"
+      ],
+      "characters": [
+        "年",
+        "炎熔",
+        "陈",
+        "雪雉"
       ]
     },
     {
@@ -1051,7 +1654,7 @@
       "collaboration": false,
       "sources": [
         {
-          "title": "BWIKI · 活动资料",
+          "title": "BWIKI · 画中人",
           "url": "https://wiki.biligame.com/arknights/画中人"
         },
         {
@@ -1061,7 +1664,35 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情 · 一钳之恩（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act16d5/level_act16d5_st01.txt"
+        },
+        {
+          "title": "游戏剧情 · 初醒（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act16d5/level_act16d5_01_beg.txt"
+        },
+        {
+          "title": "游戏剧情 · 初醒（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act16d5/level_act16d5_01_end.txt"
+        },
+        {
+          "title": "游戏剧情 · 墨魉（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act16d5/level_act16d5_02_beg.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "炎熔、克洛丝与乌有寻找年的妹妹夕时误入画卷，在看似寻常的村镇中遭遇墨魉与反复变化的景象。",
+        "身在画中的嵯峨与画中居民有各自的生活，离开画卷的愿望因此碰上“谁的世界才算真实”的问题。"
+      ],
+      "characters": [
+        "夕",
+        "炎熔",
+        "乌有",
+        "嵯峨"
       ]
     },
     {
@@ -1082,7 +1713,7 @@
       "collaboration": false,
       "sources": [
         {
-          "title": "BWIKI · 活动资料",
+          "title": "BWIKI · 将进酒",
           "url": "https://wiki.biligame.com/arknights/将进酒"
         },
         {
@@ -1092,7 +1723,35 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情 · 客将至（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act15side/level_act15side_st01.txt"
+        },
+        {
+          "title": "游戏剧情 · 化物（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act15side/level_act15side_01_beg.txt"
+        },
+        {
+          "title": "游戏剧情 · 化物（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act15side/level_act15side_01_end.txt"
+        },
+        {
+          "title": "游戏剧情 · 无寻处（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act15side/level_act15side_02_beg.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "老鲤带着一件受托保管的器物来到尚蜀，乌有与克洛丝的寻人任务也在这座山城碰上同一场风波。",
+        "日常物件接连化为异物，商人、官员与司岁台各有打算，而诗酒相伴的令将这些争夺引向岁之片段的问题。"
+      ],
+      "characters": [
+        "令",
+        "老鲤",
+        "乌有",
+        "寒芒克洛丝"
       ]
     },
     {
@@ -1113,7 +1772,7 @@
       "collaboration": false,
       "sources": [
         {
-          "title": "BWIKI · 活动资料",
+          "title": "BWIKI · 登临意",
           "url": "https://wiki.biligame.com/arknights/登临意"
         },
         {
@@ -1123,7 +1782,39 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情 · 忽梦少年事（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act23side/level_act23side_st01.txt"
+        },
+        {
+          "title": "游戏剧情 · 塞上春来（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act23side/level_act23side_01_beg.txt"
+        },
+        {
+          "title": "游戏剧情 · 塞上春来（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act23side/level_act23side_01_end.txt"
+        },
+        {
+          "title": "游戏剧情 · 沙海黄尘（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act23side/level_act23side_02_beg.txt"
+        },
+        {
+          "title": "游戏剧情 · 风雨欲来（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act23side/level_act23side_05_beg.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "炎国边城玉门准备迎接新的巡防安排，重岳与镇岳军守卫城池，林雨霞和槐琥则因各自的寻访来到这里。",
+        "围绕兵器、旧日恩怨与城防的多条线索逐渐交汇，让重岳长期守边的责任和普通武人的选择同时受到考验。"
+      ],
+      "characters": [
+        "重岳",
+        "林",
+        "仇白",
+        "槐琥"
       ]
     },
     {
@@ -1144,7 +1835,7 @@
       "collaboration": false,
       "sources": [
         {
-          "title": "BWIKI · 活动资料",
+          "title": "BWIKI · 春分",
           "url": "https://wiki.biligame.com/arknights/春分"
         },
         {
@@ -1154,7 +1845,39 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情 · 近乡情怯（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act14mini/level_act14mini_st01.txt"
+        },
+        {
+          "title": "游戏剧情 · 中庭旅谷（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act14mini/level_act14mini_st02.txt"
+        },
+        {
+          "title": "游戏剧情 · 出入平安（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act14mini/level_act14mini_st04.txt"
+        },
+        {
+          "title": "游戏剧情 · 无名之辈（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act14mini/level_act14mini_st05.txt"
+        },
+        {
+          "title": "游戏剧情 · 独见寒山（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act14mini/level_act14mini_st06.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "仇白追赶少年方小石来到谋善村，迁庙占地的纠纷很快牵出村民对外姓人和感染者的排斥。",
+        "桑葚、嵯峨与往返信使的经历补充了村庄内外的视角，把治病、土地和谋生这些现实问题放在江湖故事的中心。"
+      ],
+      "characters": [
+        "仇白",
+        "桑葚",
+        "嵯峨",
+        "铎铃"
       ]
     },
     {
@@ -1175,7 +1898,7 @@
       "collaboration": false,
       "sources": [
         {
-          "title": "BWIKI · 活动资料",
+          "title": "BWIKI · 怀黍离",
           "url": "https://wiki.biligame.com/arknights/怀黍离"
         },
         {
@@ -1185,7 +1908,39 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情 · 禾下梦（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act31side/level_act31side_st01.txt"
+        },
+        {
+          "title": "游戏剧情 · 赴大荒（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act31side/level_act31side_01_beg.txt"
+        },
+        {
+          "title": "游戏剧情 · 赴大荒（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act31side/level_act31side_01_end.txt"
+        },
+        {
+          "title": "游戏剧情 · 祭神农（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act31side/level_act31side_02_beg.txt"
+        },
+        {
+          "title": "游戏剧情 · 卷赤霞（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act31side/level_act31side_06_beg.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "左乐前往大荒城调查巨兽代理人的动向，与种田的黍、农业天师学徒禾生及小满相遇。",
+        "育种实验和田间生活很快面对异常灾害与外部干预，故事把“让更多人吃饱”的愿望具体落实到粮种、土地和农人的劳动。"
+      ],
+      "characters": [
+        "黍",
+        "左乐",
+        "万顷",
+        "小满"
       ]
     },
     {
@@ -1206,7 +1961,7 @@
       "collaboration": false,
       "sources": [
         {
-          "title": "BWIKI · 活动资料",
+          "title": "BWIKI · 相见欢",
           "url": "https://wiki.biligame.com/arknights/相见欢"
         },
         {
@@ -1216,7 +1971,35 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情 · 一清二白（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act40side/level_act40side_01_beg.txt"
+        },
+        {
+          "title": "游戏剧情 · 一清二白（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act40side/level_act40side_01_end.txt"
+        },
+        {
+          "title": "游戏剧情 · 糖瓜粘（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act40side/level_act40side_02_beg.txt"
+        },
+        {
+          "title": "游戏剧情 · 糖瓜粘（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act40side/level_act40side_02_end.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "百灶筹备百珍宴时，煌为熟悉的味道与身世线索回到炎国，厨师余和美食评论家行箸也身处这座忙碌的城市。",
+        "酒楼斗技与宴席筹备之外，一场档案库火灾重新牵出顾筌旧案，使家人重逢和追查司法往事成为同一段旅程。"
+      ],
+      "characters": [
+        "余",
+        "煌",
+        "行箸",
+        "惊蛰"
       ]
     },
     {
@@ -1237,7 +2020,7 @@
       "collaboration": false,
       "sources": [
         {
-          "title": "BWIKI · 活动资料",
+          "title": "BWIKI · 镜中集",
           "url": "https://wiki.biligame.com/arknights/镜中集"
         },
         {
@@ -1247,7 +2030,34 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情 · 胡君（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act19mini/level_act19mini_st01.txt"
+        },
+        {
+          "title": "游戏剧情 · 蒲先生（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act19mini/level_act19mini_st02.txt"
+        },
+        {
+          "title": "游戏剧情 · 凌绝顶（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act19mini/level_act19mini_st06.txt"
+        },
+        {
+          "title": "游戏剧情 · 小镇志（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act19mini/level_act19mini_st07.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "邙山镇接连出现离奇事件，茶馆、私塾、园林与剑客的旧约把麟青砚、云青萍等调查者引向同一处。",
+        "各篇看似独立的江湖传闻逐渐与岁之片段留下的器物相连，左乐也必须追查是谁把小镇居民卷入了这些试探。"
+      ],
+      "characters": [
+        "左乐",
+        "老鲤",
+        "槐琥"
       ]
     },
     {
@@ -1268,7 +2078,7 @@
       "collaboration": false,
       "sources": [
         {
-          "title": "BWIKI · 活动资料",
+          "title": "BWIKI · 辞岁行",
           "url": "https://wiki.biligame.com/arknights/辞岁行"
         },
         {
@@ -1278,7 +2088,35 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情 · 蒙不失诵（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act49side/level_act49side_st01.txt"
+        },
+        {
+          "title": "游戏剧情 · 激石波（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act49side/level_act49side_01_beg.txt"
+        },
+        {
+          "title": "游戏剧情 · 大头鬼（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act49side/level_act49side_02_beg.txt"
+        },
+        {
+          "title": "游戏剧情 · 小雪崩（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act49side/level_act49side_04_end.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "陈追问魏彦吾不愿谈起的旧事，与左乐的调查一起卷入司岁台和岁之片段之间日益紧迫的冲突。",
+        "望、颉与其他片段的旧日经历穿插其间，重点呈现炎国如何记录过去，以及那些记载为何在今天仍会引发争执。"
+      ],
+      "characters": [
+        "望",
+        "矩",
+        "陈",
+        "左乐"
       ]
     },
     {
@@ -1301,7 +2139,7 @@
       "collaboration": false,
       "sources": [
         {
-          "title": "BWIKI · 活动资料",
+          "title": "BWIKI · 孤岛风云",
           "url": "https://wiki.biligame.com/arknights/孤岛风云"
         },
         {
@@ -1311,7 +2149,35 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情 · 密会（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act15d0/level_act15d0_01_beg.txt"
+        },
+        {
+          "title": "游戏剧情 · 密会（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act15d0/level_act15d0_01_end.txt"
+        },
+        {
+          "title": "游戏剧情 · 另一个视角（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act15d0/level_act15d0_02_beg.txt"
+        },
+        {
+          "title": "游戏剧情 · 另一个视角（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act15d0/level_act15d0_02_end.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "赫默推动营救遭企业陷害的安东尼，卡夫卡潜入曼斯菲尔德监狱，在囚犯、狱警和暗中雇主之间寻找越狱机会。",
+        "罗宾与其他参与者并非都为同一目标行动，监狱内部的交易逐步揭示哥伦比亚商业竞争如何把个人变成筹码。"
+      ],
+      "characters": [
+        "山",
+        "卡夫卡",
+        "罗宾",
+        "赫默"
       ]
     },
     {
@@ -1334,7 +2200,7 @@
       "collaboration": false,
       "sources": [
         {
-          "title": "BWIKI · 活动资料",
+          "title": "BWIKI · 绿野幻梦",
           "url": "https://wiki.biligame.com/arknights/绿野幻梦"
         },
         {
@@ -1344,7 +2210,35 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情 · 逆行（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act19side/level_act19side_st01.txt"
+        },
+        {
+          "title": "游戏剧情 · 特里蒙街道（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act19side/level_act19side_01_beg.txt"
+        },
+        {
+          "title": "游戏剧情 · 特里蒙街道（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act19side/level_act19side_01_end.txt"
+        },
+        {
+          "title": "游戏剧情 · 拓荒者小屋（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act19side/level_act19side_02_end.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "赫默调查莱茵生命与拓荒队有关的实验时，发现贫困拓荒者所期待的庇护与科研人员的技术理想紧密相连。",
+        "多萝西试图消除个体的痛苦，但实验如何取得同意、谁掌握研究成果，以及军方和企业的介入使这一愿景面临质疑。"
+      ],
+      "characters": [
+        "多萝西",
+        "赫默",
+        "塞雷娅",
+        "星源"
       ]
     },
     {
@@ -1367,7 +2261,7 @@
       "collaboration": false,
       "sources": [
         {
-          "title": "BWIKI · 活动资料",
+          "title": "BWIKI · 孤星",
           "url": "https://wiki.biligame.com/arknights/孤星"
         },
         {
@@ -1377,7 +2271,39 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情 · 阴云密布（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act25side/level_act25side_st01.txt"
+        },
+        {
+          "title": "游戏剧情 · 迷雾重重（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act25side/level_act25side_01_beg.txt"
+        },
+        {
+          "title": "游戏剧情 · 迷雾重重（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act25side/level_act25side_01_end.txt"
+        },
+        {
+          "title": "游戏剧情 · 台前幕后（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act25side/level_act25side_03_beg.txt"
+        },
+        {
+          "title": "游戏剧情 · 过去与现在的交会（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act25side/level_act25side_08_beg.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "莱茵生命总辖克丽斯腾推进突破天空的计划，特里蒙的科研机构、军方与政府围绕资源和技术控制展开角力。",
+        "赫默与塞雷娅追查计划的代价，缪尔赛思面对自己的归属，而博士和凯尔希的调查把地下遗存与天空中的目标连接起来。"
+      ],
+      "characters": [
+        "缪尔赛思",
+        "赫默",
+        "塞雷娅",
+        "凯尔希"
       ]
     },
     {
@@ -1400,7 +2326,7 @@
       "collaboration": false,
       "sources": [
         {
-          "title": "BWIKI · 活动资料",
+          "title": "BWIKI · 未许之地",
           "url": "https://wiki.biligame.com/arknights/未许之地"
         },
         {
@@ -1410,7 +2336,35 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情 · 倒映河水之中（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act47side/level_act47side_st01.txt"
+        },
+        {
+          "title": "游戏剧情 · 嘈杂的天空（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act47side/level_act47side_01_beg.txt"
+        },
+        {
+          "title": "游戏剧情 · 嘈杂的天空（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act47side/level_act47side_01_end.txt"
+        },
+        {
+          "title": "游戏剧情 · 擅闯者（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act47side/level_act47side_02_beg.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "继天空探索计划之后，哥伦比亚开放新园区推进浮空技术，娜斯提代表莱茵生命参与，却面对政府、企业和实验体验者的不同期待。",
+        "高登重返研究现场，飞行冒险家斯凯与旅行者费尔南也进入园区，让技术理想与试验风险落到亲自尝试飞行的人身上。"
+      ],
+      "characters": [
+        "娜斯提",
+        "天空盒",
+        "锡人",
+        "云迹"
       ]
     },
     {
@@ -1434,7 +2388,7 @@
       "collaboration": false,
       "sources": [
         {
-          "title": "BWIKI · 活动资料",
+          "title": "BWIKI · 骑兵与猎人",
           "url": "https://wiki.biligame.com/arknights/骑兵与猎人"
         },
         {
@@ -1444,7 +2398,33 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情 · 日正当中（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/a001/level_a001_01_beg.txt"
+        },
+        {
+          "title": "游戏剧情 · 日正当中（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/a001/level_a001_01_end.txt"
+        },
+        {
+          "title": "游戏剧情 · 察言观色（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/a001/level_a001_02_beg.txt"
+        },
+        {
+          "title": "游戏剧情 · 意外之旅（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/a001/level_a001_03_beg.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "格拉尼奉命调查赏金猎人问题，来到滴水村后帮助村长可萝尔，却发现传闻中的骑士宝藏已引来多方觊觎。",
+        "独自追查线索的斯卡蒂与她相遇，两人的目标并不完全相同，保护村民与争夺线索也因此纠缠在一起。"
+      ],
+      "characters": [
+        "格拉尼",
+        "斯卡蒂"
       ]
     },
     {
@@ -1478,7 +2458,31 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情原文 1（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act18d3/level_act18d3_01_beg.txt"
+        },
+        {
+          "title": "游戏剧情原文 2（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act18d3/level_act18d3_06_end.txt"
+        },
+        {
+          "title": "游戏剧情原文 3（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act18d3/level_act18d3_st02.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "斯卡蒂为追寻歌蕾蒂娅与幽灵鲨来到伊比利亚海岸的盐风城，却发现饥饿的居民与深海教会之间存在可怕的依存关系。",
+        "随着教士的秘密被揭开，深海猎人不仅要救出同伴，还必须面对自身血脉与海嗣的联系，以及审判庭对海洋威胁的警戒。"
+      ],
+      "characters": [
+        "斯卡蒂",
+        "歌蕾蒂娅",
+        "幽灵鲨",
+        "艾丽妮"
       ]
     },
     {
@@ -1512,7 +2516,31 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情原文 1（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act17side/level_act17side_st01.txt"
+        },
+        {
+          "title": "游戏剧情原文 2（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act17side/level_act17side_06_beg.txt"
+        },
+        {
+          "title": "游戏剧情原文 3（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act17side/level_act17side_st12.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "格兰法洛的调查与重启灯塔的行动，将深海猎人、审判官和当地青年乔迪引向失落的伊比利亚黄金时代旗舰。",
+        "船上仍有人执守昔日使命，海嗣却已改变了漫长岁月中的生存规则，使这场寻船之旅同时成为对旧日荣光与牺牲代价的追问。"
+      ],
+      "characters": [
+        "流明",
+        "艾丽妮",
+        "歌蕾蒂娅",
+        "幽灵鲨"
       ]
     },
     {
@@ -1546,7 +2574,31 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情原文 1（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act34side/level_act34side_st01.txt"
+        },
+        {
+          "title": "游戏剧情原文 2（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act34side/level_act34side_05_beg.txt"
+        },
+        {
+          "title": "游戏剧情原文 3（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act34side/level_act34side_st03.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "阿戈尔向陆地发出联络后，罗德岛与深海猎人进入海下城市，接触这个长期隔绝的文明所制定的生存与合作方案。",
+        "乌尔比安的追查将海嗣的变化、深海猎人的身体与阿戈尔的科研选择联系起来，迫使各方思考延续文明究竟需要付出怎样的代价。"
+      ],
+      "characters": [
+        "乌尔比安",
+        "歌蕾蒂娅",
+        "流明",
+        "深巡"
       ]
     },
     {
@@ -1581,9 +2633,27 @@
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
         },
         {
-          "title": "地理与主题复核来源",
+          "title": "游戏剧情原文 1（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act39side/level_act39side_st01.txt"
+        },
+        {
+          "title": "游戏剧情原文 2（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act39side/level_act39side_05_beg.txt"
+        },
+        {
+          "title": "游戏剧情原文 3（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act39side/level_act39side_st03.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "棘刺被卷入伊比利亚盐漠海盗的出海计划，必须修复关系到航路的罗盘，而极境的到来也让他重新审视自己与同行者的牵连。",
+        "船队内部的分歧、短缺的材料与船队首领不肯放弃的航海愿望，使炼金术不再只是个人研究，而成为一群人能否走向海洋的关键。"
+      ],
+      "characters": [
+        "棘刺",
+        "极境"
       ]
     },
     {
@@ -1614,7 +2684,31 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情原文 1（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act11d0/level_act11d0_st01.txt"
+        },
+        {
+          "title": "游戏剧情原文 2（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act11d0/level_act11d0_05_end.txt"
+        },
+        {
+          "title": "游戏剧情原文 3（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act11d0/level_act11d0_sub-1-2_end.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "亚叶与铃兰来到被天灾切断交通的沃伦姆德，调查罗德岛医生遇害的火灾，却发现粮食危机与对感染者的敌意正在吞噬城市。",
+        "谣言、复仇和地方治理的失序把居民推向冲突，泥岩及其萨卡兹队伍也被卷入其中，救援行动因此必须同时面对伤员与相互敌视的人群。"
+      ],
+      "characters": [
+        "亚叶",
+        "铃兰",
+        "泥岩",
+        "灰喉"
       ]
     },
     {
@@ -1645,7 +2739,30 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情原文 1（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act18side/level_act18side_st01.txt"
+        },
+        {
+          "title": "游戏剧情原文 2（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act18side/level_act18side_st02.txt"
+        },
+        {
+          "title": "游戏剧情原文 3（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act18side/level_act18side_st03.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "芙蓉在维谢海姆开展医疗工作时结识黑键与白垩，两位青年参与的音乐会成为感染者生活与音乐理想交汇的舞台。",
+        "车尔尼的演出逐渐被卷入与巫王遗产有关的计划，原本寻找自身声音的人们不得不对抗把血统和天赋当作工具的力量。"
+      ],
+      "characters": [
+        "芙蓉",
+        "黑键",
+        "车尔尼"
       ]
     },
     {
@@ -1676,7 +2793,31 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情原文 1（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act29side/level_act29side_st01.txt"
+        },
+        {
+          "title": "游戏剧情原文 2（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act29side/level_act29side_st02.txt"
+        },
+        {
+          "title": "游戏剧情原文 3（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act29side/level_act29side_st03.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "双子女皇统治下的庆典将薇薇安娜、阿尔图罗、费德里科与黑键带到同一座城市，华丽乐章之下却潜藏着巫王时代未了的遗产。",
+        "当音乐触及人们被压抑的意志，维持国家秩序的金律与个人选择发生冲突，众人必须面对旧王权留下的力量及其延续方式。"
+      ],
+      "characters": [
+        "塑心",
+        "薇薇安娜",
+        "送葬人",
+        "黑键"
       ]
     },
     {
@@ -1710,7 +2851,31 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情原文 1（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act22side/level_act22side_st01.txt"
+        },
+        {
+          "title": "游戏剧情原文 2（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act22side/level_act22side_05_beg.txt"
+        },
+        {
+          "title": "游戏剧情原文 3（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act22side/level_act22side_st03.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "离开深池的苇草在维多利亚荒野中帮助塔拉流民，试着以救治而非恐惧建立人与人之间的联系。",
+        "地方贵族与深池的行动再次把难民营推向危险，她也必须在姐姐的政治道路之外，决定自己要如何回应追随者的期待。"
+      ],
+      "characters": [
+        "苇草",
+        "风笛",
+        "陈",
+        "和弦"
       ]
     },
     {
@@ -1744,7 +2909,30 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情原文 1（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act41side/level_act41side_st01.txt"
+        },
+        {
+          "title": "游戏剧情原文 2（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act41side/level_act41side_05_beg.txt"
+        },
+        {
+          "title": "游戏剧情原文 3（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act41side/level_act41side_st03.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "获得独立的塔拉仍被死火的后果困扰，苇草走入黑林与被封锁的城市，寻找让生者和死者各归其位的办法。",
+        "夏末节、守灵传统与旧日红龙的往事交织在一起，使她与爱布拉娜必须重新回答领袖应当留下怎样的故事，以及民众该如何走出战争。"
+      ],
+      "characters": [
+        "苇草",
+        "死芒",
+        "开斯特公爵"
       ]
     },
     {
@@ -1775,7 +2963,30 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情原文 1（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act3d0/ui_act3d0_campselect.txt"
+        },
+        {
+          "title": "游戏剧情原文 2（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act3d0/level_act3d0_05_end.txt"
+        },
+        {
+          "title": "游戏剧情原文 3（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act3d0/level_act3d0_ex06_end.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "罗德岛一行来到汐斯塔参加音乐节时，研究火山的锡兰发现异常迹象，却难以让自己的预警得到城市管理者的正视。",
+        "度假随之变成争取疏散时间的行动，黑必须在旧有命令与保护锡兰之间作出选择，而城市的繁荣也暴露出对危险的刻意忽视。"
+      ],
+      "characters": [
+        "锡兰",
+        "黑",
+        "博士"
       ]
     },
     {
@@ -1806,7 +3017,31 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情原文 1（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act12d0/level_act12d0_01_beg.txt"
+        },
+        {
+          "title": "游戏剧情原文 2（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act12d0/level_act12d0_05_end.txt"
+        },
+        {
+          "title": "游戏剧情原文 3（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act12d0/level_act12d0_ex01_end.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "嘉维尔返乡时遭遇飞行器坠落，罗德岛同行者随后卷入阿卡胡拉的大酋长选拔与各部族的热闹竞争。",
+        "特米米想留住嘉维尔的愿望与森蚺追求机械力量的理想不断碰撞，让返乡之旅同时呈现出故乡的人情、发展分歧和对外界的向往。"
+      ],
+      "characters": [
+        "嘉维尔",
+        "特米米",
+        "森蚺",
+        "刻俄柏"
       ]
     },
     {
@@ -1839,7 +3074,31 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情原文 1（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act12side/level_act12side_st01.txt"
+        },
+        {
+          "title": "游戏剧情原文 2（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act12side/level_act12side_05_beg.txt"
+        },
+        {
+          "title": "游戏剧情原文 3（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act12side/level_act12side_st04.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "陈与林雨霞在多索雷斯组队参加竞技活动，却发现旅游城市的狂欢舞台也是各方争夺名望和政治筹码的场所。",
+        "潘乔针对坎黛拉的计划打破赛事秩序，龙舌兰也被迫面对家人与城市之间的选择，使假日背后的玻利瓦尔矛盾逐渐显现。"
+      ],
+      "characters": [
+        "陈",
+        "林",
+        "龙舌兰",
+        "坎黛拉·桑切斯"
       ]
     },
     {
@@ -1872,7 +3131,31 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情原文 1（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act20side/level_act20side_st01.txt"
+        },
+        {
+          "title": "游戏剧情原文 2（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act20side/level_act20side_05_beg.txt"
+        },
+        {
+          "title": "游戏剧情原文 3（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act20side/level_act20side_st02.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "嘉维尔一行来到杜林族地下城市际崖城，在泳池、工程竞赛与居民的欢闹中，逐渐得知这座城市正面临无法继续安居的危机。",
+        "至简对建筑的执着与众人对故土的感情，使撤离不只是运输问题，也成为如何保住共同生活、并在地表重新开始的选择。"
+      ],
+      "characters": [
+        "嘉维尔",
+        "至简",
+        "鸿雪",
+        "森蚺"
       ]
     },
     {
@@ -1903,7 +3186,31 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情原文 1（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act27side/level_act27side_st01.txt"
+        },
+        {
+          "title": "游戏剧情原文 2（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act27side/level_act27side_05_beg.txt"
+        },
+        {
+          "title": "游戏剧情原文 3（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act27side/level_act27side_st03.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "艾雅法拉回到汐斯塔追寻父母留下的火山研究，而逐渐恶化的身体状况与神秘羊群的出现，让熟悉的风景有了新的意义。",
+        "新城的商业活动与旧地的记忆交错展开，她在朋友陪伴下重新理解失去、告别和继续旅行，也让父母的工作不再只是无法触及的过去。"
+      ],
+      "characters": [
+        "艾雅法拉",
+        "诗怀雅",
+        "苍苔",
+        "锡兰"
       ]
     },
     {
@@ -1934,7 +3241,30 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情原文 1（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act35side/level_act35side_st01.txt"
+        },
+        {
+          "title": "游戏剧情原文 2（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act35side/level_act35side_05_beg.txt"
+        },
+        {
+          "title": "游戏剧情原文 3（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act35side/level_act35side_st03.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "佩佩投身博物馆与文物相关的事务，却在娜仁图亚、缇缇等人的介入下发现，萨尔贡的辉煌往事远比展柜中的故事复杂。",
+        "被重新搬上舞台的战争记忆、英雄形象与当代利益彼此冲突，迫使年轻的参与者思考文物应当服务于谁，以及如何面对历史留下的伤痕。"
+      ],
+      "characters": [
+        "佩佩",
+        "娜仁图亚",
+        "缇缇"
       ]
     },
     {
@@ -1967,9 +3297,29 @@
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
         },
         {
-          "title": "地理与主题复核来源",
+          "title": "游戏剧情原文 1（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act44side/level_act44side_st01.txt"
+        },
+        {
+          "title": "游戏剧情原文 2（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act44side/level_act44side_05_beg.txt"
+        },
+        {
+          "title": "游戏剧情原文 3（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act44side/level_act44side_st03.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "星熊重返东国，与旧日帮派关系和政治纷争再度相遇，舞台上的遥也被卷进这座城市难以摆脱的暴力循环。",
+        "面对仍以过去身份看待自己的人，星熊必须把如今守护他人的信念付诸行动，而不是让曾经的名号替自己决定立场。"
+      ],
+      "characters": [
+        "星熊",
+        "遥",
+        "林",
+        "诗怀雅"
       ]
     },
     {
@@ -2002,9 +3352,27 @@
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
         },
         {
-          "title": "地理与主题复核来源",
+          "title": "游戏剧情原文 1（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act53side/level_act53side_st01.txt"
+        },
+        {
+          "title": "游戏剧情原文 2（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act53side/level_act53side_06_beg.txt"
+        },
+        {
+          "title": "游戏剧情原文 3（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act53side/level_act53side_st03.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "安洁莉娜前往雷姆必拓递送设备与药品，却因远程通讯故障与新结识的旅伴踏上修复通讯塔的公路旅程。",
+        "矿镇、荒野和被遗留的感染者聚落让四位同行者各自的愿望逐渐显露，也让信使重新思考，真正连接这片大地的究竟是技术还是人与人的关心。"
+      ],
+      "characters": [
+        "安洁莉娜",
+        "嘉辛塔"
       ]
     },
     {
@@ -2037,7 +3405,31 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情原文 1（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act5d0/ui_act5d0_firstenter.txt"
+        },
+        {
+          "title": "游戏剧情原文 2（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act5d0/level_act5d0_06_end.txt"
+        },
+        {
+          "title": "游戏剧情原文 3（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act5d0/level_act5d0_ex03_end.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "拜松初次随企鹅物流行动，便在龙门的一夜中遭遇追逐、枪战与叙拉古帮派的报复，普通的工作体验迅速失控。",
+        "大帝与鼠王各有盘算，德克萨斯的过去和莫斯提马的归来也交织其中，使街头的喧闹成为理解龙门地下秩序的一扇窗口。"
+      ],
+      "characters": [
+        "拜松",
+        "德克萨斯",
+        "能天使",
+        "莫斯提马"
       ]
     },
     {
@@ -2070,7 +3462,30 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情原文 1（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act28side/level_act28side_st01.txt"
+        },
+        {
+          "title": "游戏剧情原文 2（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act28side/level_act28side_st02.txt"
+        },
+        {
+          "title": "游戏剧情原文 3（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act28side/level_act28side_st03.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "杰西卡随黑钢执行边地安保任务，一场围绕银行与金钱的危机使她直面拓荒者的债务、困境和被制度忽视的生存需求。",
+        "当雇主命令与保护普通人的愿望发生冲突，她开始追问自己手中的武器究竟应当守护什么，并逐步走向不同于从前的道路。"
+      ],
+      "characters": [
+        "杰西卡",
+        "芙兰卡",
+        "雷蛇"
       ]
     },
     {
@@ -2109,9 +3524,28 @@
           "url": "https://wiki.biligame.com/arknights/蒂比"
         },
         {
-          "title": "地理与主题复核来源",
+          "title": "游戏剧情原文 1（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act43side/level_act43side_st01.txt"
+        },
+        {
+          "title": "游戏剧情原文 2（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act43side/level_act43side_st02.txt"
+        },
+        {
+          "title": "游戏剧情原文 3（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act43side/level_act43side_st03.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "傀影进入蓝卡坞的电影摄制现场后，表演中的死亡与真实命案逐渐交叠，剧组成员在威胁和猜疑中难以脱身。",
+        "围绕拍摄的调查牵出影视行业的阴暗面，也再次触及猩红剧团留下的控制，使他必须分清自己选择的角色与他人强加的剧本。"
+      ],
+      "characters": [
+        "傀影",
+        "暮落",
+        "蒂比"
       ]
     },
     {
@@ -2146,9 +3580,29 @@
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
         },
         {
-          "title": "地理与主题复核来源",
+          "title": "游戏剧情原文 1（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act48side/level_act48side_st01.txt"
+        },
+        {
+          "title": "游戏剧情原文 2（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act48side/level_act48side_05_beg.txt"
+        },
+        {
+          "title": "游戏剧情原文 3（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act48side/level_act48side_st03.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "缇缇带着围绕古琴归还的外交任务来到米诺斯的雅赛努斯，文物交换与第一神殿重建却触动了萨尔贡占领时期留下的旧伤。",
+        "古琴的真伪、民众的愤怒与摆渡人的行动相互牵连，使和解不再只是一场仪式，而必须正视历史、责任和仍在生活的人们。"
+      ],
+      "characters": [
+        "缇缇",
+        "摆渡人",
+        "帕拉斯",
+        "调香师"
       ]
     },
     {
@@ -2179,7 +3633,47 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情原文 1（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act4d0/level_act4d0_st01.txt"
+        },
+        {
+          "title": "游戏剧情原文 2（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act4d0/level_act4d0_st02.txt"
+        },
+        {
+          "title": "游戏剧情原文 3（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act4d0/level_act4d0_st03.txt"
+        },
+        {
+          "title": "游戏剧情原文 4（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act4d0/level_act4d0_st04.txt"
+        },
+        {
+          "title": "游戏剧情原文 5（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act4d0/level_act4d0_st05.txt"
+        },
+        {
+          "title": "游戏剧情原文 6（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act4d0/level_act4d0_st06.txt"
+        },
+        {
+          "title": "游戏剧情原文 7（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act4d0/level_act4d0_st07.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "这组故事从切尔诺伯格战场上的赫拉格、爱国者与罗德岛成员写起，展示主线事件之外不同立场的人如何理解战争与责任。",
+        "射击训练、儿童课业和麦哲伦的极地考察又把视线转向日常与远方，使战场中的选择与这些人想要保住的生活形成对照。"
+      ],
+      "characters": [
+        "赫拉格",
+        "爱国者",
+        "麦哲伦",
+        "伊芙利特"
       ]
     },
     {
@@ -2210,7 +3704,43 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情原文 1（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act7d5/level_act7d5_st01.txt"
+        },
+        {
+          "title": "游戏剧情原文 2（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act7d5/level_act7d5_st02.txt"
+        },
+        {
+          "title": "游戏剧情原文 3（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act7d5/level_act7d5_st03.txt"
+        },
+        {
+          "title": "游戏剧情原文 4（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act7d5/level_act7d5_st04.txt"
+        },
+        {
+          "title": "游戏剧情原文 5（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act7d5/level_act7d5_st05.txt"
+        },
+        {
+          "title": "游戏剧情原文 6（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act7d5/level_act7d5_st06.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "联欢会、厨房与日记本把罗德岛的午间生活串成多段故事，白面鸮、角峰等人在任务之外的习惯与心意由此显露。",
+        "刻俄柏寻找归宿、杜宾指导年轻干员等篇章，则把吃饭、训练和相处这些小事写成陌生人逐渐成为同伴的过程。"
+      ],
+      "characters": [
+        "白面鸮",
+        "角峰",
+        "刻俄柏",
+        "杜宾"
       ]
     },
     {
@@ -2241,7 +3771,47 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情原文 1（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act13d0/level_act13d0_st01.txt"
+        },
+        {
+          "title": "游戏剧情原文 2（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act13d0/level_act13d0_st02.txt"
+        },
+        {
+          "title": "游戏剧情原文 3（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act13d0/level_act13d0_st03.txt"
+        },
+        {
+          "title": "游戏剧情原文 4（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act13d0/level_act13d0_st04.txt"
+        },
+        {
+          "title": "游戏剧情原文 5（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act13d0/level_act13d0_st05.txt"
+        },
+        {
+          "title": "游戏剧情原文 6（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act13d0/level_act13d0_st06.txt"
+        },
+        {
+          "title": "游戏剧情原文 7（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act13d0/level_act13d0_st07.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "史尔特尔追索记忆、泥岩带领同伴离开险境、四月回望家乡等故事，共同围绕离乡者如何与自己的过去相处展开。",
+        "故乡宴席、族群身份与孩子们对天空的想象让回忆具有不同的重量，也说明来到罗德岛并不意味着原有的牵挂就此消失。"
+      ],
+      "characters": [
+        "史尔特尔",
+        "泥岩",
+        "四月",
+        "傀影"
       ]
     },
     {
@@ -2272,7 +3842,47 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情原文 1（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act15d5/level_act15d5_st01.txt"
+        },
+        {
+          "title": "游戏剧情原文 2（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act15d5/level_act15d5_st02.txt"
+        },
+        {
+          "title": "游戏剧情原文 3（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act15d5/level_act15d5_st03.txt"
+        },
+        {
+          "title": "游戏剧情原文 4（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act15d5/level_act15d5_st04.txt"
+        },
+        {
+          "title": "游戏剧情原文 5（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act15d5/level_act15d5_st05.txt"
+        },
+        {
+          "title": "游戏剧情原文 6（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act15d5/level_act15d5_st06.txt"
+        },
+        {
+          "title": "游戏剧情原文 7（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act15d5/level_act15d5_st07.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "陈离开龙门后的行动、贾维一行的荒野经历与爱丽丝守护童话的故事，把视线投向干员在熟悉身份之外的生活。",
+        "这些篇章分别讨论正义、同行与承诺如何落在具体的人身上，让不同地区的旅途成为理解人物选择的补充，而非一条连续的战线。"
+      ],
+      "characters": [
+        "陈",
+        "爱丽丝",
+        "贾维",
+        "莱恩哈特"
       ]
     },
     {
@@ -2303,7 +3913,43 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情原文 1（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act7mini/level_act7mini_st01.txt"
+        },
+        {
+          "title": "游戏剧情原文 2（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act7mini/level_act7mini_st02.txt"
+        },
+        {
+          "title": "游戏剧情原文 3（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act7mini/level_act7mini_st03.txt"
+        },
+        {
+          "title": "游戏剧情原文 4（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act7mini/level_act7mini_st04.txt"
+        },
+        {
+          "title": "游戏剧情原文 5（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act7mini/level_act7mini_st05.txt"
+        },
+        {
+          "title": "游戏剧情原文 6（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act7mini/level_act7mini_st06.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "蓝毒与格劳克斯在灯塔附近的见闻、帕拉斯与萨卡兹佣兵的同行，以及其他地区的小事件，共同呈现大变局到来前的人物处境。",
+        "讯使带来的谢拉格来信又为后续行程留下线索，使这些短篇既能独立阅读，也能看见不同国家和组织故事即将交汇的征兆。"
+      ],
+      "characters": [
+        "蓝毒",
+        "格劳克斯",
+        "帕拉斯",
+        "讯使"
       ]
     },
     {
@@ -2334,7 +3980,43 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情原文 1（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act10mini/level_act10mini_st01.txt"
+        },
+        {
+          "title": "游戏剧情原文 2（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act10mini/level_act10mini_st02.txt"
+        },
+        {
+          "title": "游戏剧情原文 3（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act10mini/level_act10mini_st03.txt"
+        },
+        {
+          "title": "游戏剧情原文 4（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act10mini/level_act10mini_st04.txt"
+        },
+        {
+          "title": "游戏剧情原文 5（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act10mini/level_act10mini_st05.txt"
+        },
+        {
+          "title": "游戏剧情原文 6（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act10mini/level_act10mini_st06.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "在维多利亚的城镇里，澄闪只想经营理发店并过上安稳生活，但针对感染者的欺压不断逼近她和身边的人。",
+        "店铺遭遇的灾祸把夏栎、夜烟、天火等人的行动联系起来，故事由不同视角展现普通人的愿望如何被践踏，又如何得到坚持与援助。"
+      ],
+      "characters": [
+        "澄闪",
+        "夏栎",
+        "夜烟",
+        "天火"
       ]
     },
     {
@@ -2365,7 +4047,42 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情原文 1（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act11mini/level_act11mini_st01.txt"
+        },
+        {
+          "title": "游戏剧情原文 2（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act11mini/level_act11mini_st02.txt"
+        },
+        {
+          "title": "游戏剧情原文 3（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act11mini/level_act11mini_st03.txt"
+        },
+        {
+          "title": "游戏剧情原文 4（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act11mini/level_act11mini_st04.txt"
+        },
+        {
+          "title": "游戏剧情原文 5（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act11mini/level_act11mini_st05.txt"
+        },
+        {
+          "title": "游戏剧情原文 6（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act11mini/level_act11mini_st06.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "布朗陶家族的新生意、汐斯塔迁城后的安排，以及尚蜀事件后的往来，让先前活动落幕后的人物重新回到视野中。",
+        "拉普兰德面对旧日帮派、罗伊与旧识相遇等片段进一步补上主角离场后的余波，说明一次事件的结束并不等于当地生活停止变化。"
+      ],
+      "characters": [
+        "菈塔托丝·布朗陶",
+        "拉普兰德",
+        "左乐"
       ]
     },
     {
@@ -2402,13 +4119,45 @@
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
         },
         {
-          "title": "地理与主题复核来源",
+          "title": "游戏剧情原文 1（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act15mini/level_act15mini_st01.txt"
         },
         {
-          "title": "地理与主题复核来源",
+          "title": "游戏剧情原文 2（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act15mini/level_act15mini_st02.txt"
+        },
+        {
+          "title": "游戏剧情原文 3（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act15mini/level_act15mini_st03.txt"
+        },
+        {
+          "title": "游戏剧情原文 4（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act15mini/level_act15mini_st04.txt"
+        },
+        {
+          "title": "游戏剧情原文 5（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act15mini/level_act15mini_st05.txt"
+        },
+        {
+          "title": "游戏剧情原文 6（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act15mini/level_act15mini_st06.txt"
+        },
+        {
+          "title": "游戏剧情原文 7（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act15mini/level_act15mini_st07.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "麦哲伦深入萨米进行考察，却发现林地与冰原上的危险无法只靠仪器读数判断，提丰和当地人的经验成为前行的重要依靠。",
+        "寒檀、远山与萨米传统的联系逐渐展开，科学观察与巫术、征兆和禁忌相互碰撞，揭示北方居民如何理解并守护自己的土地。"
+      ],
+      "characters": [
+        "麦哲伦",
+        "提丰",
+        "寒檀",
+        "远山"
       ]
     },
     {
@@ -2439,7 +4188,43 @@
         {
           "title": "游戏常驻表（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "游戏剧情原文 1（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act16mini/level_act16mini_st01.txt"
+        },
+        {
+          "title": "游戏剧情原文 2（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act16mini/level_act16mini_st02.txt"
+        },
+        {
+          "title": "游戏剧情原文 3（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act16mini/level_act16mini_st03.txt"
+        },
+        {
+          "title": "游戏剧情原文 4（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act16mini/level_act16mini_st04.txt"
+        },
+        {
+          "title": "游戏剧情原文 5（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act16mini/level_act16mini_st05.txt"
+        },
+        {
+          "title": "游戏剧情原文 6（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act16mini/level_act16mini_st06.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "阿兰娜驾驶的运载车因劫车与意外改变行程，莱伊追寻的目标也与这场穿越雷姆必拓荒野的旅途相交。",
+        "沿途的矿业生活、传闻与旧日回忆，把阿米娅和暴行对故乡的感情带入故事，也让前往咧嘴谷的每个人都有了不同的理由。"
+      ],
+      "characters": [
+        "阿兰娜",
+        "莱伊",
+        "阿米娅",
+        "暴行"
       ]
     },
     {
@@ -2472,9 +4257,41 @@
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
         },
         {
-          "title": "地理与主题复核来源",
+          "title": "游戏剧情原文 1（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act17mini/level_act17mini_st01.txt"
+        },
+        {
+          "title": "游戏剧情原文 2（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act17mini/level_act17mini_st02.txt"
+        },
+        {
+          "title": "游戏剧情原文 3（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act17mini/level_act17mini_st03.txt"
+        },
+        {
+          "title": "游戏剧情原文 4（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act17mini/level_act17mini_st04.txt"
+        },
+        {
+          "title": "游戏剧情原文 5（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act17mini/level_act17mini_st05.txt"
+        },
+        {
+          "title": "游戏剧情原文 6（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act17mini/level_act17mini_st06.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "妮芙追查从熔炉中散逸的先祖魂灵，与渡桥等人在重建中的卡兹戴尔奔走，却不断被这座城市鲜活而杂乱的日常打断。",
+        "旧时代的亡者与如今的居民相遇，使找回魂灵的任务也变成一次重新认识家园的过程：战争留下了伤痕，但生活仍在继续生长。"
+      ],
+      "characters": [
+        "妮芙",
+        "渡桥",
+        "泥岩",
+        "锡人"
       ]
     },
     {
@@ -2507,9 +4324,45 @@
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
         },
         {
-          "title": "地理与主题复核来源",
+          "title": "游戏剧情原文 1（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act21mini/level_act21mini_st01.txt"
+        },
+        {
+          "title": "游戏剧情原文 2（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act21mini/level_act21mini_st02.txt"
+        },
+        {
+          "title": "游戏剧情原文 3（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act21mini/level_act21mini_st03.txt"
+        },
+        {
+          "title": "游戏剧情原文 4（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act21mini/level_act21mini_st04.txt"
+        },
+        {
+          "title": "游戏剧情原文 5（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act21mini/level_act21mini_st05.txt"
+        },
+        {
+          "title": "游戏剧情原文 6（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act21mini/level_act21mini_st06.txt"
+        },
+        {
+          "title": "游戏剧情原文 7（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act21mini/level_act21mini_st07.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "种植园、运送香蕉的列车与破裂的和平谈判，以不同人物的遭遇串起玻利瓦尔的战争、剥削和疾病，表面的症状背后藏着更深的社会创伤。",
+        "这些故事最终与米格鲁受困的意识及她保护他人的执念相连，因此不能把所有场景都当作同一时间发生的现实事件来阅读。"
+      ],
+      "characters": [
+        "米格鲁",
+        "杜宾",
+        "克洛丝",
+        "谬因"
       ]
     },
     {
@@ -2546,7 +4399,31 @@
         {
           "title": "地理与主题复核来源",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act17d0/level_act17d0_01_beg.txt"
+        },
+        {
+          "title": "游戏剧情原文 1（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act17d0/level_act17d0_st01.txt"
+        },
+        {
+          "title": "游戏剧情原文 2（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act17d0/level_act17d0_05_end.txt"
+        },
+        {
+          "title": "游戏剧情原文 3（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act17d0/level_act17d0_st03.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "彩虹小队在一次实验设施行动后意外来到泰拉，陌生的环境与装备补给限制，使他们必须与罗德岛成员合作保护当地居民。",
+        "长泉镇附近的异变把源石实验、感染者处境和不断出现的怪物联系起来，队员们在寻找归途之前，先选择承担眼前的救援责任。"
+      ],
+      "characters": [
+        "灰烬",
+        "战车",
+        "巡林者",
+        "黑"
       ]
     },
     {
@@ -2579,9 +4456,29 @@
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
         },
         {
-          "title": "地理与主题复核来源",
+          "title": "游戏剧情原文 1（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act32side/level_act32side_st01.txt"
+        },
+        {
+          "title": "游戏剧情原文 2（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act32side/level_act32side_05_beg.txt"
+        },
+        {
+          "title": "游戏剧情原文 3（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act32side/level_act32side_st03.txt"
         }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "另一支彩虹小队来到泰拉后卷入多索雷斯艺术馆的袭击事件，必须在陌生社会中判断局势、保护人质并寻找合作对象。",
+        "艺术馆内外的行动把龙舌兰、当地居民与来客联系起来，光鲜展览背后的利益和暴力也随着救援逐步显露。"
+      ],
+      "characters": [
+        "艾拉",
+        "双月",
+        "医生",
+        "导火索"
       ]
     },
     {
@@ -2614,8 +4511,202 @@
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
         },
         {
-          "title": "地理与主题复核来源",
+          "title": "游戏剧情原文 1（公开镜像）",
           "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act45side/level_act45side_st01.txt"
+        },
+        {
+          "title": "游戏剧情原文 2（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act45side/level_act45side_04_end.txt"
+        },
+        {
+          "title": "游戏剧情原文 3（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act45side/level_act45side_08_end.txt"
+        }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "一封来自不愿长大少女的信，使爱丽丝、贝娜与Ave Mujica成员走向林间城堡，却在层层梦境中被分开，连彼此与自身的认知也受到动摇。",
+        "寻找少女与同伴的过程不断触及愿望、逃避和成长，众人必须辨认梦中的安慰与现实的牵挂，才能共同选择醒来后的道路。"
+      ],
+      "characters": [
+        "丰川祥子",
+        "三角初华",
+        "爱丽丝",
+        "贝娜"
+      ]
+    },
+    {
+      "id": "act54side",
+      "title": "月行水上",
+      "line": "COLLAB",
+      "lineTitle": "可回顾的联动故事",
+      "order": 3,
+      "primary": "laterano",
+      "related": [],
+      "summary": "结城理与同伴意外来到拉特兰，在校园生活和志愿实践中认识这座圣城。",
+      "basis": "补充游戏回顾表已开放的条目；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": false,
+      "retroId": null,
+      "reviewStart": 1790280000,
+      "firstStart": 1788476400,
+      "storyCount": 13,
+      "collaboration": true,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/月行水上"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "官方 · 活动开放公告",
+          "url": "https://ak.hypergryph.com/news/9681"
+        },
+        {
+          "title": "游戏原文 · 开场与舞台",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act54side/level_act54side_st01.txt"
+        },
+        {
+          "title": "游戏原文 · 主要人物与行动",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act54side/level_act54side_01_beg.txt"
+        },
+        {
+          "title": "游戏档案 · 干员履历",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/handbook_info_table.json"
+        }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "结城理等人以转学生身份进入圣马尔索综合学校，通过社团活动和校外志愿工作结识学生与殡仪堂执事。",
+        "寻找失散伙伴的旅程，与当地人关于葬礼、记忆和告别的生活交织在一起。"
+      ],
+      "characters": [
+        "结城理",
+        "埃癸斯",
+        "岳羽由加莉",
+        "虎狼丸"
+      ]
+    },
+    {
+      "id": "act52side",
+      "title": "昨日海",
+      "line": "SUP_ACTIVITY",
+      "lineTitle": "补充活动目录",
+      "order": 0,
+      "primary": "iberia",
+      "related": [
+        "aegir"
+      ],
+      "summary": "伊比利亚与阿戈尔共同打捞沉没的港都，克莱门莎与当地居民面对黄金时代遗留的裂痕。",
+      "basis": "补充游戏回顾表已开放的条目；国家／组织标签为本站按叙事重心整理，不等同于官方行政分类。",
+      "stageAvailable": false,
+      "retroId": null,
+      "reviewStart": 1793304000,
+      "firstStart": 1791500400,
+      "storyCount": 19,
+      "collaboration": false,
+      "sources": [
+        {
+          "title": "BWIKI · 活动资料",
+          "url": "https://wiki.biligame.com/arknights/昨日海"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏常驻表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/retro_table.json"
+        },
+        {
+          "title": "官方 · 活动开放公告",
+          "url": "https://ak.hypergryph.com/news/5101"
+        },
+        {
+          "title": "游戏原文 · 开场与舞台",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act52side/level_act52side_st01.txt"
+        },
+        {
+          "title": "游戏原文 · 主要人物与行动",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act52side/level_act52side_01_beg.txt"
+        },
+        {
+          "title": "游戏档案 · 干员履历",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/handbook_info_table.json"
+        }
+      ],
+      "reviewAvailable": true,
+      "availability": "review",
+      "synopsis": [
+        "港都打捞工程的水文测绘负责人旅骨是一名阿戈尔岛民，他在技术合作之外，也必须面对伊比利亚社会对岛民的成见。",
+        "岛民、审判庭与普通工人的不同诉求，使重建城市也成为重新理解彼此的过程。"
+      ],
+      "characters": [
+        "克莱门莎",
+        "旅骨",
+        "德·托莱多",
+        "卡门·伊·伊比利亚"
+      ]
+    }
+  ],
+  "activeEvents": [
+    {
+      "id": "act55side",
+      "title": "时间啊，向前！",
+      "primary": "ursus",
+      "related": [
+        "reunion"
+      ],
+      "line": "CURRENT",
+      "lineTitle": "当前活动",
+      "order": 0,
+      "summary": "圣骏堡政变后，乌萨斯的皇权、军队与民众发生激烈冲突。",
+      "synopsis": [
+        "故事从费奥多尔逃离圣骏堡后的遭遇切入，展现中央军队溃败、内卫介入与皇权失势的局面。",
+        "塔露拉与重组的整合运动在围困与营救中，寻找感染者和普通人共同的未来。"
+      ],
+      "characters": [
+        "塔露拉",
+        "九",
+        "冻河",
+        "米拉娜"
+      ],
+      "start": 1793505600,
+      "end": 1795291199,
+      "exchangeEnd": 1795895999,
+      "reviewStart": 1795896000,
+      "firstStart": 1793505600,
+      "storyCount": 24,
+      "stageAvailable": false,
+      "reviewAvailable": false,
+      "availability": "active",
+      "retroId": null,
+      "collaboration": false,
+      "basis": "当前限时活动；尚未开放情报处理室回顾。地区与组织标签按剧情内容整理，未据此推定官方乐章归属。",
+      "sources": [
+        {
+          "title": "官方 · 活动开放公告",
+          "url": "https://ak.hypergryph.com/news/0787"
+        },
+        {
+          "title": "游戏回顾表（公开镜像）",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/story_review_table.json"
+        },
+        {
+          "title": "游戏原文 · 活动序章",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act55side/level_act55side_st01.txt"
+        },
+        {
+          "title": "游戏原文 · 主要人物与行动",
+          "url": "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/story/activities/act55side/level_act55side_01_beg.txt"
         }
       ]
     }
@@ -2625,31 +4716,30 @@
       "id": "act24side",
       "title": "落叶逐火",
       "reviewStart": 4086014399,
-      "reason": "尚未到回顾开放时间／联动未常驻"
+      "reviewScheduled": false,
+      "reason": "回顾表仍为远期占位时间，当前未确认常驻开放。"
     },
     {
       "id": "act36side",
       "title": "泰拉饭",
       "reviewStart": 4093703999,
-      "reason": "尚未到回顾开放时间／联动未常驻"
+      "reviewScheduled": false,
+      "reason": "回顾表仍为远期占位时间，当前未确认常驻开放。"
     },
     {
       "id": "act50side",
       "title": "泡影苍霆",
       "reviewStart": 4078583999,
-      "reason": "尚未到回顾开放时间／联动未常驻"
-    },
-    {
-      "id": "act54side",
-      "title": "月行水上",
-      "reviewStart": 1790280000,
-      "reason": "尚未到回顾开放时间／联动未常驻"
+      "reviewScheduled": false,
+      "reason": "回顾表仍为远期占位时间，当前未确认常驻开放。"
     },
     {
       "id": "act13mini",
       "title": "好久不见",
       "reviewStart": 4085927999,
-      "reason": "尚未到回顾开放时间／联动未常驻"
+      "reviewScheduled": false,
+      "reason": "回顾表仍为远期占位时间，当前未确认常驻开放。"
     }
-  ]
+  ],
+  "guideChecked": "2026-11-12"
 }

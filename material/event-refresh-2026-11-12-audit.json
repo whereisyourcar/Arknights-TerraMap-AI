@@ -1,0 +1,91 @@
+{
+  "checked": "2026-11-12",
+  "timezone": "Asia/Shanghai",
+  "reviewRevision": "bffe31bf66739842f99b457327066c695e2af389",
+  "announcements": [
+    {
+      "eventId": "act54side",
+      "url": "https://ak.hypergryph.com/news/9681",
+      "published": "2026-08-29",
+      "start": 1788494400,
+      "end": 1789675199,
+      "exchangeEnd": 1790279999,
+      "reviewStart": 1790280000,
+      "finding": "官方公告说明活动结束后收录情报处理室；回顾表开放时间为2026-09-25 04:00。"
+    },
+    {
+      "eventId": "act52side",
+      "url": "https://ak.hypergryph.com/news/5101",
+      "published": "2026-10-03",
+      "start": 1791518400,
+      "end": 1792699199,
+      "exchangeEnd": 1793303999,
+      "reviewStart": 1793304000,
+      "finding": "官方公告说明活动结束后收录情报处理室；回顾表开放时间为2026-10-30 04:00。"
+    },
+    {
+      "eventId": "act55side",
+      "url": "https://ak.hypergryph.com/news/0787",
+      "published": "2026-10-24",
+      "start": 1793505600,
+      "end": 1795291199,
+      "exchangeEnd": 1795895999,
+      "reviewStart": 1795896000,
+      "phases": [
+        {
+          "start": 1793505600,
+          "name": "残照终尽"
+        },
+        {
+          "start": 1794124800,
+          "name": "长冬初青"
+        },
+        {
+          "start": 1794729600,
+          "name": "世纪之春"
+        }
+      ],
+      "finding": "关卡当前开放，11月22日结束；情报处理室回顾尚未开放，表定11月29日04:00开始。"
+    }
+  ],
+  "excludedAudit": [
+    {
+      "id": "act24side",
+      "title": "落叶逐火",
+      "reviewStart": 4086014399,
+      "permanentStages": false,
+      "finding": "2099年为数据占位；不能当成已开放回顾或实际公布的未来复刻日期。"
+    },
+    {
+      "id": "act36side",
+      "title": "泰拉饭",
+      "reviewStart": 4093703999,
+      "permanentStages": false,
+      "finding": "2099年为数据占位；不能当成已开放回顾或实际公布的未来复刻日期。"
+    },
+    {
+      "id": "act50side",
+      "title": "泡影苍霆",
+      "reviewStart": 4078583999,
+      "permanentStages": false,
+      "finding": "2099年为数据占位；不能当成已开放回顾或实际公布的未来复刻日期。"
+    },
+    {
+      "id": "act13mini",
+      "title": "好久不见",
+      "reviewStart": 4085927999,
+      "permanentStages": false,
+      "finding": "2099年为数据占位；不能当成已开放回顾或实际公布的未来复刻日期。"
+    }
+  ],
+  "additionalOfficialSources": [
+    {
+      "url": "https://ak.hypergryph.com/news/0701",
+      "finding": "泡影苍霆为2026年6月限时联动，不能据此推定常驻开放。"
+    },
+    {
+      "url": "https://ak.hypergryph.com/news/2823",
+      "finding": "落叶逐火复刻预告只表明限时复刻；最新回顾表及常驻表未开放常驻。"
+    }
+  ]
+}
