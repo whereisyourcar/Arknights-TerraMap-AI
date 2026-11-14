@@ -73,7 +73,7 @@ traditional = {key: converter.convert(key) for key in source}
 traditional.update({s:s for s in ['简体中文','繁體中文','English','日本語'] if s in source})
 (DEST / 'zh-TW.json').write_text(json.dumps(traditional, ensure_ascii=False, indent=2) + '\n')
 metadata = {
-    'checked': '2026-11-12', 'sourceCount': len(source),
+    'checked': '2026-11-13', 'sourceCount': len(source),
     'method': 'Editorial English/Japanese translations, official names and story titles aligned by stable game IDs; OpenCC s2twp for Traditional Chinese.',
     'sources': [f.name for f in files],
     'runtime': 'Checked-in static dictionaries. No external translation requests. Visitor nicknames and messages retain their original language.',

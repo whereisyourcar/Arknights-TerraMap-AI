@@ -386,7 +386,10 @@
     "发布失败，请保留内容并稍后重试。": "Posting failed. Keep your message and try again later.",
     "留言已发布，谢谢你的分享！": "Message posted. Thanks for sharing!",
     "未能确认发布结果，请先刷新留言列表，避免重复发布。": "We could not confirm whether your message was posted. Refresh the list before trying again to avoid a duplicate.",
-    "TERRA / GUESTBOOK": "TERRA / GUESTBOOK"
+    "TERRA / GUESTBOOK": "TERRA / GUESTBOOK",
+    "当前头像": "Selected avatar",
+    "将随你的留言一起显示。": "This avatar will appear beside your message.",
+    "AI绘制的同人头像，非游戏官方素材。": "AI-drawn fan avatars, not official game artwork."
   },
   "ja": {
     "档案说明": "資料について",
@@ -775,6 +778,9 @@
     "发布失败，请保留内容并稍后重试。": "投稿できませんでした。内容を残したまま、しばらくしてから再度お試しください。",
     "留言已发布，谢谢你的分享！": "投稿しました。メッセージをありがとうございます！",
     "未能确认发布结果，请先刷新留言列表，避免重复发布。": "投稿結果を確認できませんでした。重複投稿を避けるため、先に一覧を更新してください。",
-    "TERRA / GUESTBOOK": "テラ / メッセージボード"
+    "TERRA / GUESTBOOK": "テラ / メッセージボード",
+    "当前头像": "選択中のアバター",
+    "将随你的留言一起显示。": "メッセージと一緒に表示されます。",
+    "AI绘制的同人头像，非游戏官方素材。": "AIで描いたファンアートのアバターです。ゲームの公式素材ではありません。"
   }
 }

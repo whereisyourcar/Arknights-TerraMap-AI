@@ -1,4 +1,7 @@
-"""Original vector fan illustrations, constructed from authored shapes, without game image pixels."""
+"""Legacy v0.9 vector drafts. Current avatars are illustrated WebP files;
+see prepare-guestbook-avatars.cjs and material/guestbook-art-v2 instead.
+This script only regenerates the archived SVGs, not the current artwork.
+"""
 from pathlib import Path
 P=Path(__file__).resolve().parent.parent/'dist/assets/guestbook'
 characters=[

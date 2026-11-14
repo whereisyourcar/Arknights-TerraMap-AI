@@ -1,7 +1,7 @@
 {
-  "checked": "2026-11-12T13:33:45.524Z",
+  "checked": "2026-11-14T04:28:43.340Z",
   "source": "dist/locales/source.json",
-  "totalSourceStrings": 4669,
+  "totalSourceStrings": 4671,
   "locales": {
     "en": {
       "file": "dist/locales/en.json",

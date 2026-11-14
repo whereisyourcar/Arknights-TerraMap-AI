@@ -1,8 +1,13 @@
 {
   "created": "2026-11-11",
-  "method": "Original vector shapes authored for this site; no game image pixels, sprite sheets, or third-party fan art were copied.",
+  "updated": "2026-11-13",
+  "method": "Individually generated chibi fan illustrations using the built-in image_gen tool. Existing game portraits were supplied as character-identity references; the approved Amiya illustration was the style reference for the other nine portraits. WebP exports resize the complete artwork without cropping its silhouette.",
   "characters": ["阿米娅", "凯尔希", "陈", "德克萨斯", "能天使", "斯卡蒂", "银灰", "史尔特尔", "艾雅法拉", "W"],
   "selection": "A curated set of familiar characters, not an official popularity ranking.",
   "rights": "Unofficial fan illustrations. The underlying characters and associated rights belong to their respective owners. Original drawing does not imply a license from the game rights holder or a guarantee of no infringement.",
-  "generator": "scripts/build-guestbook-avatars.py"
+  "generator": "Built-in image_gen; recorded prompts in material/guestbook-art-v2/prompts.json",
+  "originals": "material/guestbook-art-v2/avatar-*.png",
+  "webAssets": "dist/assets/guestbook/avatar-*.webp (512 px, transparent)",
+  "exporter": "scripts/prepare-guestbook-avatars.cjs",
+  "legacy": "The initial SVG drafts remain archived but are no longer selected by the guestbook."
 }

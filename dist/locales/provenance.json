@@ -1,6 +1,6 @@
 {
-  "checked": "2026-11-12",
-  "sourceCount": 4669,
+  "checked": "2026-11-13",
+  "sourceCount": 4671,
   "method": "Editorial English/Japanese translations, official names and story titles aligned by stable game IDs; OpenCC s2twp for Traditional Chinese.",
   "sources": [
     "manual-bios-1.json",
